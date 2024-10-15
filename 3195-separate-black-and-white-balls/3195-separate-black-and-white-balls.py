@@ -1,5 +1,9 @@
-class Solution:
-    def minimumSteps(self, s: str) -> int:
+class Solution(object):
+    def minimumSteps(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
         res, swaps = 0, 0
         for ch in s:
             if ch == '1':
