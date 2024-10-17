@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0521-longest-uncommon-subsequence-i](https://github.com/anuj2001310/Leetcode-/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1304-longest-happy-string](https://github.com/anuj2001310/Leetcode-/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/anuj2001310/Leetcode-/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
