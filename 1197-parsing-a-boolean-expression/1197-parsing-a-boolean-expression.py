@@ -1,9 +1,5 @@
-class Solution(object):
-    def parseBoolExpr(self, expression):
-        """
-        :type expression: str
-        :rtype: bool
-        """
+class Solution:
+    def parseBoolExpr(self, expression: str) -> bool:
         stack = []
         for curr in expression:
             if curr == ',' or curr == '(':
