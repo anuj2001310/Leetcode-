@@ -1,5 +1,9 @@
-class Solution:
-    def maxUniqueSplit(self, s: str) -> int:
+class Solution(object):
+    def maxUniqueSplit(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
         N = len(s)
         self.ans = 0
         seen = set()
