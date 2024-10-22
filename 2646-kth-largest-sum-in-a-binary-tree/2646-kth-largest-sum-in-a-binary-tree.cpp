@@ -30,11 +30,15 @@ public:
             }
             sums.push_back(sum);
         }
+
         if (k > sums.size())
             return -1;
+
         sort(sums.begin(), sums.end());
+
         while (--k)
             sums.pop_back();
+            
         return sums.back();
     }
 };
