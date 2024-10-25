@@ -1,9 +1,5 @@
-class Solution(object):
-    def removeSubfolders(self, folder):
-        """
-        :type folder: List[str]
-        :rtype: List[str]
-        """
+class Solution:
+    def removeSubfolders(self, folder: List[str]) -> List[str]:
         n = len(folder)
         folder.sort()
         list = []
