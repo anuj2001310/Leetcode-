@@ -12,7 +12,6 @@ public:
 
             if (currfolder.find(lastfolder) != 0)
                 ans.push_back(currfolder);
-            
         }
         return ans;
     }
