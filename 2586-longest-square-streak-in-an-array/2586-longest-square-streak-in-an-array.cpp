@@ -8,7 +8,7 @@ public:
 
         for (int i = 0; i < n; i++) {
             dp[nums[i]] = 1;
-            mx = max(mx, nums[i]);
+            mx = fmax(mx, nums[i]);
         }
 
         int ans = -1;
@@ -17,7 +17,7 @@ public:
             if (dp[i] && (int)sqrt(i) * (int)sqrt(i) == i) {
                 dp[i] = dp[i] + dp[(int)sqrt(i)];
                 ans = max(ans, dp[i]);
-                //cout << i << endl;
+                // cout << i << endl;
             }
         }
 
