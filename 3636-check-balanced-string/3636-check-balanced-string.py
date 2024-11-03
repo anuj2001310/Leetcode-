@@ -1,11 +1,7 @@
-class Solution:
-    def isBalanced(self, num: str) -> bool:
-        e, o = 0, 0
-        for i in range(len(num)):
-            dig = ord(num[i]) - ord('0')
-            if i & 1:
-                e += dig
-            else:
-                o += dig
-        
-        return e == o
+class Solution(object):
+    def isBalanced(self, num):
+        """
+        :type num: str
+        :rtype: bool
+        """
+        return sum(int(num[i]) for i in range(len(num)) if i & 1) == sum(int(num[i]) for i in range(len(num)) if i & 1 == 0)
