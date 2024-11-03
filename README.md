@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0521-longest-uncommon-subsequence-i](https://github.com/anuj2001310/Leetcode-/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0812-rotate-string](https://github.com/anuj2001310/Leetcode-/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/anuj2001310/Leetcode-/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/anuj2001310/Leetcode-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/anuj2001310/Leetcode-/tree/master/1304-longest-happy-string) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anuj2001310/Leetcode-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/anuj2001310/Leetcode-/tree/master/2586-longest-square-streak-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/anuj2001310/Leetcode-/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
