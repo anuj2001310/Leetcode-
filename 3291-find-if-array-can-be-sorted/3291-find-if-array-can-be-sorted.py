@@ -1,5 +1,9 @@
-class Solution:
-    def canSortArray(self, nums: List[int]) -> bool:
+class Solution(object):
+    def canSortArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
         l = 0
         h = nums[0]
         bit = False
