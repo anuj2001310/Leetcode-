@@ -3,7 +3,7 @@ int largestCombination(int* candidates, int candidatesSize) {
     int ans = INT_MIN;
 
     void dp(int n) {
-        for (int i = 0; i < 31; ++i) {
+        for (int i = 0; i < 24; ++i) {
             int mask = 1 << i;
             if (mask & n)
                 arr[i]++;
