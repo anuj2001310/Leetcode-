@@ -1,11 +1,12 @@
 class Solution {
-    class pair {
-        int first;
-        int second;
-
-        pair(int first, int second) {
-            this.first = first;
-            this.second = second;
+    void dfs(int r, int c, int[][] image, int[][] ans, int n, int m, int initial, int color) {
+        ans[r][c] = color;
+        for (int i = 0; i < dirs.length; ++i) {
+            int nr = r + dirs[i][0];
+            int nc = c + dirs[i][1];
+            if (nr >= 0 && nr < n && nc >= 0 && nc < m && image[nr][nc] == initial && ans[nr][nc] != color) {
+                dfs(nr, nc, image, ans, n, m, initial, color);
+            }
         }
     }
 
@@ -17,23 +18,7 @@ class Solution {
         int initial = image[sr][sc];
 
         int[][] ans = image;
-        Queue<pair> q = new LinkedList<>();
-        q.add(new pair(sr, sc));
-        ans[sr][sc] = color;
-
-        while (!q.isEmpty()) {
-            int r = q.peek().first;
-            int c = q.peek().second;
-            q.poll();
-            for (int i = 0; i < dirs.length; ++i) {
-                int nr = r + dirs[i][0];
-                int nc = c + dirs[i][1];
-                if (nr >= 0 && nr < n && nc >= 0 && nc < m && image[nr][nc] == initial && ans[nr][nc] != color) {
-                    ans[nr][nc] = color;
-                    q.add(new pair(nr, nc));
-                }
-            }
-        }
+        dfs(sr, sc, image, ans, n, m, initial, color);
 
         return ans;
     }
