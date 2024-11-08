@@ -1,0 +1,26 @@
+class Solution(object):
+    def floodFill(self, image, sr, sc, color):
+        """
+        :type image: List[List[int]]
+        :type sr: int
+        :type sc: int
+        :type color: int
+        :rtype: List[List[int]]
+        """
+        dirs = [[-1, 0], [0, 1], [1, 0], [0, -1]]
+        n = len(image)
+        m = len(image[0])
+
+        initial = image[sr][sc]
+        ans = image
+        def dfs(r, c, image, ans):
+            ans[r][c] = color
+            for i in range(len(dirs)):
+                nr = r + dirs[i][0]
+                nc = c + dirs[i][1]
+                if nr >= 0 and nr < n and nc >= 0 and nc < m and image[nr][nc] == initial and ans[nr][nc] != color:
+                    dfs(nr, nc, image, ans)
+        
+
+        dfs(sr, sc, image, ans)
+        return ans
