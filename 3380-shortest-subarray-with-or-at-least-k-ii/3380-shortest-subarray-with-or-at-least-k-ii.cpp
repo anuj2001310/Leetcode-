@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minimumSubarrayLength(vector<int>& nums, int k) {
-         int n = nums.size();
+        int n = nums.size();
         int res = 1e9;
         int l = 0, r = 0;
         vector<int> mark(32, 0);
