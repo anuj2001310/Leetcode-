@@ -1,7 +1,3 @@
-class Solution(object):
-    def findNumbers(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def findNumbers(self, nums: List[int]) -> int:
         return sum(1 for num in nums if (len(str(num)) & 1) == 0)
