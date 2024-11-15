@@ -1,17 +1,13 @@
-class Solution(object):
-    def areNumbersAscending(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        words = s.split()
-        res = []
-        for w in words:
-            if w[0] > '0' and w[0] <= '9':
-                res.append(int(w))
+class Solution:
+    def areNumbersAscending(self, s: str) -> bool:
+        previous = -1
+        s = s.split()
         
-        for i in range(1, len(res)):
-            if res[i] <= res[i - 1]:
-                return False
-            
+        for i in s:
+            if i.isdigit():
+                current = int(i)
+                if current <= previous:
+                    return False
+                previous = current
+
         return True
