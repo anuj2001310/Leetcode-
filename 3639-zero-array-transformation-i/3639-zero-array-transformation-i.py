@@ -1,10 +1,5 @@
-class Solution(object):
-    def isZeroArray(self, nums, queries):
-        """
-        :type nums: List[int]
-        :type queries: List[List[int]]
-        :rtype: bool
-        """
+class Solution:
+    def isZeroArray(self, nums: List[int], queries: List[List[int]]) -> bool:
         n = len(nums)
         res = [0] * (n + 1)
         for q in queries:
