@@ -1,9 +1,19 @@
-class Solution(object):
-    def findMissingAndRepeatedValues(self, grid):
-        """
-        :type grid: List[List[int]]
-        :rtype: List[int]
-        """
-        c = Counter(x for r in grid for x in r)
-        d = {c[i]: i for i in range(1, len(grid) ** 2 + 1)}
-        return [d[2], d[0]]
+class Solution:
+    def findMissingAndRepeatedValues(self, grid: List[List[int]]) -> List[int]:
+        row = len(grid)
+        col = len(grid[0])
+        list = [-1] * ((row * col) + 1) 
+        for x in grid:
+            for y in x:
+                list[y] += 1
+        ans = []
+        for i in range(1, len(list) + 1):
+            if list[i] == 1:
+                ans.append(i)
+                break
+        
+        for i in range(1, len(list) + 1):
+            if list[i] == -1:
+                ans.append(i)
+                break
+        return ans
