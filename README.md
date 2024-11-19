@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anuj2001310/Leetcode-/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/anuj2001310/Leetcode-/tree/master/0670-maximum-swap) |
+| [1013-fibonacci-number](https://github.com/anuj2001310/Leetcode-/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anuj2001310/Leetcode-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2716-prime-subtraction-operation](https://github.com/anuj2001310/Leetcode-/tree/master/2716-prime-subtraction-operation) |
 | [3227-find-missing-and-repeated-values](https://github.com/anuj2001310/Leetcode-/tree/master/3227-find-missing-and-repeated-values) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/anuj2001310/Leetcode-/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/anuj2001310/Leetcode-/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anuj2001310/Leetcode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/anuj2001310/Leetcode-/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anuj2001310/Leetcode-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anuj2001310/Leetcode-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/anuj2001310/Leetcode-/tree/master/2554-minimum-total-distance-traveled) |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/anuj2001310/Leetcode-/tree/master/0191-number-of-1-bits) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anuj2001310/Leetcode-/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
