@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anuj2001310/Leetcode-/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/anuj2001310/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/anuj2001310/Leetcode-/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anuj2001310/Leetcode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/anuj2001310/Leetcode-/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
