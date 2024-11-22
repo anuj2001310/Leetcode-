@@ -1,5 +1,10 @@
-class Solution:
-    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+class Solution(object):
+    def combinationSum(self, candidates, target):
+        """
+        :type candidates: List[int]
+        :type target: int
+        :rtype: List[List[int]]
+        """
         res = []
         def find(idx, arr, t, ds):
             if idx == len(arr):
