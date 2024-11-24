@@ -13,7 +13,7 @@ func maxMatrixSum(matrix [][]int) int64 {
         }
     }
     
-    if cnt % 2 != 0 {
+    if cnt & 1 != 0 {
         return sum - 2 * int64(min)
     }
     
