@@ -1,11 +1,12 @@
-int idx(int r, int c) { return r * 3 + c; }
+int idx(int r, int c) { 
+    return r * 3 + c;
+}
 
 inline int setb(int val, int b, int bit_val) {
-    if (((val >> b) & 1) != bit_val) {
+    if (((val >> b) & 1) != bit_val)
         return val ^ (1 << b);
-    } else {
+    else 
         return val;
-    }
 }
 int set_b(int board, int idx, int val) {
     board = setb(board, idx * 3, val & 1);
@@ -42,9 +43,7 @@ void bfs() {
     b = set_b(b, 5, 0);
 
     q.push(b);
-
     dist[b] = 0;
-
     while (q.size() > 0) {
         b = q.front();
         q.pop();
@@ -61,7 +60,7 @@ void bfs() {
                                     int valxy = get(b, idx(x, y));
                                     int newb = set_b(b, idx(r, c), valxy);
                                     newb = set_b(newb, idx(x, y), 0);
-
+                                    
                                     auto itr = dist.find(newb);
                                     if (itr == dist.end()) {
                                         dist[newb] = d + 1;
