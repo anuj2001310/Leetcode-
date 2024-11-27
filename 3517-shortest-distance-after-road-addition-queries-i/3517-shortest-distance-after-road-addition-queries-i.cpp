@@ -102,7 +102,8 @@ public:
 class Solution {
 private:
     int bfs(int start, int end, const umivi& graph, int n) {
-            if (start == end) return 0;
+        if (start == end)
+            return 0;
 
         qi q;
         umii distances;
@@ -127,14 +128,13 @@ private:
 
         return -1; // If there's no path
     }
+
 public:
-    vector<int> shortestDistanceAfterQueries(int n, vector<vector<int>>& queries) {
+    vector<int> shortestDistanceAfterQueries(int n,  vector<vector<int>>& queries) {
         umivi graph;
-    
+
         // Initialize the graph with direct edges from i to i+1
-        Rep(i, n - 1) {
-            graph[i].pb(i + 1);
-        }
+        Rep(i, n - 1) graph[i].pb(i + 1);
 
         vi result;
         for (const auto& query : queries) {
