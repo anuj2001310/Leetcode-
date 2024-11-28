@@ -1,11 +1,5 @@
-import heapq
-
 class Solution:
-    def minimumObstacles(self, grid):
-        """
-        :type grid: List[List[int]]
-        :rtype: int
-        """
+    def minimumObstacles(self, grid: List[List[int]]) -> int:
         m, n = len(grid), len(grid[0])
 
         # Directions: up, right, down, left
@@ -41,6 +35,3 @@ class Solution:
 
         # The result at the bottom-right corner
         return res[m - 1][n - 1]
-
-        
-        
