@@ -13,12 +13,11 @@ void dfs(int r, int c, int** grid, bool** vis, int n, int m) {
 
 int closedIsland(int** grid, int gridSize, int* gridColSize) {
     int n = gridSize, m = (*gridColSize);
-    bool** vis = (bool**)malloc(sizeof(bool*) * n);
-    for (int i = 0; i < n; ++i) {
-        vis[i] = (bool*)malloc(sizeof(bool) * m);
-        for (int j = 0; j < m; ++j)
-            vis[i][j] = false;
-    }
+
+    bool** vis = (bool**)calloc(sizeof(bool*), n);
+    
+    for (int i = 0; i < n; ++i) 
+        vis[i] = (bool*)calloc(sizeof(bool), m);
 
     for (int i = 0; i < n; ++i) {
         for (int j = 0; j < m; ++j) {
