@@ -1,9 +1,5 @@
-class Solution(object):
-    def closedIsland(self, grid):
-        """
-        :type grid: List[List[int]]
-        :rtype: int
-        """
+class Solution:
+    def closedIsland(self, grid: List[List[int]]) -> int:
         dirs = [[-1, 0], [0, 1], [1, 0], [0, -1]]
         n, m = len(grid), len(grid[0])
         vis = [[False for _ in range(m)] for _ in range(n)]
