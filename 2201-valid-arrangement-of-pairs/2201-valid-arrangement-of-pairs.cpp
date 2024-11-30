@@ -42,9 +42,9 @@ public:
         int size = route.size();
         result.reserve(size - 1);
 
-        for (int i = size - 1; i > 0; --i)
+        for (int i = size - 1; i > 0; --i) {
             result.push_back({route[i], route[i - 1]});
-
+        }
 
         return result;
     }
