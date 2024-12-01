@@ -2,23 +2,14 @@
 #include <stdio.h>
 
 bool checkIfExist(int* arr, int arrSize) {
-    int* record = (int*)calloc(2001, sizeof(int));
-    int cnt = 0;
-    for (cnt = 0; cnt < arrSize; cnt++) {
-        record[arr[cnt] + 1000] += 1;
-    }
-    for (cnt = 0; cnt < arrSize; cnt++) {
-        if (arr[cnt] == 0) {
-            if (record[1000] > 1) {
-                return 1;
-            }
-        } else if (abs(arr[cnt]) <= 500) {
-            if (record[arr[cnt] * 2 + 1000]) {
-                free(record);
-                return 1;
+    int i, j;
+    for (i = 0; i < arrSize; i++) {
+        for (j = i + 1; j < arrSize; j++) {
+            if (arr[i] == 2 * arr[j] ||
+                (arr[j] % 2 == 0 && arr[i] == arr[j] / 2)) {
+                return true;
             }
         }
     }
-    free(record);
-    return 0;
+    return false;
 }
