@@ -1,11 +1,12 @@
-class Solution:
-    def checkIfExist(self, arr: List[int]) -> bool:
+class Solution(object):
+    def checkIfExist(self, arr):
+        """
+        :type arr: List[int]
+        :rtype: bool
+        """
         n = len(arr)
-        dict = {}
         for i in range(n):
-            comp, res = arr[i] * 2, arr[i] / 2
-            if comp in dict or res in dict:
-                return True
-            else:
-                dict[arr[i]] = dict.get(arr[i], 0) + 1
+            for j in range(i + 1, n):
+                if arr[i] == 2 * arr[j] or arr[j] == 2 * arr[i]:
+                    return True
         return False
