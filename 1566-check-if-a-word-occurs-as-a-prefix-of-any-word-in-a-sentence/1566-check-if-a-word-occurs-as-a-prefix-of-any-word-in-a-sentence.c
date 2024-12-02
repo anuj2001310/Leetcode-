@@ -29,6 +29,7 @@ int isPrefixOfWord(char* sentence, char* searchWord) {
     for (int i = 0; sentence[i]; ++i) {
         if (sentence[i] == ' ') {
             words[idx++] = h->str;
+            free(h);
             h = init(100);
         } else
             h->str[h->size++] = sentence[i];
