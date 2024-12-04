@@ -1,9 +1,5 @@
-class Solution(object):
-    def findCircleNum(self, isConnected):
-        """
-        :type isConnected: List[List[int]]
-        :rtype: int
-        """
+class Solution:
+    def findCircleNum(self, isConnected: List[List[int]]) -> int:
         adj = {}
         V = len(isConnected)
         for i in range(V):
