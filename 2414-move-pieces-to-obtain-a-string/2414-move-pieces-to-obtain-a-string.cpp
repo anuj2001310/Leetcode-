@@ -5,7 +5,7 @@ public:
         if (n != m)
             return false;
 
-        while (i < n || j < m) {
+        while (i < n or j < m) {
             while (i < n && s[i] == '_')
                 i++;
             while (j < m && t[j] == '_')
