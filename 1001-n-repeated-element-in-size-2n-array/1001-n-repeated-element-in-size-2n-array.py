@@ -1,12 +1,8 @@
-class Solution(object):
-    def repeatedNTimes(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        res = []
+class Solution:
+    def repeatedNTimes(self, nums: List[int]) -> int:
+        seen = set()
         for num in nums:
-            if num in res:
+            if num in seen:
                 return num
-            else:
-                res.append(num)
+            seen.add(num)
+        
