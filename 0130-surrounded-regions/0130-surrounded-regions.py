@@ -1,8 +1,7 @@
-class Solution(object):
-    def solve(self, board):
+class Solution:
+    def solve(self, board: List[List[str]]) -> None:
         """
-        :type board: List[List[str]]
-        :rtype: None Do not return anything, modify board in-place instead.
+        Do not return anything, modify board in-place instead.
         """
         dirs = [[-1, 0], [0, 1], [1, 0], [0, -1]]
         n = len(board)
