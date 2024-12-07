@@ -1,10 +1,5 @@
-class Solution(object):
-    def minimumSize(self, nums, maxOperations):
-        """
-        :type nums: List[int]
-        :type maxOperations: int
-        :rtype: int
-        """
+class Solution:
+    def minimumSize(self, nums: List[int], maxOperations: int) -> int:
         l = 1
         r = max(nums)
         def helper(mid):
