@@ -1,9 +1,5 @@
-class Solution(object):
-    def constructTransformedArray(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
+class Solution:
+    def constructTransformedArray(self, nums: List[int]) -> List[int]:
         n = len(nums)
         r = []
         for i in range(n):
