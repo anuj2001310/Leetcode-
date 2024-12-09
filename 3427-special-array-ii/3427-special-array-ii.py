@@ -1,5 +1,10 @@
-class Solution:
-    def isArraySpecial(self, nums: List[int], queries: List[List[int]]) -> List[bool]:
+class Solution(object):
+    def isArraySpecial(self, nums, queries):
+        """
+        :type nums: List[int]
+        :type queries: List[List[int]]
+        :rtype: List[bool]
+        """
         n = len(nums)
     
         if n == 1:
@@ -25,4 +30,3 @@ class Solution:
                 result.append(True)
 
         return result
-    
