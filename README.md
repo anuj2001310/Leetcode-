@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anuj2001310/Leetcode-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anuj2001310/Leetcode-/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/anuj2001310/Leetcode-/tree/master/3227-find-missing-and-repeated-values) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/anuj2001310/Leetcode-/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Heap (Priority Queue)
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/anuj2001310/Leetcode-/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anuj2001310/Leetcode-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/anuj2001310/Leetcode-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anuj2001310/Leetcode-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/anuj2001310/Leetcode-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anuj2001310/Leetcode-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/anuj2001310/Leetcode-/tree/master/3195-separate-black-and-white-balls) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/anuj2001310/Leetcode-/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3379-score-of-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/anuj2001310/Leetcode-/tree/master/3451-string-compression-iii) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/anuj2001310/Leetcode-/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anuj2001310/Leetcode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3427-special-array-ii) |
 ## String Matching
 |  |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anuj2001310/Leetcode-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Union Find
 |  |
 | ------- |
