@@ -1,10 +1,5 @@
-class Solution(object):
-    def maximumBeauty(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: int
-        """
+class Solution:
+    def maximumBeauty(self, nums: List[int], k: int) -> int:
         nums.sort()
         d = 2 * k
         l = 0
