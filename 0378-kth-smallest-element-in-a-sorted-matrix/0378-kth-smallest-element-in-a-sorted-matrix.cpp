@@ -16,7 +16,7 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
         vector<vector<bool>> vis(n, vector<bool>(m, false));
-        priority_queue < pipii, vector<pipii>, Compare> pq;
+        priority_queue<pipii, vector<pipii>, Compare> pq;
 
         vis[0][0] = true;
         pq.push({matrix[0][0], {0, 0}});
