@@ -2,7 +2,6 @@ typedef pair<int, int> pii;
 typedef pair<int, pii> pipii;
 
 class Solution {
-/*
 private:
     struct Compare {
         bool operator()(pipii x, pipii y) {
@@ -11,13 +10,13 @@ private:
             return false;
         }
     };
-*/
+
 public:
     int kthSmallest(vector<vector<int>>& matrix, int k) {
         int n = matrix.size();
         int m = matrix[0].size();
         vector<vector<bool>> vis(n, vector<bool>(m, false));
-        priority_queue<pipii, vector<pipii>, greater<pipii>> pq;
+        priority_queue < pipii, vector<pipii>, Compare> pq;
 
         vis[0][0] = true;
         pq.push({matrix[0][0], {0, 0}});
