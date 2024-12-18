@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuj2001310/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anuj2001310/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/anuj2001310/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuj2001310/Leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/anuj2001310/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuj2001310/Leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/anuj2001310/Leetcode-/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/anuj2001310/Leetcode-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuj2001310/Leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anuj2001310/Leetcode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/anuj2001310/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuj2001310/Leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anuj2001310/Leetcode-/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/anuj2001310/Leetcode-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anuj2001310/Leetcode-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -420,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/anuj2001310/Leetcode-/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Memoization
 |  |
 | ------- |
@@ -446,4 +452,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/2868-continuous-subarrays) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
