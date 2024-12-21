@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0563-binary-tree-tilt](https://github.com/anuj2001310/Leetcode-/tree/master/0563-binary-tree-tilt) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anuj2001310/Leetcode-/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anuj2001310/Leetcode-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0563-binary-tree-tilt](https://github.com/anuj2001310/Leetcode-/tree/master/0563-binary-tree-tilt) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anuj2001310/Leetcode-/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anuj2001310/Leetcode-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/anuj2001310/Leetcode-/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/anuj2001310/Leetcode-/tree/master/0547-number-of-provinces) |
+| [0563-binary-tree-tilt](https://github.com/anuj2001310/Leetcode-/tree/master/0563-binary-tree-tilt) |
 | [0695-max-area-of-island](https://github.com/anuj2001310/Leetcode-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anuj2001310/Leetcode-/tree/master/0988-flip-equivalent-binary-trees) |
