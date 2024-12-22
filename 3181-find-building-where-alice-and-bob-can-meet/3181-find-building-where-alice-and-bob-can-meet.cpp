@@ -1,51 +1,40 @@
-typedef pair<int, int> pii;
-typedef vector<int> vi;
-typedef vector<pii> vpii;
-typedef vector<vpii> vvpii;
-
 class Solution {
-    vpii st;
-
 public:
-    vector<int> leftmostBuildingQueries(vector<int>& hs,  vector<vector<int>>& qs) {
-        int n = qs.size();
-        vi ans(n, -1);
-        vvpii es(hs.size());
-        for (int i = 0; i < n; i++) {
-            int x = qs[i][0];
-            int y = qs[i][1];
-            if (x > y)
-                swap(x, y);
-            if (hs[y] > hs[x] || x == y)
-                ans[i] = y;
-            else
-                es[y].push_back({hs[x], i});
-        }
-        auto search = [&](int x) -> int {
-            int l = 0;
-            int r = st.size() - 1;
-            int ans = -1;
-            while (l <= r) {
-                int m = (l + r) / 2;
-                if (st[m].first > x) {
-                    ans = max(ans, m);
-                    l = m + 1;
-                } else
-                    r = m - 1;
+    vector<int> leftmostBuildingQueries(vector<int>& heights,
+                                        vector<vector<int>>& queries) {
+        vector<vector<vector<int>>> storeQueries(heights.size());
+        priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>>
+            maxIndex;
+        vector<int> result(queries.size(), -1);
+
+        // Store the mappings for all queries in storeQueries.
+        for (int currQuery = 0; currQuery < queries.size(); currQuery++) {
+            int a = queries[currQuery][0], b = queries[currQuery][1];
+            if (a < b && heights[a] < heights[b]) {
+                result[currQuery] = b;
+            } else if (a > b && heights[a] > heights[b]) {
+                result[currQuery] = a;
+            } else if (a == b) {
+                result[currQuery] = a;
+            } else {
+                storeQueries[max(a, b)].push_back(
+                    {max(heights[a], heights[b]), currQuery});
             }
-            return ans;
-        };
-        for (int i = hs.size() - 1; i >= 0; i--) {
-            int n1 = st.size();
-            for (auto& [x, y] : es[i]) {
-                int p = search(x);
-                if (p < n1 and p >= 0)
-                    ans[y] = st[p].second;
-            }
-            while (!st.empty() && st.back().first <= hs[i])
-                st.pop_back();
-            st.push_back({hs[i], i});
         }
-        return ans;
+
+        for (int index = 0; index < heights.size(); index++) {
+            // If the priority queue's minimum pair value is less than the
+            // current index of height, it is an answer to the query.
+            while (!maxIndex.empty() && maxIndex.top()[0] < heights[index]) {
+                result[maxIndex.top()[1]] = index;
+                maxIndex.pop();
+            }
+            // Push the with their maximum index as the current index in the
+            // priority queue.
+            for (auto& element : storeQueries[index]) {
+                maxIndex.push(element);
+            }
+        }
+        return result;
     }
 };
