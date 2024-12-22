@@ -1,51 +1,69 @@
-typedef pair<int, int> pii;
-typedef vector<int> vi;
-typedef vector<pii> vpii;
-typedef vector<vpii> vvpii;
-
 class Solution {
-    vpii st;
+    vector<int> segTree;
+    
+    void buildSegTree(vector<int>& heights, int s, int e, int s_idx) {
+        if (s == e) {
+            segTree[s_idx] = s;
+            return;
+        }
+        int m = s + ((e - s) >> 1);
+        buildSegTree(heights, s, m, 2 * s_idx);
+        buildSegTree(heights, m + 1, e, 2 * s_idx + 1);
+        segTree[s_idx] =
+            heights[segTree[2 * s_idx]] >= heights[segTree[2 * s_idx + 1]]
+                ? segTree[2 * s_idx]
+                : segTree[2 * s_idx + 1];
+    }
+
+    int rangeQuery(vector<int>& heights, int qs, int qe, int s, int e,
+                   int s_idx = 1) {
+        if (s >= qs and e <= qe)
+            return segTree[s_idx];
+
+        if (s > qe or e < qs)
+            return INT_MIN;
+        int m = s + ((e - s) >> 1);
+        int left = rangeQuery(heights, qs, qe, s, m, 2 * s_idx);
+        int right = rangeQuery(heights, qs, qe, m + 1, e, 2 * s_idx + 1);
+        if (left == INT_MIN)
+            return right;
+        if (right == INT_MIN)
+            return left;
+        return heights[left] >= heights[right] ? left : right;
+    }
 
 public:
-    vector<int> leftmostBuildingQueries(vector<int>& hs,  vector<vector<int>>& qs) {
-        int n = qs.size();
-        vi ans(n, -1);
-        vvpii es(hs.size());
-        for (int i = 0; i < n; i++) {
-            int x = qs[i][0];
-            int y = qs[i][1];
-            if (x > y)
-                swap(x, y);
-            if (hs[y] > hs[x] || x == y)
-                ans[i] = y;
-            else
-                es[y].push_back({hs[x], i});
-        }
-        auto search = [&](int x) -> int {
-            int l = 0;
-            int r = st.size() - 1;
-            int ans = -1;
-            while (l <= r) {
-                int m = (l + r) / 2;
-                if (st[m].first > x) {
-                    ans = max(ans, m);
-                    l = m + 1;
+    vector<int> leftmostBuildingQueries(vector<int>& heights, vector<vector<int>>& queries) {
+        int n = heights.size();
+        segTree = vector<int>(4 * n + 1);
+        int s_idx = 1;
+        buildSegTree(heights, 0, n - 1, s_idx);
+        vector<int> res;
+        for (auto& q : queries) {
+            auto alice = fmin(q[0], q[1]);
+            auto bob = fmax(q[0], q[1]);
+            if (alice == bob or heights[bob] > heights[alice]) {
+                res.push_back(bob);
+                continue;
+            }
+
+            int l = bob;
+            int h = n - 1;
+            int ans = INT_MAX;
+            while (l <= h) {
+                int m = l + ((h - l) >> 1);
+                int r = rangeQuery(heights, l, m, 0, n - 1, s_idx);
+                if (heights[r] > heights[alice]) {
+                    h = m - 1;
+                    ans = fmin(ans, r);
                 } else
-                    r = m - 1;
+                    l = m + 1;
             }
-            return ans;
-        };
-        for (int i = hs.size() - 1; i >= 0; i--) {
-            int n1 = st.size();
-            for (auto& [x, y] : es[i]) {
-                int p = search(x);
-                if (p < n1 and p >= 0)
-                    ans[y] = st[p].second;
-            }
-            while (!st.empty() && st.back().first <= hs[i])
-                st.pop_back();
-            st.push_back({hs[i], i});
+            if (ans == INT_MAX)
+                res.push_back(-1);
+            else
+                res.push_back(ans);
         }
-        return ans;
+        return res;
     }
 };
