@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/anuj2001310/Leetcode-/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuj2001310/Leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0695-max-area-of-island](https://github.com/anuj2001310/Leetcode-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0064-minimum-path-sum) |
+| [0494-target-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/anuj2001310/Leetcode-/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/anuj2001310/Leetcode-/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anuj2001310/Leetcode-/tree/master/1402-count-square-submatrices-with-all-ones) |
