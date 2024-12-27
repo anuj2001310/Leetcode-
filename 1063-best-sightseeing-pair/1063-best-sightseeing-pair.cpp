@@ -14,7 +14,7 @@ private:
 public:
     int maxScoreSightseeingPair(vector<int>& values) {
         int n = values.size();
-        
+
         vector<int> dp(n + 1, -1);
         memo(n - 1, values, dp);
 
