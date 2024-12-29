@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/anuj2001310/Leetcode-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/anuj2001310/Leetcode-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anuj2001310/Leetcode-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/anuj2001310/Leetcode-/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anuj2001310/Leetcode-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/anuj2001310/Leetcode-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anuj2001310/Leetcode-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anuj2001310/Leetcode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anuj2001310/Leetcode-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/anuj2001310/Leetcode-/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/anuj2001310/Leetcode-/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/2232-adding-spaces-to-a-string) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/anuj2001310/Leetcode-/tree/master/1063-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/anuj2001310/Leetcode-/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anuj2001310/Leetcode-/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anuj2001310/Leetcode-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anuj2001310/Leetcode-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/anuj2001310/Leetcode-/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/anuj2001310/Leetcode-/tree/master/2554-minimum-total-distance-traveled) |
