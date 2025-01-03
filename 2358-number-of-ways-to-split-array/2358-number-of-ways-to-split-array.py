@@ -1,9 +1,5 @@
-class Solution(object):
-    def waysToSplitArray(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def waysToSplitArray(self, nums: List[int]) -> int:
         n = len(nums)
         rsum, lsum = sum(nums), 0
         cnt = 0
@@ -15,4 +11,3 @@ class Solution(object):
                 cnt += 1
             
         return cnt
-        
