@@ -1,10 +1,5 @@
-class Solution(object):
-    def shiftingLetters(self, s, shifts):
-        """
-        :type s: str
-        :type shifts: List[List[int]]
-        :rtype: str
-        """
+class Solution:
+    def shiftingLetters(self, s: str, shifts: List[List[int]]) -> str:
         n = len(s)
         prefix = [0] * (n + 1)
 
