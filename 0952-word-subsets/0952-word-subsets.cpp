@@ -1,32 +1,32 @@
 class Solution {
-public:
-    bool help(int f[], int mf[]) {
-        for (int i = 0; i < 26; i++) {
+private:
+    bool helper(int f[], int mf[]) {
+        for (uint i = 0; i < 26; i++) {
             if (f[i] < mf[i])
                 return false;
         }
         return true;
     }
+    
+public:
     vector<string> wordSubsets(vector<string>& words1, vector<string>& words2) {
         vector<string> ans;
-        int mf[26] = {0};
-        for (string word : words2) {
-            int f[26] = {0};
-            for (char s : word) 
-                f[s - 'a'] += 1;
-        
-            for (int i = 0; i < 26; i++)
-                mf[i] = max(mf[i], f[i]);
-        }
-
-        for (string word : words1) {
-            int f[26] = {0};
-            for (char s : word)
-                f[s - 'a'] += 1;
+        int mf[26] = {};
+        for (auto& word : words2) {
+            int f[26] = {};
+            for (auto& s : word)
+                f[s - 'a']++;
             
-            if (help(f, mf)) 
+            for (int i = 0; i < 26; ++i)
+                mf[i] = fmax(mf[i], f[i]);
+            
+        }
+        for (auto& word : words1) {
+            int f[26] = {};
+            for (auto& s : word)
+                f[s - 'a']++;
+            if (helper(f, mf))
                 ans.push_back(word);
-                
         }
         return ans;
     }
