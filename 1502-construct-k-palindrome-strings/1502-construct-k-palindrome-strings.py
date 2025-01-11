@@ -1,16 +1,20 @@
-class Solution:
-    def canConstruct(self, s: str, k: int) -> bool:
+class Solution(object):
+    def canConstruct(self, s, k):
+        """
+        :type s: str
+        :type k: int
+        :rtype: bool
+        """
         n = len(s)
         if n < k:
             return False
-        
-        cnt = 0
+            
+        c = 0
         freq = Counter(s)
-
-        for key, val in freq.items():
-            if val & 1:
-                cnt += 1
+        for u, v in freq.items():
+            if v & 1:
+                c += 1
         
-        if cnt > k:
+        if c > k:
             return False
         return True
