@@ -1,7 +1,11 @@
-class Solution:
-    def maximumAmount(self, coins: List[List[int]]) -> int:
+class Solution(object):
+    def maximumAmount(self, coins):
+        """
+        :type coins: List[List[int]]
+        :rtype: int
+        """
         n, m = len(coins), len(coins[0])
-        f = [[[-inf] * 4 for _ in range(m)] for _ in range(n)]
+        f = [[[float('-inf')] * 4 for _ in range(m)] for _ in range(n)]
         f[0][0][2] = coins[0][0]
         f[0][0][1] = 0
         for i in range(1, n):
