@@ -10,8 +10,8 @@ func minimumLength(s string) int {
             freq[s[i] - 'a'] -= 2
         }
     }
-    for i := 0; i < 26; i++ {
-        ans += freq[i]
+    for _, num := range freq {
+        ans += num
     }
     return ans
 }
