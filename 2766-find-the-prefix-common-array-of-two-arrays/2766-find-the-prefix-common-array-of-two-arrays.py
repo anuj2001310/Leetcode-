@@ -1,10 +1,5 @@
-class Solution(object):
-    def findThePrefixCommonArray(self, A, B):
-        """
-        :type A: List[int]
-        :type B: List[int]
-        :rtype: List[int]
-        """
+class Solution:
+    def findThePrefixCommonArray(self, A: List[int], B: List[int]) -> List[int]:
         n = len(A)
 
         res = []
