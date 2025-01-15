@@ -1,5 +1,10 @@
-class Solution:
-    def minimizeXor(self, num1: int, num2: int) -> int:
+class Solution(object):
+    def minimizeXor(self, num1, num2):
+        """
+        :type num1: int
+        :type num2: int
+        :rtype: int
+        """
         bc = bin(num2).count('1')
         bc -= bin(num1).count('1')
         cur = 1
