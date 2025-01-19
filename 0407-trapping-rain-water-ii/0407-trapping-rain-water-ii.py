@@ -1,5 +1,9 @@
-class Solution:
-    def trapRainWater(self, mat: List[List[int]]) -> int:
+class Solution(object):
+    def trapRainWater(self, mat):
+        """
+        :type heightMap: List[List[int]]
+        :rtype: int
+        """
         dirs = [[-1, 0], [0, 1], [1, 0], [0, -1]]
         n, m = len(mat), len(mat[0])
         minHeap = []
