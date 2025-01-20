@@ -1,10 +1,5 @@
-class Solution(object):
-    def firstCompleteIndex(self, arr, mat):
-        """
-        :type arr: List[int]
-        :type mat: List[List[int]]
-        :rtype: int
-        """
+class Solution:
+    def firstCompleteIndex(self, arr: List[int], mat: List[List[int]]) -> int:
         n, m = len(mat), len(mat[0])
         temp = [[] for _ in range(n * m + 1)]
         for i in range(n):
