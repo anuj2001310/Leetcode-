@@ -1,5 +1,9 @@
-class Solution:
-    def countServers(self, grid: List[List[int]]) -> int:
+class Solution(object):
+    def countServers(self, grid):
+        """
+        :type grid: List[List[int]]
+        :rtype: int
+        """
         if not grid:
             return 0
 
