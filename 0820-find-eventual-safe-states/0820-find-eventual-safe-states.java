@@ -1,35 +1,47 @@
 class Solution {
-    boolean[] isSafe;
-    int[] visited;
 
-    public boolean dfs(int node, int[][] graph) {
-        visited[node] = 2;
-        boolean isPossible = true;
-        for (int child : graph[node]) {
-            if (visited[child] == 0)
-                dfs(child, graph);
-            
-            if (visited[child] == 2)
-                return false;
-            
+    public boolean dfs(
+        int node,
+        int[][] adj,
+        boolean[] visit,
+        boolean[] inStack
+    ) {
+        // If the node is already in the stack, we have a cycle.
+        if (inStack[node]) {
+            return true;
         }
-        visited[node] = 1;
-        return true;
+        if (visit[node]) {
+            return false;
+        }
+        // Mark the current node as visited and part of current recursion stack.
+        visit[node] = true;
+        inStack[node] = true;
+        for (int neighbor : adj[node]) {
+            if (dfs(neighbor, adj, visit, inStack)) {
+                return true;
+            }
+        }
+        // Remove the node from the stack.
+        inStack[node] = false;
+        return false;
     }
 
     public List<Integer> eventualSafeNodes(int[][] graph) {
         int n = graph.length;
-        isSafe = new boolean[n];
-        visited = new int[n];
-        List<Integer> ans = new ArrayList<>();
+        boolean[] visit = new boolean[n];
+        boolean[] inStack = new boolean[n];
 
         for (int i = 0; i < n; i++) {
-            if (visited[i] == 0)
-                dfs(i, graph);
-            
-            if (visited[i] == 1)
-                ans.add(i);
+            dfs(i, graph, visit, inStack);
         }
-        return ans;
+
+        List<Integer> safeNodes = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            if (!inStack[i]) {
+                safeNodes.add(i);
+            }
+        }
+
+        return safeNodes;
     }
 }
