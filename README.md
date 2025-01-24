@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/anuj2001310/Leetcode-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/anuj2001310/Leetcode-/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/anuj2001310/Leetcode-/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/anuj2001310/Leetcode-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anuj2001310/Leetcode-/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/anuj2001310/Leetcode-/tree/master/1117-as-far-from-land-as-possible) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/anuj2001310/Leetcode-/tree/master/0563-binary-tree-tilt) |
 | [0695-max-area-of-island](https://github.com/anuj2001310/Leetcode-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/anuj2001310/Leetcode-/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anuj2001310/Leetcode-/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/anuj2001310/Leetcode-/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anuj2001310/Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/anuj2001310/Leetcode-/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/anuj2001310/Leetcode-/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anuj2001310/Leetcode-/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2201-valid-arrangement-of-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/2201-valid-arrangement-of-pairs) |
@@ -611,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anuj2001310/Leetcode-/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/anuj2001310/Leetcode-/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
