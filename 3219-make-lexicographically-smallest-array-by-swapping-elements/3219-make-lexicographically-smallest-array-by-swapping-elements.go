@@ -20,14 +20,14 @@ func lexicographicallySmallestArray(nums []int, limit int) []int {
     })
 
     res := make([]int, n)
-    pos := []int{}
+    pos := [] int{}
 
     s, e := 0, 0
     for e < n {
         pos = append(pos, help[e].index)
         e++
 
-        if e == n || help[e].value-help[e-1].value > limit {
+        if e == n || help[e].value - help[e - 1].value > limit {
             sort.Ints(pos)
             for _, idx := range pos {
                 res[idx] = help[s].value
