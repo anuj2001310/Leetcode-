@@ -1,9 +1,5 @@
-class Solution(object):
-    def countPartitions(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def countPartitions(self, nums: List[int]) -> int:
         s = sum(nums)
         left, cnt = 0, 0
         for i in range(len(nums) - 1):
