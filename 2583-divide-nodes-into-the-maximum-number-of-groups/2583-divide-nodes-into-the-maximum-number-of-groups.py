@@ -1,10 +1,5 @@
-class Solution(object):
-    def magnificentSets(self, n, edges):
-        """
-        :type n: int
-        :type edges: List[List[int]]
-        :rtype: int
-        """
+class Solution:
+    def magnificentSets(self, n: int, edges: List[List[int]]) -> int:
         graph = [[] for _ in range(n + 1)]
         for u, v in edges:
             graph[u].append(v)
@@ -30,7 +25,7 @@ class Solution(object):
 
         # We'll store components
         components = []
-        for i in range(1, n+1):
+        for i in range(1, n + 1):
             if color[i] == -1:
                 is_bip, comp_nodes = bfs_check_bipartite(i)
                 if not is_bip:
@@ -39,7 +34,7 @@ class Solution(object):
 
         # Function to run BFS restricted to a component's nodes and return max distance
         def max_bfs_distance_from_node(start, comp_set):
-            dist = {start:0}
+            dist = {start : 0}
             q = deque([start])
             visited = {start}
             max_dist = 0
