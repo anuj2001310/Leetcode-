@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/anuj2001310/Leetcode-/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/anuj2001310/Leetcode-/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/anuj2001310/Leetcode-/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anuj2001310/Leetcode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0952-word-subsets) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/anuj2001310/Leetcode-/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/anuj2001310/Leetcode-/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/anuj2001310/Leetcode-/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/anuj2001310/Leetcode-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anuj2001310/Leetcode-/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/anuj2001310/Leetcode-/tree/master/1117-as-far-from-land-as-possible) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/anuj2001310/Leetcode-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/anuj2001310/Leetcode-/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/anuj2001310/Leetcode-/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anuj2001310/Leetcode-/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/anuj2001310/Leetcode-/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anuj2001310/Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/anuj2001310/Leetcode-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/anuj2001310/Leetcode-/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/anuj2001310/Leetcode-/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/anuj2001310/Leetcode-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anuj2001310/Leetcode-/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/anuj2001310/Leetcode-/tree/master/1117-as-far-from-land-as-possible) |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anuj2001310/Leetcode-/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anuj2001310/Leetcode-/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/anuj2001310/Leetcode-/tree/master/0695-max-area-of-island) |
+| [0854-making-a-large-island](https://github.com/anuj2001310/Leetcode-/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/anuj2001310/Leetcode-/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/anuj2001310/Leetcode-/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/anuj2001310/Leetcode-/tree/master/1396-count-servers-that-communicate) |
