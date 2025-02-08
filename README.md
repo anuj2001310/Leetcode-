@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/anuj2001310/Leetcode-/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anuj2001310/Leetcode-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anuj2001310/Leetcode-/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anuj2001310/Leetcode-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/anuj2001310/Leetcode-/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anuj2001310/Leetcode-/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anuj2001310/Leetcode-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/anuj2001310/Leetcode-/tree/master/2486-most-frequent-even-element) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anuj2001310/Leetcode-/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anuj2001310/Leetcode-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Union Find
 |  |
 | ------- |
