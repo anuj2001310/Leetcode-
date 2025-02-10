@@ -1,9 +1,5 @@
-class Solution(object):
-    def clearDigits(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
+class Solution:
+    def clearDigits(self, s: str) -> str:
         stack = []
         for char in s:
             if not char.isdigit():
