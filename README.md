@@ -716,4 +716,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1477-product-of-the-last-k-numbers) |
+## Database
+|  |
+| ------- |
+| [3816-dna-pattern-recognition](https://github.com/anuj2001310/Leetcode-/tree/master/3816-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
