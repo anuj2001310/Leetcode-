@@ -2,7 +2,9 @@ typedef vector<int> vi;
 typedef pair<int, vi> pivi;
 class Solution {
 private:
-    int distance(int x, int y) { return pow(x, 2) + pow(y, 2); }
+    int distance(int x, int y) { 
+        return pow(x, 2) + pow(y, 2);
+    }
 
 public:
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
