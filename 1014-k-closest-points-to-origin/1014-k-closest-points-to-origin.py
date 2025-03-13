@@ -1,19 +1,13 @@
-import heapq
-class Solution(object):
-    def kClosest(self, points, k):
-        """
-        :type points: List[List[int]]
-        :type k: int
-        :rtype: List[List[int]]
-        """
-        def distance(x, y):
+class Solution:
+    def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
+        def dist(x : int, y : int) -> int:
             return x * x + y * y
-
+        
         pq = []
         
         for point in points:
             x, y = point
-            dis = distance(x, y)
+            dis = dist(x, y)
             heapq.heappush(pq, (dis, point))
         
         ans = []
