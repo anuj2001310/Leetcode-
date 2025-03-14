@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/anuj2001310/Leetcode-/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/anuj2001310/Leetcode-/tree/master/1117-as-far-from-land-as-possible) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/anuj2001310/Leetcode-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/anuj2001310/Leetcode-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anuj2001310/Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/anuj2001310/Leetcode-/tree/master/1364-tuple-with-same-product) |
 | [1380-number-of-closed-islands](https://github.com/anuj2001310/Leetcode-/tree/master/1380-number-of-closed-islands) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anuj2001310/Leetcode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/anuj2001310/Leetcode-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anuj2001310/Leetcode-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anuj2001310/Leetcode-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
