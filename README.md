@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/anuj2001310/Leetcode-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/anuj2001310/Leetcode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anuj2001310/Leetcode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3625-stone-removal-game](https://github.com/anuj2001310/Leetcode-/tree/master/3625-stone-removal-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anuj2001310/Leetcode-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/anuj2001310/Leetcode-/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anuj2001310/Leetcode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3625-stone-removal-game](https://github.com/anuj2001310/Leetcode-/tree/master/3625-stone-removal-game) |
 ## Stack
 |  |
 | ------- |
