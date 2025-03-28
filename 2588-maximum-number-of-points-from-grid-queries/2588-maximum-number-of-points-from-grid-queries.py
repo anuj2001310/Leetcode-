@@ -1,5 +1,10 @@
-class Solution:
-    def maxPoints(self, grid: List[List[int]], queries: List[int]) -> List[int]:
+class Solution(object):
+    def maxPoints(self, grid, queries):
+        """
+        :type grid: List[List[int]]
+        :type queries: List[int]
+        :rtype: List[int]
+        """
         n, m = len(grid), len(grid[0])
         k = len(queries)
         
@@ -31,3 +36,5 @@ class Solution:
             ans[idx] = count
             
         return ans
+
+
