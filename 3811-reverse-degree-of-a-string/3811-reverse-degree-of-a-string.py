@@ -1,3 +1,7 @@
-class Solution:
-    def reverseDegree(self, s: str) -> int:
-        return sum(((26 - (ord(s[i]) - ord('a'))) * (i + 1)) for i in range(len(s)))
+class Solution(object):
+    def reverseDegree(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        return sum((26 - (ord(s[x]) - ord('a'))) * (x + 1) for x in range(len(s)))
