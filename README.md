@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/anuj2001310/Leetcode-/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/anuj2001310/Leetcode-/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/anuj2001310/Leetcode-/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0073-set-matrix-zeroes) |
