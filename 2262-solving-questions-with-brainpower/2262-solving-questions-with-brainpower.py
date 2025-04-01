@@ -1,13 +1,9 @@
-class Solution(object):
-    def mostPoints(self, questions):
-        """
-        :type questions: List[List[int]]
-        :rtype: int
-        """
+class Solution:
+    def mostPoints(self, questions: List[List[int]]) -> int:
         n = len(questions)
-        dp = [-1 for _ in range(n + 1)]
+        dp = [-1] * (n + 1)
 
-        def memo(idx):
+        def memo(idx: int) -> int:
             if idx >= n:
                 return 0
             if dp[idx] != -1:
