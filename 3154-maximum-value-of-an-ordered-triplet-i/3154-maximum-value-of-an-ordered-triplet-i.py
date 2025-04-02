@@ -1,9 +1,5 @@
-class Solution(object):
-    def maximumTripletValue(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def maximumTripletValue(self, nums: List[int]) -> int:
         n = len(nums)
         ans = dmax = imax = 0
         for i in range(n):
