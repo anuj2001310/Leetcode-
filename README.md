@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anuj2001310/Leetcode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj2001310/Leetcode-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/anuj2001310/Leetcode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/anuj2001310/Leetcode-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anuj2001310/Leetcode-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anuj2001310/Leetcode-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
