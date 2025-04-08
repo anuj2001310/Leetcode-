@@ -1,13 +1,11 @@
-class Solution(object):
-    def minimumOperations(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def minimumOperations(self, nums: List[int]) -> int:
         n = len(nums)
-        seen = [False] * 128
+        freq = [False for _ in range(128)]
+
         for i in range(n - 1, -1, -1):
-            if seen[nums[i]]:
+            if freq[nums[i]]:
                 return i // 3 + 1
-            seen[nums[i]] = True
+            freq[nums[i]] = True
+        
         return 0
