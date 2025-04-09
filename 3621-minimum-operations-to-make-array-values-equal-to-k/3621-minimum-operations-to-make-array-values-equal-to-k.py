@@ -1,5 +1,10 @@
-class Solution:
-    def minOperations(self, nums: List[int], k: int) -> int:
+class Solution(object):
+    def minOperations(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
         n = len(nums)
         vis = [0] * 101
         for num in nums:
@@ -8,4 +13,4 @@ class Solution:
             elif num > k:
                 vis[num] += 1
         
-        return sum(1 for v in vis if v)
+        return sum(1 for v in vis if v != 0)
