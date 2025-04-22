@@ -1,67 +1,78 @@
+const int mod = 1e9 + 7, N = 10015;
+bitset<101> sieve = 0;
+array<int, 25> prime;
+static constexpr void sieve100() {
+    if (sieve[0])
+        return;
+    sieve[0] = sieve[1] = 1;
+    int sz = 0;
+    for (int p = 2; p < 10; p++) {
+        if (!sieve[p]) {
+            prime[sz++] = p;
+            for (int j = p * p; j < 100; j += p)
+                sieve[j] = 1;
+        }
+    }
+    for (int i = 11; i < 100; i += 2)
+        if (!sieve[i])
+            prime[sz++] = i;
+}
+
+int C[N][15] = {{0}};
+
+static constexpr void Pascal() {
+    if (C[0][0] == 1)
+        return;
+    C[0][0] = 1;
+    for (int i = 1; i < N; i++) {
+        C[i][0] = 1;
+        int i0 = min(14, i);
+        for (int j = 1; j <= i0; j++) {
+            C[i][j] = C[i - 1][j - 1] + C[i - 1][j];
+            if (C[i][j] >= mod)
+                C[i][j] -= mod;
+        }
+    }
+}
+
+static constexpr long long factor(int x, const int n) {
+
+    if (x <= 1)
+        return 1;
+    long long cnt = 1;
+    if (x < 100 && !sieve[x])
+        return n;
+
+    int x0 = x, x_sqrt = sqrt(x);
+    int pz = 0;
+    for (int p : prime) {
+        if (p > x_sqrt)
+            break;
+        if (x0 % p != 0)
+            continue;
+        int exp = 0;
+        while (x0 % p == 0) {
+            exp++;
+            x0 /= p;
+        }
+        cnt *= C[n - 1 + exp][exp];
+        cnt %= mod;
+    }
+    if (x0 > 1) {
+        cnt = (cnt * n) % mod;
+    }
+    return cnt;
+}
+
 class Solution {
 public:
-    int MOD = 1e9 + 7;
-    unordered_map<int, int> primeFactors(int n) {
-        unordered_map<int, int> cnts;
-        while (n % 2 == 0) {
-            cnts[2]++;
-            n = n / 2;
-        }
-        for (int i = 3; i * i <= n; i = i + 2) {
-            while (n % i == 0) {
-                cnts[i]++;
-                n = n / i;
-            }
-        }
-        if (n > 2)
-            cnts[n]++;
-        return cnts;
-    }
-    long long mod_pow(long long a, long long b) {
-        long long res = 1;
-        a %= MOD;
-        while (b) {
-            if (b & 1)
-                res = res * a % MOD;
-            a = a * a % MOD;
-            b >>= 1;
-        }
-        return res;
-    }
-
-    long long mod_inv(long long a) { return mod_pow(a, MOD - 2); }
-
-    long long binomial_coefficient(int n, int k) {
-        if (k < 0 || k > n)
-            return 0;
-        if (k == 0 || k == n)
-            return 1;
-
-        long long num = 1;
-        long long den = 1;
-
-        for (int i = 1; i <= k; i++) {
-            num = num * (n - i + 1) % MOD;
-            den = den * i % MOD;
-        }
-
-        return num * mod_inv(den) % MOD;
-    }
-    int idealArrays(int n, int maxValue) {
-        int ans = 0;
-        for (int i = 1; i <= maxValue; i++) {
-            unordered_map<int, int> cnts = primeFactors(i);
-            long long amt = 1;
-            for (pair<int, int> a : cnts) {
-                int factor = a.first, cnt = a.second;
-                if (cnt == 1) {
-                    amt = (amt * n) % MOD;
-                    continue;
-                }
-                long long ncr = binomial_coefficient(n + (cnt - 1), cnt);
-                amt = (amt * ncr) % MOD;
-            }
-            ans = (amt + ans) % MOD;
+    static int idealArrays(int n, int maxValue) {
+        sieve100();
+        Pascal();
+        long long ans = 0;
+        for (int x = 1; x <= maxValue; x++) {
+            const long long ways = factor(x, n);
+            ans = (ans + ways) % mod;
         }
         return ans;
     }
