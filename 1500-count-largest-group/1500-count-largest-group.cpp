@@ -1,26 +1,17 @@
 class Solution {
 public:
     int countLargestGroup(int n) {
-        vector<int> sums(37);
-        for (int i = 1; i <= n; i++)
-            sums[digsum(i)]++;
-
-        auto maxi = 0, count = 0;
-        for (auto& i : sums)
-            if (i > maxi)
-                maxi = i, count = 1;
-            else if (i == maxi)
-                ++count;
-
-        return count;
-    }
-
-    int digsum(int n) {
-        int sum = 0;
-        while (n) {
-            sum += n % 10;
-            n /= 10;
+        vector<int> count(37, 0);
+        for (int i = 1; i <= n; i++) {
+            count[calc_sum(i)]++;
         }
-        return sum;
+        int maxi = *max_element(count.begin(), count.end());
+        int ans = 0;
+        for (auto i : count) {
+            if (i == maxi)
+                ans++;
+        }
+        return ans;
     }
+    int calc_sum(int n) { return n == 0 ? 0 : (n % 10) + calc_sum(n / 10); }
 };
