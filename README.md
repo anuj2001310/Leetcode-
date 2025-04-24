@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/anuj2001310/Leetcode-/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anuj2001310/Leetcode-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/anuj2001310/Leetcode-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1848-sum-of-unique-elements](https://github.com/anuj2001310/Leetcode-/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/anuj2001310/Leetcode-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/anuj2001310/Leetcode-/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anuj2001310/Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/anuj2001310/Leetcode-/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/anuj2001310/Leetcode-/tree/master/1502-construct-k-palindrome-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1848-sum-of-unique-elements](https://github.com/anuj2001310/Leetcode-/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anuj2001310/Leetcode-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anuj2001310/Leetcode-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anuj2001310/Leetcode-/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/anuj2001310/Leetcode-/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/anuj2001310/Leetcode-/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/anuj2001310/Leetcode-/tree/master/1502-construct-k-palindrome-strings) |
+| [1848-sum-of-unique-elements](https://github.com/anuj2001310/Leetcode-/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anuj2001310/Leetcode-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/anuj2001310/Leetcode-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/2308-divide-array-into-equal-pairs) |
