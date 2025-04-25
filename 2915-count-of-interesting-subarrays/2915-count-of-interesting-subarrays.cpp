@@ -1,10 +1,12 @@
+#define ll long long
+using umil = unordered_map<int, ll>;
 class Solution {
 public:
-    long long countInterestingSubarrays(vector<int>& nums, int modulo, int k) {
-        unordered_map<int, long long> map;
+    ll countInterestingSubarrays(vector<int>& nums, int modulo, int k) {
+        umil map;
         map[0] = 1; 
 
-        long long res = 0;
+        ll res = 0;
         int cur = 0; 
 
         for (int& num : nums) {
