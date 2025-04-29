@@ -1,12 +1,7 @@
-class Solution(object):
-    def countSubarrays(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: int
-        """
+class Solution:
+    def countSubarrays(self, nums: List[int], k: int) -> int:
         n = len(nums)
-        ans, l, r, curr = 0, 0, 0, 0
+        r, l, ans, curr = 0, 0, 0, 0
         m = max(nums)
         while r < n:
             curr += 1 if nums[r] == m else 0
