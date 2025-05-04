@@ -1,9 +1,5 @@
-class Solution(object):
-    def numEquivDominoPairs(self, dominoes):
-        """
-        :type dominoes: List[List[int]]
-        :rtype: int
-        """
+class Solution:
+    def numEquivDominoPairs(self, dominoes: List[List[int]]) -> int:
         hash = [0] * 100
         cnt = 0
         for d in dominoes:
