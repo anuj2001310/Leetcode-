@@ -1,9 +1,5 @@
-class Solution(object):
-    def buildArray(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
+class Solution:
+    def buildArray(self, nums: List[int]) -> List[int]:
         n = len(nums)
         ans = [0] * n
         for i in range(n):
