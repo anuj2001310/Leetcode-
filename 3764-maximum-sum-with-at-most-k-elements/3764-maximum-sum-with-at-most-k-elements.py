@@ -1,22 +1,25 @@
-from heapq import heappop, heappush, heapify
-
-class Solution:
-    def maxSum(self, grid: List[List[int]], limits: List[int], k: int) -> int:
-        maxheap = []
-        heapq.heapify(maxheap)
-
-        n, m = len(grid), len(grid[0])
+#j
+class Solution(object):
+    def maxSum(self, grid, limits, k):
+        """
+        :type grid: List[List[int]]
+        :type limits: List[int]
+        :type k: int
+        :rtype: int
+        """
+        ans = 0
+        n , m = len(grid), len(grid[0])
+        max_heap = []
+        heapq.heapify(max_heap)
         for i in range(n):
             grid[i].sort(reverse = True)
             j = 0
             while j < m and limits[i]:
-                heapq.heappush(maxheap, -grid[i][j])
-                limits[i] -= 1
+                heapq.heappush(max_heap, -grid[i][j])
                 j += 1
+                limits[i] -= 1
         
-        ans = 0
-
-        while k and maxheap:
-            ans += heapq.heappop(maxheap)
+        while k and max_heap:
+            ans += heapq.heappop(max_heap)
             k -= 1
         return -1 * ans
