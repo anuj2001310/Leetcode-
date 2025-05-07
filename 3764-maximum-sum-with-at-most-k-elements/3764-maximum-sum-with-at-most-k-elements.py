@@ -1,12 +1,5 @@
-#j
-class Solution(object):
-    def maxSum(self, grid, limits, k):
-        """
-        :type grid: List[List[int]]
-        :type limits: List[int]
-        :type k: int
-        :rtype: int
-        """
+class Solution:
+    def maxSum(self, grid: List[List[int]], limits: List[int], k: int) -> int:
         ans = 0
         n , m = len(grid), len(grid[0])
         max_heap = []
