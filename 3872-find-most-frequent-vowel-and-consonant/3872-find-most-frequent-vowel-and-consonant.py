@@ -1,5 +1,9 @@
-class Solution:
-    def maxFreqSum(self, s: str) -> int:
+class Solution(object):
+    def maxFreqSum(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
         n = len(s)
         freq = [0 for _ in range(26)]
         v, c = 0, 0
@@ -7,7 +11,7 @@ class Solution:
             idx = ord(ch) - ord('a')
             freq[idx] += 1
 
-        def isVowel(ch : chr) -> bool:
+        def isVowel(ch):
             return ch == 'a' or ch == 'e' or ch == 'i' or ch == 'o' or ch == 'u'
 
         
