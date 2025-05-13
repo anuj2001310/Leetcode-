@@ -1,10 +1,5 @@
-class Solution(object):
-    def minDeletion(self, s, k):
-        """
-        :type s: str
-        :type k: int
-        :rtype: int
-        """
+class Solution:
+    def minDeletion(self, s: str, k: int) -> int:
         freq = [0 for _ in range(26)]
         dis = 0
         for ch in s:
