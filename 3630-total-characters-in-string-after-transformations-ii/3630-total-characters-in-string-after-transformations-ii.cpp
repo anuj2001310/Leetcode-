@@ -1,84 +1,85 @@
-static constexpr int L = 26;
-static constexpr int mod = 1000000007;
+class Solution {
+public:
+    static constexpr int MOD = 1'000'000'007;
+    static constexpr int ALPHABET_SIZE = 26;
 
-struct Mat {
-    Mat() { memset(a, 0, sizeof(a)); }
-    Mat(const Mat& that) {
-        for (int i = 0; i < L; ++i) {
-            for (int j = 0; j < L; ++j) {
-                a[i][j] = that.a[i][j];
+    using Matrix = array<array<size_t, ALPHABET_SIZE>, ALPHABET_SIZE>;
+
+    static int lengthAfterTransformations(const string& s, const int t, const vector<int>& nums) {
+        array<int, ALPHABET_SIZE> x{};
+        for (const char& c : s)
+            x[c - 'a']++;
+
+        if (t < 500) {
+            for (size_t i = 0; i < t; ++i)
+                x = transform(x, nums);
+            return accumulate(
+                x.begin(), x.end(), 0,
+                [](const size_t a, const size_t b) { return (a + b) % MOD; });
+        }
+
+        Matrix a{};
+        for (size_t i = 0; i < ALPHABET_SIZE; ++i) {
+            for (size_t k = 0; k < nums[i]; ++k) {
+                a[(i + 1 + k) % ALPHABET_SIZE][i] = 1;
             }
         }
+
+        const Matrix b = matrixPower(a, t);
+        array<size_t, ALPHABET_SIZE> y = {0};
+        for (size_t i = 0; i < ALPHABET_SIZE; ++i) {
+            for (size_t j = 0; j < ALPHABET_SIZE; ++j) {
+                y[i] = (y[i] + b[i][j] * x[j]) % MOD;
+            }
+        }
+
+        return accumulate(y.begin(), y.end(), 0, [](const size_t acc, const size_t val) {
+            return (acc + val) % MOD;
+        });
     }
-    Mat& operator=(const Mat& that) {
-        if (this != &that) {
-            for (int i = 0; i < L; ++i) {
-                for (int j = 0; j < L; ++j) {
-                    a[i][j] = that.a[i][j];
+
+private:
+    static array<int, ALPHABET_SIZE>
+    transform(const array<int, ALPHABET_SIZE>& x, const vector<int>& nums) {
+        array<int, ALPHABET_SIZE> y = {};
+
+        for (size_t i = 0; i < ALPHABET_SIZE; ++i) {
+            for (size_t k = 0; k < nums[i]; ++k) {
+                y[(i + 1 + k) % ALPHABET_SIZE] =
+                    (y[(i + 1 + k) % ALPHABET_SIZE] + x[i]) % MOD;
+            }
+        }
+
+        return y;
+    }
+
+    static Matrix matrixMultiply(const Matrix& a, const Matrix& b) {
+        Matrix c{};
+
+        for (size_t i = 0; i < ALPHABET_SIZE; ++i) {
+            for (size_t j = 0; j < ALPHABET_SIZE; ++j) {
+                for (size_t k = 0; k < ALPHABET_SIZE; ++k) {
+                    c[i][j] = (c[i][j] + a[i][k] * b[k][j]) % MOD;
                 }
             }
         }
-        return *this;
+
+        return c;
     }
 
-    int a[L][L];
-};
+    static Matrix matrixPower(const Matrix& a, int t) {
+        Matrix base{a};
+        Matrix result{};
+        for (size_t i = 0; i < ALPHABET_SIZE; ++i)
+            result[i][i] = 1;
 
-Mat operator*(const Mat& u, const Mat& v) {
-    Mat w;
-    for (int i = 0; i < L; ++i) {
-        for (int j = 0; j < L; ++j) {
-            for (int k = 0; k < L; ++k) {
-                w.a[i][j] =
-                    (w.a[i][j] + (long long)u.a[i][k] * v.a[k][j]) % mod;
-            }
+        while (t > 0) {
+            if (t & 1)
+                result = matrixMultiply(result, base);
+            base = matrixMultiply(base, base);
+            t >>= 1;
         }
-    }
-    return w;
-}
 
-// identity matrix
-Mat I() {
-    Mat w;
-    for (int i = 0; i < L; ++i) {
-        w.a[i][i] = 1;
-    }
-    return w;
-}
-
-// matrix exponentiation by squaring
-Mat quickmul(const Mat& x, int y) {
-    Mat ans = I(), cur = x;
-    while (y) {
-        if (y & 1) {
-            ans = ans * cur;
-        }
-        cur = cur * cur;
-        y >>= 1;
-    }
-    return ans;
-}
-
-class Solution {
-public:
-    int lengthAfterTransformations(string s, int t, vector<int>& nums) {
-        Mat T;
-        for (int i = 0; i < 26; ++i) {
-            for (int j = 1; j <= nums[i]; ++j) {
-                T.a[(i + j) % 26][i] = 1;
-            }
-        }
-        Mat res = quickmul(T, t);
-        int ans = 0;
-        vector<int> f(26);
-        for (char ch : s) {
-            ++f[ch - 'a'];
-        }
-        for (int i = 0; i < 26; ++i) {
-            for (int j = 0; j < 26; ++j) {
-                ans = (ans + (long long)res.a[i][j] * f[j]) % mod;
-            }
-        }
-        return ans;
+        return result;
     }
 };
