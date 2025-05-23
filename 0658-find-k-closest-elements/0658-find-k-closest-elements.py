@@ -1,11 +1,5 @@
-class Solution(object):
-    def findClosestElements(self, arr, k, x):
-        """
-        :type arr: List[int]
-        :type k: int
-        :type x: int
-        :rtype: List[int]
-        """
+class Solution:
+    def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]:
         n = len(arr)
         minheap = []
         heapq.heapify(minheap)
