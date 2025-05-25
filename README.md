@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/anuj2001310/Leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2350-find-closest-number-to-zero](https://github.com/anuj2001310/Leetcode-/tree/master/2350-find-closest-number-to-zero) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anuj2001310/Leetcode-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/anuj2001310/Leetcode-/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/anuj2001310/Leetcode-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
