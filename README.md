@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/anuj2001310/Leetcode-/tree/master/1524-string-matching-in-an-array) |
+| [1539-diagonal-traverse-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1539-diagonal-traverse-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/anuj2001310/Leetcode-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1656-count-good-triplets](https://github.com/anuj2001310/Leetcode-/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/anuj2001310/Leetcode-/tree/master/1304-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1539-diagonal-traverse-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1539-diagonal-traverse-ii) |
 | [1753-path-with-minimum-effort](https://github.com/anuj2001310/Leetcode-/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/anuj2001310/Leetcode-/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anuj2001310/Leetcode-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anuj2001310/Leetcode-/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1539-diagonal-traverse-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1539-diagonal-traverse-ii) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anuj2001310/Leetcode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/anuj2001310/Leetcode-/tree/master/2164-two-best-non-overlapping-events) |
