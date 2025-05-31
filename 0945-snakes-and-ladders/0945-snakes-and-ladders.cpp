@@ -16,9 +16,9 @@ public:
             ltor = !ltor;
         }
         queue<int> q;
-        vector<int> vis(n * n + 1, 0);
+        vector<bool> vis(n * n + 1, false);
         q.push(1);
-        vis[1] = 1;
+        vis[1] = true;
         int steps = 0;
 
         while (!q.empty()) {
@@ -35,7 +35,7 @@ public:
                         continue;
                     int dest = moves[next] == -1 ? next : moves[next];
                     if (!vis[dest]) {
-                        vis[dest] = 1;
+                        vis[dest] = true;
                         q.push(dest);
                     }
                 }
