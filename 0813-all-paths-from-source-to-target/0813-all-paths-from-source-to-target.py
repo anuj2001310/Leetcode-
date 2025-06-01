@@ -1,15 +1,11 @@
-class Solution(object):
-    def allPathsSourceTarget(self, graph):
-        """
-        :type graph: List[List[int]]
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
         n = len(graph)
         ans = []
         path = []
         vis = [False for _ in range(n)]
 
-        def dfs (node):
+        def dfs (node : int) -> None:
             vis[node] = True
             path.append(node)
             if node == n - 1:
