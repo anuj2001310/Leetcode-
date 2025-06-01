@@ -663,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0113-path-sum-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anuj2001310/Leetcode-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/anuj2001310/Leetcode-/tree/master/0563-binary-tree-tilt) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/anuj2001310/Leetcode-/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anuj2001310/Leetcode-/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0113-path-sum-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anuj2001310/Leetcode-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/anuj2001310/Leetcode-/tree/master/0563-binary-tree-tilt) |
