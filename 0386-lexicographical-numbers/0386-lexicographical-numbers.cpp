@@ -1,26 +1,23 @@
 class Solution {
 public:
+    vector<int> ans;
+
+    void chk(int cur, int n) {
+        if (cur * 10 > n)
+            return;
+
+        for (int i = cur * 10; i < cur * 10 + 10 && i <= n; i++) {
+            ans.push_back(i);
+            chk(i, n);
+        }
+    }
+
     vector<int> lexicalOrder(int n) {
-        vector<int> lexicographicalNumbers;
-        int currentNumber = 1;
-
-        // Generate numbers from 1 to n
-        for (int i = 0; i < n; ++i) {
-            lexicographicalNumbers.push_back(currentNumber);
-
-            // If multiplying the current number by 10 is within the limit, do
-            // it
-            if (currentNumber * 10 <= n) {
-                currentNumber *= 10;
-            } else {
-                // Adjust the current number by moving up one digit
-                while (currentNumber % 10 == 9 || currentNumber >= n) {
-                    currentNumber /= 10; // Remove the last digit
-                }
-                currentNumber += 1; // Increment the number
-            }
+        for (int i = 1; i <= 9 && i <= n; i++) {
+            ans.push_back(i);
+            chk(i, n);
         }
 
-        return lexicographicalNumbers;
+        return ans;
     }
 };
