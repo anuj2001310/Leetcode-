@@ -771,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/anuj2001310/Leetcode-/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/anuj2001310/Leetcode-/tree/master/0207-course-schedule) |
+| [0386-lexicographical-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anuj2001310/Leetcode-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/anuj2001310/Leetcode-/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/anuj2001310/Leetcode-/tree/master/0563-binary-tree-tilt) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/anuj2001310/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anuj2001310/Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anuj2001310/Leetcode-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
