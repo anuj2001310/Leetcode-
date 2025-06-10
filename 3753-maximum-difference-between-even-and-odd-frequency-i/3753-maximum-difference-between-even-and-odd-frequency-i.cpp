@@ -1,18 +1,17 @@
 class Solution {
 public:
     int maxDifference(string s) {
-        vector<int> freq (26, 0);
-        for (int i = 0; s[i]; ++i)
-            freq[s[i] - 'a']++;
-        int odd = INT_MIN, even = INT_MAX;
-        for (int i = 0; i < 26; i++) {
-            if (freq[i]) {
-                if (freq[i] & 1)
-                    odd = fmax(odd, freq[i]);
-                else
-                    even = fmin(even, freq[i]);
-            }
+        vector<int> arr(26, 0);
+        for (int i = 0; s[i]; i++) {
+            arr[s[i] - 'a']++;
         }
-        return odd - even;
+        int max = INT_MIN, min = INT_MAX;
+        for (int i = 0; i < 26; i++) {
+            if (arr[i] and (arr[i] & 1))
+                max = fmax(max, arr[i]);
+            if (arr[i] and (arr[i] & 1) == 0)
+                min = fmin(min, arr[i]);
+        }
+        return max - min;
     }
 };
