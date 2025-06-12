@@ -1,9 +1,5 @@
-class Solution(object):
-    def maxAdjacentDistance(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def maxAdjacentDistance(self, nums: List[int]) -> int:
         n = len(nums)
         ans = abs(nums[0] - nums[n - 1])
         for i in range(1, n):
