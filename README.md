@@ -1053,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anuj2001310/Leetcode-/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/anuj2001310/Leetcode-/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anuj2001310/Leetcode-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anuj2001310/Leetcode-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/2201-valid-arrangement-of-pairs) |
