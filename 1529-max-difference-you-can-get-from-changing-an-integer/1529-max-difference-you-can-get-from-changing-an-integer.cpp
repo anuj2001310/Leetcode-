@@ -1,38 +1,65 @@
 class Solution {
 public:
     int maxDiff(int num) {
-        auto replace = [&](string& s, char x, char y) {
-            for (char& digit : s) {
-                if (digit == x) {
-                    digit = y;
-                }
-            }
-        };
 
-        string min_num = to_string(num);
-        string max_num = to_string(num);
-        for (char digit : max_num) {
-            if (digit != '9') {
-                replace(max_num, digit, '9');
+        string t = to_string(num);
+        // cout<<t;
+        char c;
+
+        bool f = false;
+
+        for (int i = 0; i < t.size(); i++) {
+
+            if (t[i] == '9')
+                continue;
+
+            c = t[i];
+            break;
+        }
+        // cout<<t;
+        string p = to_string(num);
+
+        for (int i = 0; i < t.size(); i++) {
+            if (t[i] == c)
+                t[i] = '9';
+        }
+
+        // cout<<t<<" ";
+
+        char c1 = p[0];
+        for (int i = 0; i < t.size(); i++) {
+            if (c1 == p[i]) {
+                if (p[i] == '1')
+                    continue;
+                p[i] = '1';
+                f = true;
+            }
+        }
+        if (f) {
+            int p1 = stoi(p);
+            int p2 = stoi(t);
+
+            cout << p1;
+            return p2 - p1;
+        }
+        // char c=
+
+        char c3;
+        // char c
+
+        for (int i = 0; i < p.size(); i++) {
+            if (p[i] != '0' && i != 0 && p[i]!=p[0]) {
+                c3 = p[i];
                 break;
             }
         }
-
-        for (int i = 0; i < min_num.size(); ++i) {
-            auto digit = min_num[i];
-            if (i == 0) {
-                if (digit != '1') {
-                    replace(min_num, digit, '1');
-                    break;
-                }
-            } else {
-                if (digit != '0' && digit != min_num[0]) {
-                    replace(min_num, digit, '0');
-                    break;
-                }
-            }
+        for (int i = 0; i < p.size(); i++) {
+            if (c3 == p[i] && i!=0)
+                p[i] = '0';
         }
 
-        return stoi(max_num) - stoi(min_num);
+        //cout << p;
+
+        return stoi(t) - stoi(p);
     }
 };
