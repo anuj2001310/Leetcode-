@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/anuj2001310/Leetcode-/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/anuj2001310/Leetcode-/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anuj2001310/Leetcode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/anuj2001310/Leetcode-/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/anuj2001310/Leetcode-/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/anuj2001310/Leetcode-/tree/master/2164-two-best-non-overlapping-events) |
