@@ -1,9 +1,5 @@
-class Solution(object):
-    def specialTriplets(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def specialTriplets(self, nums: List[int]) -> int:
         MOD = 10 ** 9 + 7
         n = len(nums)
 
