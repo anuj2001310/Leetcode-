@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/anuj2001310/Leetcode-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anuj2001310/Leetcode-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/anuj2001310/Leetcode-/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/anuj2001310/Leetcode-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/anuj2001310/Leetcode-/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anuj2001310/Leetcode-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anuj2001310/Leetcode-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/anuj2001310/Leetcode-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/anuj2001310/Leetcode-/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/anuj2001310/Leetcode-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/anuj2001310/Leetcode-/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anuj2001310/Leetcode-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/anuj2001310/Leetcode-/tree/master/3647-zero-array-transformation-iii) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anuj2001310/Leetcode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj2001310/Leetcode-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anuj2001310/Leetcode-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/anuj2001310/Leetcode-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/anuj2001310/Leetcode-/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/anuj2001310/Leetcode-/tree/master/3321-type-of-triangle) |
