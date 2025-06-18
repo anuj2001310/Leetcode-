@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anuj2001310/Leetcode-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/anuj2001310/Leetcode-/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/anuj2001310/Leetcode-/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/anuj2001310/Leetcode-/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/anuj2001310/Leetcode-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/anuj2001310/Leetcode-/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/anuj2001310/Leetcode-/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj2001310/Leetcode-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anuj2001310/Leetcode-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/anuj2001310/Leetcode-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
