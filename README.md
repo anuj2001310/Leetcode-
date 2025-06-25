@@ -1185,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/anuj2001310/Leetcode-/tree/master/0175-combine-two-tables) |
 | [3816-dna-pattern-recognition](https://github.com/anuj2001310/Leetcode-/tree/master/3816-dna-pattern-recognition) |
 ## Geometry
 |  |
