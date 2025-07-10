@@ -2,38 +2,39 @@ class Solution {
 public:
     int maxFreeTime(int eventTime, vector<int>& startTime,
                     vector<int>& endTime) {
-        multiset<int> gapsize;
-        vector<pair<int, int>> v;
-        for (int i = 0; i < startTime.size(); i++) {
-            v.push_back({startTime[i], endTime[i]});
-        }
-        sort(v.begin(), v.end());
-        gapsize.insert(v[0].first - 0);
-        int n = v.size();
-        gapsize.insert(eventTime - v[n - 1].second);
-        int ans = 0;
-        for (int i = 1; i < v.size(); i++) {
-            gapsize.insert(v[i].first - v[i - 1].second);
-        }
-        for (int i = 0; i < v.size(); i++) {
-            int leftgap = (i == 0) ? v[i].first : v[i].first - v[i - 1].second;
-            int rightgap = (i == n - 1) ? eventTime - v[i].second
-                                        : v[i + 1].first - v[i].second;
-            int duration = v[i].second - v[i].first;
+        int n = startTime.size(), gap = 0, res = 0;
 
-            gapsize.erase(gapsize.find(leftgap));
-            gapsize.erase(gapsize.find(rightgap));
+        for (int i = 0; i < n; i++) {
+            int left, right;
+            left = (i == 0) ? 0 : endTime[i - 1];
+            right = (i == n - 1) ? eventTime : startTime[i + 1];
 
-            if (!gapsize.empty() && *gapsize.rbegin() >= duration) {
-                ans = max(ans, duration + leftgap + rightgap);
-            }
+            if (gap >= endTime[i] - startTime[i]) {
+                res = max(res, right - left);
+            } else
+                res = max(res, right - left - (endTime[i] - startTime[i]));
 
-            ans = max(ans, rightgap + leftgap);
-
-            gapsize.insert(leftgap);
-            gapsize.insert(rightgap);
+            int currGap =
+                (i == 0) ? startTime[i] : startTime[i] - endTime[i - 1];
+            gap = max(gap, currGap);
         }
 
-        return ans;
+        gap = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            int left, right;
+            left = (i == 0) ? 0 : endTime[i - 1];
+            right = (i == n - 1) ? eventTime : startTime[i + 1];
+
+            if (gap >= endTime[i] - startTime[i]) {
+                res = max(res, right - left);
+            } else
+                res = max(res, right - left - (endTime[i] - startTime[i]));
+
+            int currGap = (i == n - 1) ? eventTime - endTime[i]
+                                       : startTime[i + 1] - endTime[i];
+            gap = max(gap, currGap);
+        }
+
+        return res;
     }
 };
