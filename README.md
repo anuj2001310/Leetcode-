@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/anuj2001310/Leetcode-/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/anuj2001310/Leetcode-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3379-score-of-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/anuj2001310/Leetcode-/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anuj2001310/Leetcode-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/anuj2001310/Leetcode-/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/anuj2001310/Leetcode-/tree/master/3451-string-compression-iii) |
