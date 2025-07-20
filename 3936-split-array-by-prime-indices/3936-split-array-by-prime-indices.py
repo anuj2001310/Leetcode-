@@ -1,10 +1,6 @@
-class Solution(object):
-    def splitArray(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        def isPrime(num):
+class Solution:
+    def splitArray(self, nums: List[int]) -> int:
+        def isPrime(num : int) -> bool:
             if num <= 1:
                 return False
             for i in range(2, int(num ** 0.5) + 1):
