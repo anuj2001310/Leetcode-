@@ -72,9 +72,8 @@ public:
         root = new Trie();
 
         // 1. Build Trie
-        for (auto& path : paths) {
+        for (auto& path : paths)
             AddToTrie(path);
-        }
 
         dfsSerialize(root);
 
