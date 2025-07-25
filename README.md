@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anuj2001310/Leetcode-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anuj2001310/Leetcode-/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/anuj2001310/Leetcode-/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anuj2001310/Leetcode-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3819-count-covered-buildings](https://github.com/anuj2001310/Leetcode-/tree/master/3819-count-covered-buildings) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anuj2001310/Leetcode-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/anuj2001310/Leetcode-/tree/master/3849-equal-sum-grid-partition-i) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-calculate-score-after-performing-instructions](https://github.com/anuj2001310/Leetcode-/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anuj2001310/Leetcode-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anuj2001310/Leetcode-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anuj2001310/Leetcode-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3819-count-covered-buildings](https://github.com/anuj2001310/Leetcode-/tree/master/3819-count-covered-buildings) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anuj2001310/Leetcode-/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anuj2001310/Leetcode-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/anuj2001310/Leetcode-/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anuj2001310/Leetcode-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anuj2001310/Leetcode-/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
 |  |
