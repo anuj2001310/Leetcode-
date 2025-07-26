@@ -27,9 +27,8 @@ class Solution {
                 b2 = Math.min(b2, bMin1[i]);
             }
             res += Math.min(bMin1[ib1], n + 1) - i;
-            delCount[ib1] +=
-                Math.min(Math.min(b2, bMin2[ib1]), n + 1) -
-                Math.min(bMin1[ib1], n + 1);
+            delCount[ib1] += Math.min(Math.min(b2, bMin2[ib1]), n + 1) -
+                    Math.min(bMin1[ib1], n + 1);
         }
         long max = 0;
         for (long val : delCount) {
