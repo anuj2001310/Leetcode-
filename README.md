@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/anuj2001310/Leetcode-/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anuj2001310/Leetcode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/anuj2001310/Leetcode-/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0952-word-subsets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/anuj2001310/Leetcode-/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/anuj2001310/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/anuj2001310/Leetcode-/tree/master/0389-find-the-difference) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1940-maximum-xor-for-each-query](https://github.com/anuj2001310/Leetcode-/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anuj2001310/Leetcode-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anuj2001310/Leetcode-/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/anuj2001310/Leetcode-/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/anuj2001310/Leetcode-/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/anuj2001310/Leetcode-/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/anuj2001310/Leetcode-/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/anuj2001310/Leetcode-/tree/master/1063-best-sightseeing-pair) |
