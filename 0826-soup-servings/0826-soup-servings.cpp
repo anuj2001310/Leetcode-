@@ -1,28 +1,37 @@
+#define db double
 class Solution {
 public:
-    double soupServings(int n) {
-        int m = ceil(n / 25.0);
-        unordered_map<int, unordered_map<int, double>> dp;
+    db dp[193][193];
 
-        function<double(int, int)> calculateDP = [&](int i, int j) -> double {
-            return (dp[max(0, i - 4)][j] + dp[max(0, i - 3)][j - 1] +
-                    dp[max(0, i - 2)][max(0, j - 2)] +
-                    dp[i - 1][max(0, j - 3)]) /
-                   4;
-        };
-
-        dp[0][0] = 0.5;
-        for (int k = 1; k <= m; k++) {
-            dp[0][k] = 1;
-            dp[k][0] = 0;
-            for (int j = 1; j <= k; j++) {
-                dp[j][k] = calculateDP(j, k);
-                dp[k][j] = calculateDP(k, j);
-            }
-            if (dp[k][k] > 1 - 1e-5) {
-                return 1;
-            }
+    db poss(int qA, int qB) {
+        if (qA > 0 && qB <= 0) {
+            return 0;
         }
-        return dp[m][m];
+        if (qA <= 0 && qB > 0) {
+            return 1;
+        }
+        if (qA <= 0 && qB <= 0) {
+            return 0.5;
+        }
+        if (dp[qA][qB] != -1.0) {
+            return dp[qA][qB];
+        }
+
+        db t1 = 0.25 * poss(qA - 4, qB);
+        t1 += 0.25 * poss(qA - 3, qB - 1);
+        t1 += 0.25 * poss(qA - 2, qB - 2);
+        t1 += 0.25 * poss(qA - 1, qB - 3);
+
+        return dp[qA][qB] = t1;
+    }
+    double soupServings(int n) {
+        if (n >= 4800) {
+            return 1;
+        }
+        for (int i = 0; i < 193; ++i)
+            for (int j = 0; j < 193; ++j)
+                dp[i][j] = -1.0;
+        db N = ceil(n / 25.0);
+        return poss(N, N);
     }
 };
