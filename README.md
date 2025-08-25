@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/anuj2001310/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/anuj2001310/Leetcode-/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuj2001310/Leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/anuj2001310/Leetcode-/tree/master/0498-diagonal-traverse) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anuj2001310/Leetcode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anuj2001310/Leetcode-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anuj2001310/Leetcode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1068,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/anuj2001310/Leetcode-/tree/master/0130-surrounded-regions) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/anuj2001310/Leetcode-/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/anuj2001310/Leetcode-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
