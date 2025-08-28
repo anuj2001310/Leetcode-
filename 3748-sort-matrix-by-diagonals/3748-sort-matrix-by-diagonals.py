@@ -16,7 +16,6 @@ class Solution:
         
         for i in range(n):
             for j in range(n):
-                grid[i][j] = dick[i - j][-1]
-                dick[i - j].pop()
+                grid[i][j] = dick[i - j].pop()
         
         return grid
