@@ -1,26 +1,26 @@
 class Solution {
 public:
     int numberOfPairs(vector<vector<int>>& points) {
+        int n = points.size();
+        sort(points.begin(), points.end(), [&](vector<int>& a, vector<int>& b) {
+            if (a[0] == b[0]) {
+                return a[1] > b[1];
+            }
+            return a[0] < b[0];
+        });
         int ans = 0;
-        sort(points.begin(), points.end(),
-             [](const vector<int>& a, const vector<int>& b) {
-                 return a[0] < b[0] || (a[0] == b[0] && a[1] > b[1]);
-             });
-
-        for (int i = 0; i < points.size() - 1; i++) {
-            const auto& pointA = points[i];
-            int xMin = pointA[0] - 1;
-            int xMax = INT_MAX;
-            int yMin = INT_MIN;
-            int yMax = pointA[1] + 1;
-
-            for (int j = i + 1; j < points.size(); j++) {
-                const auto& pointB = points[j];
-                if (pointB[0] > xMin && pointB[0] < xMax && pointB[1] > yMin &&
-                    pointB[1] < yMax) {
+        for (int i = 0; i < n; i++) {
+            int ax = points[i][0];
+            int ay = points[i][1];
+            int k = INT_MIN;
+            for (int j = i + 1; j < n; j++) {
+                int bx = points[j][0];
+                int by = points[j][1];
+                if (by > ay)
+                    continue;
+                if (by > k) {
                     ans++;
-                    xMin = pointB[0];
-                    yMin = pointB[1];
+                    k = by;
                 }
             }
         }
