@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findClosest(int x, int y, int z) {
-        int d1 = fabs(x - z), d2 = fabs(y - z);
-        return (d1 >= d2) ? ((d1 == d2) ? 0 : 2) : 1;
+        int a = fabs(x - z), b = fabs(y - z);
+        return (a == b) ? 0 : (a < b ? 1 : 2);
     }
 };
