@@ -721,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/anuj2001310/Leetcode-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/2448-count-number-of-bad-pairs) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/anuj2001310/Leetcode-/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2610-closest-prime-numbers-in-range](https://github.com/anuj2001310/Leetcode-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/anuj2001310/Leetcode-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/anuj2001310/Leetcode-/tree/master/2716-prime-subtraction-operation) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/2215-finding-3-digit-even-numbers) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/anuj2001310/Leetcode-/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2998-count-symmetric-integers](https://github.com/anuj2001310/Leetcode-/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
