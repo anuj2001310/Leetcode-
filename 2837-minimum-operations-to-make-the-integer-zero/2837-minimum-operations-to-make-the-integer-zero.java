@@ -4,12 +4,12 @@ class Solution {
         int k = 1;
         while (true) {
             long x = num1 - (long) num2 * k;
-            if (x < k) {
+            if (x < k)
                 return -1;
-            }
-            if (k >= Long.bitCount(x)) {
+
+            if (k >= Long.bitCount(x))
                 return k;
-            }
+
             k++;
         }
     }
