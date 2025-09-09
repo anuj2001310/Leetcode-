@@ -6,16 +6,10 @@ class Solution(object):
         :type forget: int
         :rtype: int
         """
-        dp = [0] * (n + 1)
-
-        #vector<long> dp(n + 1);
-        dp[1] = 1
-        share, mod, res = 0, 10 ** 9 + 7, 0
-        for i in range(2, n + 1):
-            dp[i] = share = (share + dp[max(i - delay, 0)] - dp[max(i - forget, 0)] + mod) % mod
-        
-        for i in range(n - forget + 1, n + 1):
-            res = (res + dp[i]) % mod
-
-
-        return res
+        dp = [1] + [0] * (n - 1)
+        mod = 10 ** 9 + 7
+        share = 0
+        for i in range(1, n):
+            dp[i] = share = (share + dp[i - delay] - dp[i - forget]) % mod
+            
+        return sum(dp[-forget:]) % mod
