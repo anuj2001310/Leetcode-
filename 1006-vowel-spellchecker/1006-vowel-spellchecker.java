@@ -1,34 +1,47 @@
 class Solution {
-    static final int GAP = 'a' - 'A';
-
     public String[] spellchecker(String[] wordlist, String[] queries) {
-        Map<Long, String> wordMap = new HashMap<>(wordlist.length << 1), capMap = new HashMap<>(wordlist.length << 1),
-                vowelMap = new HashMap<>(wordlist.length << 1);
+        Set<String> exactWords = new HashSet<>(Arrays.asList(wordlist));
+        Map<String, String> caseInsensitive = new HashMap<>();
+        Map<String, String> vowelInsensitive = new HashMap<>();
+
         for (String word : wordlist) {
-            long hash = 0, capHash = 0, vowelHash = 0;
-            for (int i = 0, length = word.length(), c; i < length;) {
-                hash = (hash << 7) | (c = word.charAt(i++));
-                capHash = (capHash << 7) | (c < 'a' ? c += GAP : c);
-                vowelHash = c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' ? (vowelHash << 7)
-                        : (vowelHash << 7) | c;
-            }
-            wordMap.put(hash, word);
-            capMap.putIfAbsent(capHash, word);
-            vowelMap.putIfAbsent(vowelHash, word);
+            String lower = word.toLowerCase();
+            caseInsensitive.putIfAbsent(lower, word);
+
+            String devoweled = devowel(lower);
+            vowelInsensitive.putIfAbsent(devoweled, word);
         }
+
+        String[] result = new String[queries.length];
+
         for (int i = 0; i < queries.length; i++) {
-            long hash = 0, capHash = 0, vowelHash = 0;
-            for (int j = 0, length = queries[i].length(), c; j < length;) {
-                hash = (hash << 7) | (c = queries[i].charAt(j++));
-                capHash = (capHash << 7) | (c < 'a' ? c += GAP : c);
-                vowelHash = c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' ? (vowelHash << 7)
-                        : (vowelHash << 7) | c;
+            String q = queries[i];
+
+            if (exactWords.contains(q)) {
+                result[i] = q;
+            } else {
+                String lower = q.toLowerCase();
+                if (caseInsensitive.containsKey(lower)) {
+                    result[i] = caseInsensitive.get(lower);
+                } else {
+                    String devoweled = devowel(lower);
+                    result[i] = vowelInsensitive.getOrDefault(devoweled, "");
+                }
             }
-            if (wordMap.containsKey(hash))
-                continue;
-            String word = capMap.get(capHash);
-            queries[i] = word != null ? word : vowelMap.getOrDefault(vowelHash, "");
         }
-        return queries;
+
+        return result;
+    }
+
+    private String devowel(String word) {
+        StringBuilder sb = new StringBuilder();
+        for (char ch : word.toCharArray()) {
+            if ("aeiou".indexOf(ch) >= 0) {
+                sb.append('*');
+            } else {
+                sb.append(ch);
+            }
+        }
+        return sb.toString();
     }
 }
