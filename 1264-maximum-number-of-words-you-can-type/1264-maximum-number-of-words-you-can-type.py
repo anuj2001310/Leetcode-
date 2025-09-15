@@ -1,16 +1,14 @@
 class Solution:
     def canBeTypedWords(self, text: str, brokenLetters: str) -> int:
-        words = text.split()
         cnt = 0
-        for word in words:
-            flag = True
+        word = text.split()
+        for w in word:
+            f = True
             for ch in brokenLetters:
-                if ch in word:
-                    flag = False
+                if ch in w:
+                    f = False
                     break
-            
-            if flag:
+            if f:
                 cnt += 1
-        
+
         return cnt
-                    
