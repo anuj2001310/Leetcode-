@@ -89,3 +89,11 @@ class Router {
         return low;
     }
 }
+
+/**
+ * Your Router object will be instantiated and called as such:
+ * Router obj = new Router(memoryLimit);
+ * boolean param_1 = obj.addPacket(source,destination,timestamp);
+ * int[] param_2 = obj.forwardPacket();
+ * int param_3 = obj.getCount(destination,startTime,endTime);
+ */
