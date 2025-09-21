@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anuj2001310/Leetcode-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anuj2001310/Leetcode-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anuj2001310/Leetcode-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2023-design-movie-rental-system](https://github.com/anuj2001310/Leetcode-/tree/master/2023-design-movie-rental-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/anuj2001310/Leetcode-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/anuj2001310/Leetcode-/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anuj2001310/Leetcode-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anuj2001310/Leetcode-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anuj2001310/Leetcode-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anuj2001310/Leetcode-/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/anuj2001310/Leetcode-/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anuj2001310/Leetcode-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anuj2001310/Leetcode-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/anuj2001310/Leetcode-/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1539-diagonal-traverse-ii) |
 | [1753-path-with-minimum-effort](https://github.com/anuj2001310/Leetcode-/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/anuj2001310/Leetcode-/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/anuj2001310/Leetcode-/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anuj2001310/Leetcode-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anuj2001310/Leetcode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/anuj2001310/Leetcode-/tree/master/2164-two-best-non-overlapping-events) |
@@ -1399,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/anuj2001310/Leetcode-/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anuj2001310/Leetcode-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/anuj2001310/Leetcode-/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/anuj2001310/Leetcode-/tree/master/2434-design-a-number-container-system) |
@@ -1465,6 +1469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/anuj2001310/Leetcode-/tree/master/1767-design-front-middle-back-queue) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anuj2001310/Leetcode-/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/anuj2001310/Leetcode-/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/anuj2001310/Leetcode-/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/anuj2001310/Leetcode-/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/anuj2001310/Leetcode-/tree/master/3678-design-task-manager) |
