@@ -1,65 +1,65 @@
-class Solution:
-    def quickmul(self, x: int, y: int, mod: int) -> int:
-        res, cur = 1, x % mod
-        while y:
-            if y & 1:
-                res = res * cur % mod
-            y >>= 1
-            cur = cur * cur % mod
-        return res
+# sample 963 ms submission
+MOD = 10 ** 9 + 7
 
+
+class Solution:
     def magicalSum(self, m: int, k: int, nums: List[int]) -> int:
         n = len(nums)
-        mod = 10**9 + 7
+        MAX_EXP = n + 6
 
-        fac = [1] * (m + 1)
+        power = []
+        for num in nums:
+            arr = [1] * (m + 1)
+            for exp in range(1, m + 1):
+                arr[exp] = arr[exp - 1] * num % MOD
+            power.append(arr)
+
+        fact = [1] * (m + 1)
+        inv_fact = [1] * (m + 1)
         for i in range(1, m + 1):
-            fac[i] = fac[i - 1] * i % mod
+            fact[i] = fact[i - 1] * i % MOD
+        inv_fact[m] = pow(fact[m], MOD - 2, MOD)
+        for i in range(m, 0, -1):
+            inv_fact[i - 1] = inv_fact[i] * i % MOD
 
-        ifac = [1] * (m + 1)
-        for i in range(2, m + 1):
-            ifac[i] = self.quickmul(i, mod - 2, mod)
-        for i in range(2, m + 1):
-            ifac[i] = ifac[i - 1] * ifac[i] % mod
+        dp = [[[0] * (m + 1) for _ in range(k + 1)] for __ in range(m + 1)]
+        dp[0][0][m] = 1
 
-        numsPower = [[1] * (m + 1) for _ in range(n)]
-        for i in range(n):
-            for j in range(1, m + 1):
-                numsPower[i][j] = numsPower[i][j - 1] * nums[i] % mod
-
-        f = [
-            [[[0] * (k + 1) for _ in range(m * 2 + 1)] for _ in range(m + 1)]
-            for _ in range(n)
-        ]
-
-        for j in range(m + 1):
-            f[0][j][j][0] = numsPower[0][j] * ifac[j] % mod
-
-        for i in range(n - 1):
-            for j in range(m + 1):
-                for p in range(m * 2 + 1):
-                    for q in range(k + 1):
-                        if f[i][j][p][q] == 0:
+        for j in range(MAX_EXP + 1):
+            new_dp = [[[0] * (m + 1) for _ in range(k + 1)] for __ in range(m + 1)]
+            for c in range(m + 1):
+                for b in range(k + 1):
+                    for r in range(m + 1):
+                        val = dp[c][b][r]
+                        if val == 0:
                             continue
-                        q2 = (p % 2) + q
-                        if q2 > k:
-                            break
-                        for r in range(m - j + 1):
-                            p2 = (p // 2) + r
-                            if p2 > m * 2:
+                        if j < n:
+                            for f in range(r + 1):
+                                total = f + c
+                                d_j = total & 1
+                                carry_next = total >> 1
+                                new_b = b + d_j
+                                if new_b > k:
+                                    continue
+                                new_r = r - f
+                                factor = power[j][f] * inv_fact[f] % MOD
+                                new_val = val * factor % MOD
+                                new_dp[carry_next][new_b][new_r] = (
+                                    new_dp[carry_next][new_b][new_r] + new_val
+                                ) % MOD
+                        else:
+                            total = 0 + c
+                            d_j = total & 1
+                            carry_next = total >> 1
+                            new_b = b + d_j
+                            if new_b > k:
                                 continue
-                            f[i + 1][j + r][p2][q2] = (
-                                f[i + 1][j + r][p2][q2]
-                                + f[i][j][p][q]
-                                * numsPower[i + 1][r]
-                                % mod
-                                * ifac[r]
-                                % mod
-                            ) % mod
+                            new_r = r
+                            new_val = val
+                            new_dp[carry_next][new_b][new_r] = (
+                                new_dp[carry_next][new_b][new_r] + new_val
+                            ) % MOD
+            dp = new_dp
 
-        res = 0
-        for p in range(m * 2 + 1):
-            for q in range(k + 1):
-                if bin(p).count("1") + q == k:
-                    res = (res + f[n - 1][m][p][q] * fac[m] % mod) % mod
-        return res
+        ans = dp[0][k][0] * fact[m] % MOD
+        return ans
