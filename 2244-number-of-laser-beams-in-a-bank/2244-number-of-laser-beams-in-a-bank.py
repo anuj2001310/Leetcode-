@@ -1,15 +1,12 @@
 class Solution:
     def numberOfBeams(self, bank: List[str]) -> int:
-        arr = []
-        for i in range(len(bank)):
-            cnt = bank[i].count("1")
+        ans, prev = 0, 0
+        for layer in bank:
+            cnt = layer.count("1")
             if cnt == 0:
                 continue
-            arr.append(cnt)
+            
+            ans += prev * cnt
+            prev = cnt
         
-        res = 0
-        #print(arr)
-        for j in range(len(arr) - 1):
-            t = arr[j] * arr[j + 1]
-            res += t
-        return res
+        return ans
