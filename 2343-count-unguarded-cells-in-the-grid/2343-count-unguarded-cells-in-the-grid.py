@@ -1,12 +1,5 @@
-class Solution(object):
-    def countUnguarded(self, m, n, guards, walls):
-        """
-        :type m: int
-        :type n: int
-        :type guards: List[List[int]]
-        :type walls: List[List[int]]
-        :rtype: int
-        """
+class Solution:
+    def countUnguarded(self, m: int, n: int, guards: List[List[int]], walls: List[List[int]]) -> int:
         vis = [[0 for _ in range(n)] for _ in range(m)]
         #print(res)
         #Mark present guards by 2
