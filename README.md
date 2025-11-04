@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3885-count-special-triplets](https://github.com/anuj2001310/Leetcode-/tree/master/3885-count-special-triplets) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4005-maximum-total-subarray-value-i](https://github.com/anuj2001310/Leetcode-/tree/master/4005-maximum-total-subarray-value-i) |
+| [4107-find-missing-elements](https://github.com/anuj2001310/Leetcode-/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/anuj2001310/Leetcode-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/anuj2001310/Leetcode-/tree/master/3885-count-special-triplets) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4107-find-missing-elements](https://github.com/anuj2001310/Leetcode-/tree/master/4107-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3815-sum-of-largest-prime-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3819-count-covered-buildings](https://github.com/anuj2001310/Leetcode-/tree/master/3819-count-covered-buildings) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anuj2001310/Leetcode-/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [4107-find-missing-elements](https://github.com/anuj2001310/Leetcode-/tree/master/4107-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
