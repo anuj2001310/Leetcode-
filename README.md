@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anuj2001310/Leetcode-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/anuj2001310/Leetcode-/tree/master/3849-equal-sum-grid-partition-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anuj2001310/Leetcode-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/anuj2001310/Leetcode-/tree/master/3863-power-grid-maintenance) |
 | [3885-count-special-triplets](https://github.com/anuj2001310/Leetcode-/tree/master/3885-count-special-triplets) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4005-maximum-total-subarray-value-i](https://github.com/anuj2001310/Leetcode-/tree/master/4005-maximum-total-subarray-value-i) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3815-sum-of-largest-prime-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3819-count-covered-buildings](https://github.com/anuj2001310/Leetcode-/tree/master/3819-count-covered-buildings) |
 | [3827-implement-router](https://github.com/anuj2001310/Leetcode-/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/anuj2001310/Leetcode-/tree/master/3863-power-grid-maintenance) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anuj2001310/Leetcode-/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/anuj2001310/Leetcode-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/anuj2001310/Leetcode-/tree/master/3885-count-special-triplets) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/anuj2001310/Leetcode-/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/anuj2001310/Leetcode-/tree/master/3678-design-task-manager) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/anuj2001310/Leetcode-/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3863-power-grid-maintenance](https://github.com/anuj2001310/Leetcode-/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1116,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anuj2001310/Leetcode-/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3729-unit-conversion-i](https://github.com/anuj2001310/Leetcode-/tree/master/3729-unit-conversion-i) |
+| [3863-power-grid-maintenance](https://github.com/anuj2001310/Leetcode-/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1182,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anuj2001310/Leetcode-/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3729-unit-conversion-i](https://github.com/anuj2001310/Leetcode-/tree/master/3729-unit-conversion-i) |
+| [3863-power-grid-maintenance](https://github.com/anuj2001310/Leetcode-/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -1431,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anuj2001310/Leetcode-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/anuj2001310/Leetcode-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anuj2001310/Leetcode-/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3863-power-grid-maintenance](https://github.com/anuj2001310/Leetcode-/tree/master/3863-power-grid-maintenance) |
 ## Number Theory
 |  |
 | ------- |
@@ -1519,6 +1525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3729-unit-conversion-i](https://github.com/anuj2001310/Leetcode-/tree/master/3729-unit-conversion-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anuj2001310/Leetcode-/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3863-power-grid-maintenance](https://github.com/anuj2001310/Leetcode-/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1544,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/anuj2001310/Leetcode-/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/anuj2001310/Leetcode-/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/anuj2001310/Leetcode-/tree/master/3863-power-grid-maintenance) |
 ## Bucket Sort
 |  |
 | ------- |
