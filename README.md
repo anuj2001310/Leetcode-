@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anuj2001310/Leetcode-/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anuj2001310/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/anuj2001310/Leetcode-/tree/master/0498-diagonal-traverse) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anuj2001310/Leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0389-find-the-difference](https://github.com/anuj2001310/Leetcode-/tree/master/0389-find-the-difference) |
+| [0474-ones-and-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0474-ones-and-zeroes) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/anuj2001310/Leetcode-/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0692-top-k-frequent-words](https://github.com/anuj2001310/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/anuj2001310/Leetcode-/tree/master/0768-partition-labels) |
@@ -1218,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuj2001310/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/anuj2001310/Leetcode-/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
