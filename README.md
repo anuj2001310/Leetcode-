@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/anuj2001310/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/anuj2001310/Leetcode-/tree/master/0695-max-area-of-island) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/anuj2001310/Leetcode-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/anuj2001310/Leetcode-/tree/master/0787-sliding-puzzle) |
