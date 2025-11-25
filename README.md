@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/anuj2001310/Leetcode-/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/anuj2001310/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/anuj2001310/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuj2001310/Leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/anuj2001310/Leetcode-/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/anuj2001310/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuj2001310/Leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/anuj2001310/Leetcode-/tree/master/0692-top-k-frequent-words) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anuj2001310/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anuj2001310/Leetcode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/1537-maximum-score-after-splitting-a-string) |
