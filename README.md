@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/anuj2001310/Leetcode-/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/anuj2001310/Leetcode-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuj2001310/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/anuj2001310/Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anuj2001310/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/anuj2001310/Leetcode-/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anuj2001310/Leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/anuj2001310/Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anuj2001310/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/anuj2001310/Leetcode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anuj2001310/Leetcode-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/anuj2001310/Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anuj2001310/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -1475,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anuj2001310/Leetcode-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/anuj2001310/Leetcode-/tree/master/0692-top-k-frequent-words) |
@@ -1582,6 +1586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anuj2001310/Leetcode-/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/anuj2001310/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj2001310/Leetcode-/tree/master/1014-k-closest-points-to-origin) |
