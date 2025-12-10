@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/anuj2001310/Leetcode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/anuj2001310/Leetcode-/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/anuj2001310/Leetcode-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anuj2001310/Leetcode-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anuj2001310/Leetcode-/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0063-unique-paths-ii) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anuj2001310/Leetcode-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/anuj2001310/Leetcode-/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/anuj2001310/Leetcode-/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/anuj2001310/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuj2001310/Leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1292,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anuj2001310/Leetcode-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anuj2001310/Leetcode-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0064-minimum-path-sum) |
