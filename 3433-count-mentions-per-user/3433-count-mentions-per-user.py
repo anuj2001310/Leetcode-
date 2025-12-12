@@ -1,7 +1,5 @@
 class Solution:
-    def countMentions(
-        self, numberOfUsers: int, events: List[List[str]]
-    ) -> List[int]:
+    def countMentions(self, numberOfUsers: int, events: List[List[str]]) -> List[int]:
         events.sort(key=lambda e: (int(e[1]), e[0] == "MESSAGE"))
         count = [0] * numberOfUsers
         next_online_time = [0] * numberOfUsers
