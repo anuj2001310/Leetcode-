@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anuj2001310/Leetcode-/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/anuj2001310/Leetcode-/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/anuj2001310/Leetcode-/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/anuj2001310/Leetcode-/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anuj2001310/Leetcode-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/anuj2001310/Leetcode-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3790-fruits-into-baskets-ii) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/anuj2001310/Leetcode-/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anuj2001310/Leetcode-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3765-complete-prime-number](https://github.com/anuj2001310/Leetcode-/tree/master/3765-complete-prime-number) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/anuj2001310/Leetcode-/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3830-find-closest-person](https://github.com/anuj2001310/Leetcode-/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anuj2001310/Leetcode-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1574,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/anuj2001310/Leetcode-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj2001310/Leetcode-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3765-complete-prime-number](https://github.com/anuj2001310/Leetcode-/tree/master/3765-complete-prime-number) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/anuj2001310/Leetcode-/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Monotonic Stack
