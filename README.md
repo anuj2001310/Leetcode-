@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/anuj2001310/Leetcode-/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/anuj2001310/Leetcode-/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/anuj2001310/Leetcode-/tree/master/0841-shortest-distance-to-a-character) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anuj2001310/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/anuj2001310/Leetcode-/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/anuj2001310/Leetcode-/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anuj2001310/Leetcode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1456,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/anuj2001310/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/anuj2001310/Leetcode-/tree/master/0794-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anuj2001310/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anuj2001310/Leetcode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/anuj2001310/Leetcode-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
