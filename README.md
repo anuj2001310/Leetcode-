@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/anuj2001310/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anuj2001310/Leetcode-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuj2001310/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/anuj2001310/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/anuj2001310/Leetcode-/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/anuj2001310/Leetcode-/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/anuj2001310/Leetcode-/tree/master/0136-single-number) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/anuj2001310/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anuj2001310/Leetcode-/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/anuj2001310/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/anuj2001310/Leetcode-/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anuj2001310/Leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/anuj2001310/Leetcode-/tree/master/0169-majority-element) |
@@ -1546,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anuj2001310/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/anuj2001310/Leetcode-/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/anuj2001310/Leetcode-/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anuj2001310/Leetcode-/tree/master/0684-redundant-connection) |
