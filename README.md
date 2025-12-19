@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/anuj2001310/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/anuj2001310/Leetcode-/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/anuj2001310/Leetcode-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1003,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/anuj2001310/Leetcode-/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/anuj2001310/Leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/anuj2001310/Leetcode-/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anuj2001310/Leetcode-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/anuj2001310/Leetcode-/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/anuj2001310/Leetcode-/tree/master/0389-find-the-difference) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/anuj2001310/Leetcode-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/anuj2001310/Leetcode-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1340,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0806-domino-and-tromino-tiling](https://github.com/anuj2001310/Leetcode-/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/anuj2001310/Leetcode-/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/anuj2001310/Leetcode-/tree/master/0867-new-21-game) |
@@ -1647,6 +1651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/anuj2001310/Leetcode-/tree/master/1013-fibonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/anuj2001310/Leetcode-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anuj2001310/Leetcode-/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -1846,6 +1851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anuj2001310/Leetcode-/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anuj2001310/Leetcode-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
