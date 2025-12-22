@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/anuj2001310/Leetcode-/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/anuj2001310/Leetcode-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/anuj2001310/Leetcode-/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/anuj2001310/Leetcode-/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj2001310/Leetcode-/tree/master/1014-k-closest-points-to-origin) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/anuj2001310/Leetcode-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/anuj2001310/Leetcode-/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/anuj2001310/Leetcode-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1160-letter-tile-possibilities](https://github.com/anuj2001310/Leetcode-/tree/master/1160-letter-tile-possibilities) |
@@ -1355,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/anuj2001310/Leetcode-/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/anuj2001310/Leetcode-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/anuj2001310/Leetcode-/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/anuj2001310/Leetcode-/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/anuj2001310/Leetcode-/tree/master/1063-best-sightseeing-pair) |
