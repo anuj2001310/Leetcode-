@@ -1,42 +1,40 @@
 class Solution {
+    using ll = long long;
+    using pll = pair<ll, ll>;
+    using vpll = vector<pll>;
+
 public:
-    int mostBooked(int n, vector<vector<int>>& meetings) {
-        vector<long long> roomAvailabilityTime(n, 0);
-        vector<int> meetingCount(n, 0);
+    int mostBooked(int n1, vector<vector<int>>& meetings) {
         sort(meetings.begin(), meetings.end());
-
-        for (auto& meeting : meetings) {
-            int start = meeting[0], end = meeting[1];
-            long long minRoomAvailabilityTime = LLONG_MAX;
-            int minAvailableTimeRoom = 0;
-            bool foundUnusedRoom = false;
-
-            for (int i = 0; i < n; i++) {
-                if (roomAvailabilityTime[i] <= start) {
-                    foundUnusedRoom = true;
-                    meetingCount[i]++;
-                    roomAvailabilityTime[i] = end;
-                    break;
-                }
-
-                if (minRoomAvailabilityTime > roomAvailabilityTime[i]) {
-                    minRoomAvailabilityTime = roomAvailabilityTime[i];
-                    minAvailableTimeRoom = i;
-                }
+        ll n = meetings.size();
+        priority_queue<pll, vpll, greater<pll>> pq;
+        priority_queue<ll, vector<ll>, greater<ll>> pq1;
+        for (ll i = 0; i < n1; i++)
+            pq1.push(i);
+        vector<ll> cnt(n, 0);
+        for (ll i = 0; i < n; i++) {
+            while (!pq.empty() && pq.top().first <= meetings[i][0]) {
+                auto x = pq.top();
+                pq.pop();
+                pq1.push(x.second);
             }
+            if (!pq1.empty()) {
+                auto a = pq1.top();
+                pq1.pop();
+                cnt[a]++;
+                pq.push({meetings[i][1], a});
+            } else {
+                auto b = pq.top();
+                pq.pop();
+                auto start = b.first;
+                auto room = b.second;
 
-            if (!foundUnusedRoom) {
-                roomAvailabilityTime[minAvailableTimeRoom] += end - start;
-                meetingCount[minAvailableTimeRoom]++;
-            }
-        }
-        int maxMeetingCount = 0, maxMeetingCountRoom = 0;
-        for (int i = 0; i < n; i++) {
-            if (meetingCount[i] > maxMeetingCount) {
-                maxMeetingCount = meetingCount[i];
-                maxMeetingCountRoom = i;
+                cnt[room]++;
+                pq.push({start + meetings[i][1] - meetings[i][0], room});
             }
         }
-        return maxMeetingCountRoom;
+
+        int k = max_element(cnt.begin(), cnt.end()) - cnt.begin();
+        return k;
     }
 };
