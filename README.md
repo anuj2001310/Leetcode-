@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/anuj2001310/Leetcode-/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/anuj2001310/Leetcode-/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/anuj2001310/Leetcode-/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/anuj2001310/Leetcode-/tree/master/0840-magic-squares-in-grid) |
 | [0841-shortest-distance-to-a-character](https://github.com/anuj2001310/Leetcode-/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj2001310/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/anuj2001310/Leetcode-/tree/master/0854-making-a-large-island) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/anuj2001310/Leetcode-/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/anuj2001310/Leetcode-/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/anuj2001310/Leetcode-/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/anuj2001310/Leetcode-/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/anuj2001310/Leetcode-/tree/master/0940-fruit-into-baskets) |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/anuj2001310/Leetcode-/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/anuj2001310/Leetcode-/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/anuj2001310/Leetcode-/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/anuj2001310/Leetcode-/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/anuj2001310/Leetcode-/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/anuj2001310/Leetcode-/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/anuj2001310/Leetcode-/tree/master/1013-fibonacci-number) |
@@ -1456,6 +1459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/anuj2001310/Leetcode-/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/anuj2001310/Leetcode-/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/anuj2001310/Leetcode-/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/anuj2001310/Leetcode-/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/anuj2001310/Leetcode-/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/anuj2001310/Leetcode-/tree/master/1036-rotting-oranges) |
