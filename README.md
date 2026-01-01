@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/anuj2001310/Leetcode-/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/anuj2001310/Leetcode-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anuj2001310/Leetcode-/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/anuj2001310/Leetcode-/tree/master/0118-pascals-triangle) |
@@ -936,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/anuj2001310/Leetcode-/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/anuj2001310/Leetcode-/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/anuj2001310/Leetcode-/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anuj2001310/Leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/anuj2001310/Leetcode-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
