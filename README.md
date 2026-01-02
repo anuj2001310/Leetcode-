@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/anuj2001310/Leetcode-/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/anuj2001310/Leetcode-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/anuj2001310/Leetcode-/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/anuj2001310/Leetcode-/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj2001310/Leetcode-/tree/master/1014-k-closest-points-to-origin) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/anuj2001310/Leetcode-/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/anuj2001310/Leetcode-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/anuj2001310/Leetcode-/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/anuj2001310/Leetcode-/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/anuj2001310/Leetcode-/tree/master/1015-smallest-integer-divisible-by-k) |
