@@ -1,17 +1,13 @@
 class Solution {
 public:
     int minTimeToVisitAllPoints(vector<vector<int>>& points) {
-        int n = points.size();
-        int i = points[0][0];
-        int j = points[0][1];
         int ans = 0;
+        int n = points.size();
+        for (int i = 1; i < n; i++) {
+            int diffx = abs(points[i][0] - points[i - 1][0]);
+            int diffy = abs(points[i][1] - points[i - 1][1]);
 
-        for (int k = 1; k < n; k++) {
-            int low = points[k][0];
-            int high = points[k][1];
-            ans += max(abs(i - low), abs(j - high));
-            i = low;
-            j = high;
+            ans += max(diffx, diffy);
         }
         return ans;
     }
