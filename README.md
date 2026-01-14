@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/anuj2001310/Leetcode-/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anuj2001310/Leetcode-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anuj2001310/Leetcode-/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3454-separate-squares-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/anuj2001310/Leetcode-/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anuj2001310/Leetcode-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1596,6 +1597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anuj2001310/Leetcode-/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3454-separate-squares-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3790-fruits-into-baskets-ii) |
@@ -1827,6 +1829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/anuj2001310/Leetcode-/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anuj2001310/Leetcode-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3454-separate-squares-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3454-separate-squares-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/anuj2001310/Leetcode-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3790-fruits-into-baskets-ii) |
@@ -1943,4 +1946,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anuj2001310/Leetcode-/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anuj2001310/Leetcode-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
