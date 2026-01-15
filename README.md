@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/anuj2001310/Leetcode-/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/anuj2001310/Leetcode-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/anuj2001310/Leetcode-/tree/master/3797-design-spreadsheet) |
+| [3805-count-caesar-cipher-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/3805-count-caesar-cipher-pairs) |
 | [3819-count-covered-buildings](https://github.com/anuj2001310/Leetcode-/tree/master/3819-count-covered-buildings) |
 | [3827-implement-router](https://github.com/anuj2001310/Leetcode-/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anuj2001310/Leetcode-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anuj2001310/Leetcode-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anuj2001310/Leetcode-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/anuj2001310/Leetcode-/tree/master/3797-design-spreadsheet) |
+| [3805-count-caesar-cipher-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/3805-count-caesar-cipher-pairs) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3819-count-covered-buildings](https://github.com/anuj2001310/Leetcode-/tree/master/3819-count-covered-buildings) |
 | [3827-implement-router](https://github.com/anuj2001310/Leetcode-/tree/master/3827-implement-router) |
@@ -946,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anuj2001310/Leetcode-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/anuj2001310/Leetcode-/tree/master/3797-design-spreadsheet) |
+| [3805-count-caesar-cipher-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/3805-count-caesar-cipher-pairs) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/anuj2001310/Leetcode-/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/anuj2001310/Leetcode-/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -1046,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anuj2001310/Leetcode-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3765-complete-prime-number](https://github.com/anuj2001310/Leetcode-/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/anuj2001310/Leetcode-/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3805-count-caesar-cipher-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/3805-count-caesar-cipher-pairs) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3830-find-closest-person](https://github.com/anuj2001310/Leetcode-/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anuj2001310/Leetcode-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1652,6 +1656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anuj2001310/Leetcode-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anuj2001310/Leetcode-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3805-count-caesar-cipher-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/3805-count-caesar-cipher-pairs) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anuj2001310/Leetcode-/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/anuj2001310/Leetcode-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/anuj2001310/Leetcode-/tree/master/3885-count-special-triplets) |
