@@ -18,10 +18,14 @@ class Solution {
             int minCost = Integer.MAX_VALUE;
             for (int i = 0, j = 0; i < points.size(); i++) {
                 minCost = Math.min(
-                        minCost,
-                        costs[points.get(i)[0]][points.get(i)[1]]);
-                if (i + 1 < points.size() &&
-                        grid[points.get(i)[0]][points.get(i)[1]] == grid[points.get(i + 1)[0]][points.get(i + 1)[1]]) {
+                    minCost,
+                    costs[points.get(i)[0]][points.get(i)[1]]
+                );
+                if (
+                    i + 1 < points.size() &&
+                    grid[points.get(i)[0]][points.get(i)[1]] ==
+                    grid[points.get(i + 1)[0]][points.get(i + 1)[1]]
+                ) {
                     continue;
                 }
                 for (int r = j; r <= i; r++) {
@@ -37,13 +41,15 @@ class Solution {
                     }
                     if (i != m - 1) {
                         costs[i][j] = Math.min(
-                                costs[i][j],
-                                costs[i + 1][j] + grid[i + 1][j]);
+                            costs[i][j],
+                            costs[i + 1][j] + grid[i + 1][j]
+                        );
                     }
                     if (j != n - 1) {
                         costs[i][j] = Math.min(
-                                costs[i][j],
-                                costs[i][j + 1] + grid[i][j + 1]);
+                            costs[i][j],
+                            costs[i][j + 1] + grid[i][j + 1]
+                        );
                     }
                 }
             }
