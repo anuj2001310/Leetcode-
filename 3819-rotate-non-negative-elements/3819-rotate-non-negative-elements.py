@@ -1,5 +1,10 @@
-class Solution:
-    def rotateElements(self, nums: List[int], k: int) -> List[int]:
+class Solution(object):
+    def rotateElements(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: List[int]
+        """
         m, n = 0, len(nums)
         a = [0] * n
 
