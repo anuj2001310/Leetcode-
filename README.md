@@ -1159,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/anuj2001310/Leetcode-/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/anuj2001310/Leetcode-/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3827-count-monobit-integers](https://github.com/anuj2001310/Leetcode-/tree/master/3827-count-monobit-integers) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anuj2001310/Leetcode-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
@@ -1186,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3765-complete-prime-number](https://github.com/anuj2001310/Leetcode-/tree/master/3765-complete-prime-number) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/anuj2001310/Leetcode-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3827-count-monobit-integers](https://github.com/anuj2001310/Leetcode-/tree/master/3827-count-monobit-integers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/anuj2001310/Leetcode-/tree/master/3849-equal-sum-grid-partition-i) |
 ## Recursion
 |  |
