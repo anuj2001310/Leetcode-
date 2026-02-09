@@ -628,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/anuj2001310/Leetcode-/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anuj2001310/Leetcode-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/anuj2001310/Leetcode-/tree/master/1304-longest-happy-string) |
+| [1382-balance-a-binary-search-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/anuj2001310/Leetcode-/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anuj2001310/Leetcode-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/anuj2001310/Leetcode-/tree/master/1502-construct-k-palindrome-strings) |
@@ -1288,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anuj2001310/Leetcode-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/anuj2001310/Leetcode-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anuj2001310/Leetcode-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1379,6 +1381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anuj2001310/Leetcode-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anuj2001310/Leetcode-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anuj2001310/Leetcode-/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1419,6 +1422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anuj2001310/Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/anuj2001310/Leetcode-/tree/master/1380-number-of-closed-islands) |
+| [1382-balance-a-binary-search-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 | [1396-count-servers-that-communicate](https://github.com/anuj2001310/Leetcode-/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anuj2001310/Leetcode-/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -1797,6 +1801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/anuj2001310/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj2001310/Leetcode-/tree/master/1014-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anuj2001310/Leetcode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anuj2001310/Leetcode-/tree/master/2280-count-good-triplets-in-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -2029,4 +2034,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anuj2001310/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anuj2001310/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/anuj2001310/Leetcode-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
