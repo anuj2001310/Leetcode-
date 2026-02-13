@@ -1300,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/anuj2001310/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0270-closest-binary-search-tree-value](https://github.com/anuj2001310/Leetcode-/tree/master/0270-closest-binary-search-tree-value) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0366-find-leaves-of-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0366-find-leaves-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anuj2001310/Leetcode-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/anuj2001310/Leetcode-/tree/master/0563-binary-tree-tilt) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -1401,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/anuj2001310/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0270-closest-binary-search-tree-value](https://github.com/anuj2001310/Leetcode-/tree/master/0270-closest-binary-search-tree-value) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0366-find-leaves-of-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0366-find-leaves-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anuj2001310/Leetcode-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/anuj2001310/Leetcode-/tree/master/0563-binary-tree-tilt) |
 | [0814-binary-tree-pruning](https://github.com/anuj2001310/Leetcode-/tree/master/0814-binary-tree-pruning) |
@@ -1428,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/anuj2001310/Leetcode-/tree/master/0207-course-schedule) |
 | [0270-closest-binary-search-tree-value](https://github.com/anuj2001310/Leetcode-/tree/master/0270-closest-binary-search-tree-value) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0366-find-leaves-of-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0366-find-leaves-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anuj2001310/Leetcode-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/anuj2001310/Leetcode-/tree/master/0419-battleships-in-a-board) |
