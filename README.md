@@ -1518,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anuj2001310/Leetcode-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/anuj2001310/Leetcode-/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/anuj2001310/Leetcode-/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/anuj2001310/Leetcode-/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/anuj2001310/Leetcode-/tree/master/0867-new-21-game) |
