@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anuj2001310/Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anuj2001310/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/anuj2001310/Leetcode-/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
 | [0286-walls-and-gates](https://github.com/anuj2001310/Leetcode-/tree/master/0286-walls-and-gates) |
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anuj2001310/Leetcode-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anuj2001310/Leetcode-/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0165-compare-version-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/0165-compare-version-numbers) |
+| [0253-meeting-rooms-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0253-meeting-rooms-ii) |
 | [0611-valid-triangle-number](https://github.com/anuj2001310/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/anuj2001310/Leetcode-/tree/master/0768-partition-labels) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anuj2001310/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/anuj2001310/Leetcode-/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/anuj2001310/Leetcode-/tree/master/0135-candy) |
+| [0253-meeting-rooms-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0253-meeting-rooms-ii) |
 | [0611-valid-triangle-number](https://github.com/anuj2001310/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuj2001310/Leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/anuj2001310/Leetcode-/tree/master/0670-maximum-swap) |
@@ -709,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anuj2001310/Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anuj2001310/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/anuj2001310/Leetcode-/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -801,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0253-meeting-rooms-ii) |
 | [0525-contiguous-array](https://github.com/anuj2001310/Leetcode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anuj2001310/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anuj2001310/Leetcode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
