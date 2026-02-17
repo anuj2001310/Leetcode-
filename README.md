@@ -1353,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/anuj2001310/Leetcode-/tree/master/0207-course-schedule) |
 | [0286-walls-and-gates](https://github.com/anuj2001310/Leetcode-/tree/master/0286-walls-and-gates) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anuj2001310/Leetcode-/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0407-trapping-rain-water-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anuj2001310/Leetcode-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anuj2001310/Leetcode-/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1449,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/anuj2001310/Leetcode-/tree/master/0207-course-schedule) |
 | [0270-closest-binary-search-tree-value](https://github.com/anuj2001310/Leetcode-/tree/master/0270-closest-binary-search-tree-value) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anuj2001310/Leetcode-/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0366-find-leaves-of-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0366-find-leaves-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anuj2001310/Leetcode-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -2108,6 +2110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anuj2001310/Leetcode-/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anuj2001310/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anuj2001310/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/anuj2001310/Leetcode-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -2116,4 +2119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/anuj2001310/Leetcode-/tree/master/0270-closest-binary-search-tree-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anuj2001310/Leetcode-/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
