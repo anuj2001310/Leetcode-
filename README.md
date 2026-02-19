@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuj2001310/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/anuj2001310/Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anuj2001310/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0243-shortest-word-distance](https://github.com/anuj2001310/Leetcode-/tree/master/0243-shortest-word-distance) |
 | [0252-meeting-rooms](https://github.com/anuj2001310/Leetcode-/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/anuj2001310/Leetcode-/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anuj2001310/Leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
+| [0243-shortest-word-distance](https://github.com/anuj2001310/Leetcode-/tree/master/0243-shortest-word-distance) |
 | [0389-find-the-difference](https://github.com/anuj2001310/Leetcode-/tree/master/0389-find-the-difference) |
 | [0474-ones-and-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0474-ones-and-zeroes) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/anuj2001310/Leetcode-/tree/master/0521-longest-uncommon-subsequence-i) |
