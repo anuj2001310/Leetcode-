@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/anuj2001310/Leetcode-/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anuj2001310/Leetcode-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anuj2001310/Leetcode-/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3842-toggle-light-bulbs](https://github.com/anuj2001310/Leetcode-/tree/master/3842-toggle-light-bulbs) |
 | [3849-equal-sum-grid-partition-i](https://github.com/anuj2001310/Leetcode-/tree/master/3849-equal-sum-grid-partition-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anuj2001310/Leetcode-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/anuj2001310/Leetcode-/tree/master/3863-power-grid-maintenance) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3819-count-covered-buildings](https://github.com/anuj2001310/Leetcode-/tree/master/3819-count-covered-buildings) |
 | [3827-implement-router](https://github.com/anuj2001310/Leetcode-/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anuj2001310/Leetcode-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3842-toggle-light-bulbs](https://github.com/anuj2001310/Leetcode-/tree/master/3842-toggle-light-bulbs) |
 | [3863-power-grid-maintenance](https://github.com/anuj2001310/Leetcode-/tree/master/3863-power-grid-maintenance) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anuj2001310/Leetcode-/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/anuj2001310/Leetcode-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/anuj2001310/Leetcode-/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3819-count-covered-buildings](https://github.com/anuj2001310/Leetcode-/tree/master/3819-count-covered-buildings) |
+| [3842-toggle-light-bulbs](https://github.com/anuj2001310/Leetcode-/tree/master/3842-toggle-light-bulbs) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anuj2001310/Leetcode-/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/anuj2001310/Leetcode-/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 | [4107-find-missing-elements](https://github.com/anuj2001310/Leetcode-/tree/master/4107-find-missing-elements) |
@@ -1293,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-calculate-score-after-performing-instructions](https://github.com/anuj2001310/Leetcode-/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3790-fruits-into-baskets-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/anuj2001310/Leetcode-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3842-toggle-light-bulbs](https://github.com/anuj2001310/Leetcode-/tree/master/3842-toggle-light-bulbs) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/anuj2001310/Leetcode-/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/anuj2001310/Leetcode-/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Stack
