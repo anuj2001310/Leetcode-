@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/anuj2001310/Leetcode-/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anuj2001310/Leetcode-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1730-shortest-path-to-get-food](https://github.com/anuj2001310/Leetcode-/tree/master/1730-shortest-path-to-get-food) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anuj2001310/Leetcode-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1753-path-with-minimum-effort](https://github.com/anuj2001310/Leetcode-/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/anuj2001310/Leetcode-/tree/master/1755-defuse-the-bomb) |
@@ -1419,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anuj2001310/Leetcode-/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1730-shortest-path-to-get-food](https://github.com/anuj2001310/Leetcode-/tree/master/1730-shortest-path-to-get-food) |
 | [1753-path-with-minimum-effort](https://github.com/anuj2001310/Leetcode-/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/anuj2001310/Leetcode-/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/anuj2001310/Leetcode-/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1676,6 +1678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anuj2001310/Leetcode-/tree/master/1628-count-submatrices-with-all-ones) |
+| [1730-shortest-path-to-get-food](https://github.com/anuj2001310/Leetcode-/tree/master/1730-shortest-path-to-get-food) |
 | [1753-path-with-minimum-effort](https://github.com/anuj2001310/Leetcode-/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/anuj2001310/Leetcode-/tree/master/1876-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/anuj2001310/Leetcode-/tree/master/1895-largest-magic-square) |
