@@ -12,12 +12,11 @@ private:
 vvi dirs = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
 public:
     int getFood(vector<vector<char>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
+        int n = size(grid), m = size(grid[0]);
 
-        queue<pair<int, pii>> q;
+        queue<pair<int, pii>> q; //{time, {i, j}}
         vvb vis(n, vb(m, false));
-        
+
         Rep(i, 0, n, 1) {
             Rep(j, 0, m, 1) {
                 if (grid[i][j] == '*') {
@@ -26,14 +25,14 @@ public:
                 }
             }
         }
-
+        //Main logic starts from here
         while (!q.empty()) {
             auto t = q.front().first;
             auto r = q.front().second.first;
             auto c = q.front().second.second;
             q.pop();
 
-            if (grid[r][c] == '#')
+            if (grid[r][c] == '#') 
                 return t;
             
             Rep(x, 0, 4, 1) {
@@ -42,11 +41,10 @@ public:
 
                 if (nr >= 0 && nr < n && nc >= 0 && nc < m && !vis[nr][nc] && grid[nr][nc] != 'X') {
                     vis[nr][nc] = true;
-                    q.push({t + 1, {nr, nc}});
+                    q.push({t + 1, {nr,nc}});
                 }
             }
         }
-
         return -1;
     }
 };
