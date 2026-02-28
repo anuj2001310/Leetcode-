@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/anuj2001310/Leetcode-/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/anuj2001310/Leetcode-/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2852-sum-of-remoteness-of-all-cells](https://github.com/anuj2001310/Leetcode-/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/anuj2001310/Leetcode-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anuj2001310/Leetcode-/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/anuj2001310/Leetcode-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/anuj2001310/Leetcode-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anuj2001310/Leetcode-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2852-sum-of-remoteness-of-all-cells](https://github.com/anuj2001310/Leetcode-/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/anuj2001310/Leetcode-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anuj2001310/Leetcode-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/2915-count-of-interesting-subarrays) |
@@ -1443,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/anuj2001310/Leetcode-/tree/master/2793-count-the-number-of-complete-components) |
+| [2852-sum-of-remoteness-of-all-cells](https://github.com/anuj2001310/Leetcode-/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/anuj2001310/Leetcode-/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/anuj2001310/Leetcode-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anuj2001310/Leetcode-/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1539,6 +1542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/anuj2001310/Leetcode-/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/anuj2001310/Leetcode-/tree/master/2793-count-the-number-of-complete-components) |
+| [2852-sum-of-remoteness-of-all-cells](https://github.com/anuj2001310/Leetcode-/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/anuj2001310/Leetcode-/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/anuj2001310/Leetcode-/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/anuj2001310/Leetcode-/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -1709,6 +1713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2852-sum-of-remoteness-of-all-cells](https://github.com/anuj2001310/Leetcode-/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2923-find-champion-i](https://github.com/anuj2001310/Leetcode-/tree/master/2923-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/anuj2001310/Leetcode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -2174,5 +2179,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0305-number-of-islands-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0305-number-of-islands-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anuj2001310/Leetcode-/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0694-number-of-distinct-islands](https://github.com/anuj2001310/Leetcode-/tree/master/0694-number-of-distinct-islands) |
+| [2852-sum-of-remoteness-of-all-cells](https://github.com/anuj2001310/Leetcode-/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anuj2001310/Leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
