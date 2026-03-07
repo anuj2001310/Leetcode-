@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/2915-count-of-interesting-subarrays) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3063-linked-list-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3063-linked-list-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/anuj2001310/Leetcode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1827,6 +1828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/2448-count-number-of-bad-pairs) |
 | [2486-most-frequent-even-element](https://github.com/anuj2001310/Leetcode-/tree/master/2486-most-frequent-even-element) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3063-linked-list-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3063-linked-list-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/anuj2001310/Leetcode-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -2113,6 +2115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anuj2001310/Leetcode-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1767-design-front-middle-back-queue](https://github.com/anuj2001310/Leetcode-/tree/master/1767-design-front-middle-back-queue) |
 | [3062-winner-of-the-linked-list-game](https://github.com/anuj2001310/Leetcode-/tree/master/3062-winner-of-the-linked-list-game) |
+| [3063-linked-list-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3063-linked-list-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anuj2001310/Leetcode-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anuj2001310/Leetcode-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
