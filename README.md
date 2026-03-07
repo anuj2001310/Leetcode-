@@ -2112,6 +2112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/anuj2001310/Leetcode-/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anuj2001310/Leetcode-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1767-design-front-middle-back-queue](https://github.com/anuj2001310/Leetcode-/tree/master/1767-design-front-middle-back-queue) |
+| [3062-winner-of-the-linked-list-game](https://github.com/anuj2001310/Leetcode-/tree/master/3062-winner-of-the-linked-list-game) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anuj2001310/Leetcode-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anuj2001310/Leetcode-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
