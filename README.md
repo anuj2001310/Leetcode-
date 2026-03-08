@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anuj2001310/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/anuj2001310/Leetcode-/tree/master/0611-valid-triangle-number) |
+| [0631-design-excel-sum-formula](https://github.com/anuj2001310/Leetcode-/tree/master/0631-design-excel-sum-formula) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuj2001310/Leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/anuj2001310/Leetcode-/tree/master/0679-24-game) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0531-lonely-pixel-i](https://github.com/anuj2001310/Leetcode-/tree/master/0531-lonely-pixel-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anuj2001310/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0594-longest-harmonious-subsequence) |
+| [0631-design-excel-sum-formula](https://github.com/anuj2001310/Leetcode-/tree/master/0631-design-excel-sum-formula) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuj2001310/Leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/anuj2001310/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0694-number-of-distinct-islands](https://github.com/anuj2001310/Leetcode-/tree/master/0694-number-of-distinct-islands) |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anuj2001310/Leetcode-/tree/master/0389-find-the-difference) |
 | [0474-ones-and-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0474-ones-and-zeroes) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/anuj2001310/Leetcode-/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0631-design-excel-sum-formula](https://github.com/anuj2001310/Leetcode-/tree/master/0631-design-excel-sum-formula) |
 | [0692-top-k-frequent-words](https://github.com/anuj2001310/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anuj2001310/Leetcode-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1683,6 +1686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/anuj2001310/Leetcode-/tree/master/0498-diagonal-traverse) |
 | [0531-lonely-pixel-i](https://github.com/anuj2001310/Leetcode-/tree/master/0531-lonely-pixel-i) |
 | [0542-01-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0542-01-matrix) |
+| [0631-design-excel-sum-formula](https://github.com/anuj2001310/Leetcode-/tree/master/0631-design-excel-sum-formula) |
 | [0694-number-of-distinct-islands](https://github.com/anuj2001310/Leetcode-/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/anuj2001310/Leetcode-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
@@ -2075,6 +2079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anuj2001310/Leetcode-/tree/master/0207-course-schedule) |
+| [0631-design-excel-sum-formula](https://github.com/anuj2001310/Leetcode-/tree/master/0631-design-excel-sum-formula) |
 | [0820-find-eventual-safe-states](https://github.com/anuj2001310/Leetcode-/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anuj2001310/Leetcode-/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -2086,6 +2091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/anuj2001310/Leetcode-/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/anuj2001310/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0362-design-hit-counter](https://github.com/anuj2001310/Leetcode-/tree/master/0362-design-hit-counter) |
+| [0631-design-excel-sum-formula](https://github.com/anuj2001310/Leetcode-/tree/master/0631-design-excel-sum-formula) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/anuj2001310/Leetcode-/tree/master/1767-design-front-middle-back-queue) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anuj2001310/Leetcode-/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -2183,6 +2189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anuj2001310/Leetcode-/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0631-design-excel-sum-formula](https://github.com/anuj2001310/Leetcode-/tree/master/0631-design-excel-sum-formula) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anuj2001310/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anuj2001310/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/anuj2001310/Leetcode-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
