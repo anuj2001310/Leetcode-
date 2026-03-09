@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/anuj2001310/Leetcode-/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anuj2001310/Leetcode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3581-count-odd-letters-from-number](https://github.com/anuj2001310/Leetcode-/tree/master/3581-count-odd-letters-from-number) |
 | [3583-count-special-triplets](https://github.com/anuj2001310/Leetcode-/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/anuj2001310/Leetcode-/tree/master/3606-coupon-code-validator) |
@@ -1037,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/anuj2001310/Leetcode-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/anuj2001310/Leetcode-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3581-count-odd-letters-from-number](https://github.com/anuj2001310/Leetcode-/tree/master/3581-count-odd-letters-from-number) |
 | [3606-coupon-code-validator](https://github.com/anuj2001310/Leetcode-/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/anuj2001310/Leetcode-/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1324,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anuj2001310/Leetcode-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anuj2001310/Leetcode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-count-odd-letters-from-number](https://github.com/anuj2001310/Leetcode-/tree/master/3581-count-odd-letters-from-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anuj2001310/Leetcode-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anuj2001310/Leetcode-/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3625-stone-removal-game](https://github.com/anuj2001310/Leetcode-/tree/master/3625-stone-removal-game) |
@@ -1858,6 +1861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anuj2001310/Leetcode-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anuj2001310/Leetcode-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/anuj2001310/Leetcode-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3581-count-odd-letters-from-number](https://github.com/anuj2001310/Leetcode-/tree/master/3581-count-odd-letters-from-number) |
 | [3583-count-special-triplets](https://github.com/anuj2001310/Leetcode-/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anuj2001310/Leetcode-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
