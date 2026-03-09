@@ -1,5 +1,9 @@
-class Solution:
-    def countOddLetters(self, n: int) -> int:
+class Solution(object):
+    def countOddLetters(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
         arr = [
             "zero",
             "one",
