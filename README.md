@@ -1410,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/anuj2001310/Leetcode-/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/anuj2001310/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/anuj2001310/Leetcode-/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0261-graph-valid-tree) |
 | [0286-walls-and-gates](https://github.com/anuj2001310/Leetcode-/tree/master/0286-walls-and-gates) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anuj2001310/Leetcode-/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -1515,6 +1516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/anuj2001310/Leetcode-/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/anuj2001310/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/anuj2001310/Leetcode-/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0261-graph-valid-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/anuj2001310/Leetcode-/tree/master/0270-closest-binary-search-tree-value) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anuj2001310/Leetcode-/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -2202,6 +2204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anuj2001310/Leetcode-/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0631-design-excel-sum-formula](https://github.com/anuj2001310/Leetcode-/tree/master/0631-design-excel-sum-formula) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anuj2001310/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -2215,6 +2218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0261-graph-valid-tree) |
 | [0305-number-of-islands-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0305-number-of-islands-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anuj2001310/Leetcode-/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0694-number-of-distinct-islands](https://github.com/anuj2001310/Leetcode-/tree/master/0694-number-of-distinct-islands) |
