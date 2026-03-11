@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/anuj2001310/Leetcode-/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/anuj2001310/Leetcode-/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/anuj2001310/Leetcode-/tree/master/1073-number-of-enclaves) |
+| [1085-sum-of-digits-in-the-minimum-number](https://github.com/anuj2001310/Leetcode-/tree/master/1085-sum-of-digits-in-the-minimum-number) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1102-path-with-maximum-minimum-value](https://github.com/anuj2001310/Leetcode-/tree/master/1102-path-with-maximum-minimum-value) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/anuj2001310/Leetcode-/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -1096,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/anuj2001310/Leetcode-/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/anuj2001310/Leetcode-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/anuj2001310/Leetcode-/tree/master/1018-largest-perimeter-triangle) |
+| [1085-sum-of-digits-in-the-minimum-number](https://github.com/anuj2001310/Leetcode-/tree/master/1085-sum-of-digits-in-the-minimum-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anuj2001310/Leetcode-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/anuj2001310/Leetcode-/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1390-four-divisors](https://github.com/anuj2001310/Leetcode-/tree/master/1390-four-divisors) |
