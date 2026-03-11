@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0490-the-maze](https://github.com/anuj2001310/Leetcode-/tree/master/0490-the-maze) |
 | [0494-target-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/anuj2001310/Leetcode-/tree/master/0498-diagonal-traverse) |
+| [0505-the-maze-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0505-the-maze-ii) |
 | [0525-contiguous-array](https://github.com/anuj2001310/Leetcode-/tree/master/0525-contiguous-array) |
 | [0531-lonely-pixel-i](https://github.com/anuj2001310/Leetcode-/tree/master/0531-lonely-pixel-i) |
 | [0542-01-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0542-01-matrix) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anuj2001310/Leetcode-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0407-trapping-rain-water-ii) |
+| [0505-the-maze-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0505-the-maze-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuj2001310/Leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/anuj2001310/Leetcode-/tree/master/0692-top-k-frequent-words) |
@@ -1422,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anuj2001310/Leetcode-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0490-the-maze](https://github.com/anuj2001310/Leetcode-/tree/master/0490-the-maze) |
+| [0505-the-maze-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0505-the-maze-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anuj2001310/Leetcode-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anuj2001310/Leetcode-/tree/master/0547-number-of-provinces) |
@@ -1534,6 +1537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/anuj2001310/Leetcode-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/anuj2001310/Leetcode-/tree/master/0419-battleships-in-a-board) |
 | [0490-the-maze](https://github.com/anuj2001310/Leetcode-/tree/master/0490-the-maze) |
+| [0505-the-maze-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0505-the-maze-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anuj2001310/Leetcode-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/anuj2001310/Leetcode-/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/anuj2001310/Leetcode-/tree/master/0563-binary-tree-tilt) |
@@ -1708,6 +1712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/anuj2001310/Leetcode-/tree/master/0419-battleships-in-a-board) |
 | [0490-the-maze](https://github.com/anuj2001310/Leetcode-/tree/master/0490-the-maze) |
 | [0498-diagonal-traverse](https://github.com/anuj2001310/Leetcode-/tree/master/0498-diagonal-traverse) |
+| [0505-the-maze-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0505-the-maze-ii) |
 | [0531-lonely-pixel-i](https://github.com/anuj2001310/Leetcode-/tree/master/0531-lonely-pixel-i) |
 | [0542-01-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0542-01-matrix) |
 | [0631-design-excel-sum-formula](https://github.com/anuj2001310/Leetcode-/tree/master/0631-design-excel-sum-formula) |
@@ -2024,6 +2029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0505-the-maze-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0505-the-maze-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anuj2001310/Leetcode-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/anuj2001310/Leetcode-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -2219,6 +2225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0261-graph-valid-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anuj2001310/Leetcode-/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0505-the-maze-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0505-the-maze-ii) |
 | [0631-design-excel-sum-formula](https://github.com/anuj2001310/Leetcode-/tree/master/0631-design-excel-sum-formula) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anuj2001310/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anuj2001310/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
