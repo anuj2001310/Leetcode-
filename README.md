@@ -1385,6 +1385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anuj2001310/Leetcode-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/anuj2001310/Leetcode-/tree/master/0563-binary-tree-tilt) |
 | [0663-equal-tree-partition](https://github.com/anuj2001310/Leetcode-/tree/master/0663-equal-tree-partition) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1437,6 +1438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/anuj2001310/Leetcode-/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/anuj2001310/Leetcode-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0787-sliding-puzzle](https://github.com/anuj2001310/Leetcode-/tree/master/0787-sliding-puzzle) |
@@ -1507,6 +1509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anuj2001310/Leetcode-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/anuj2001310/Leetcode-/tree/master/0563-binary-tree-tilt) |
 | [0663-equal-tree-partition](https://github.com/anuj2001310/Leetcode-/tree/master/0663-equal-tree-partition) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/anuj2001310/Leetcode-/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anuj2001310/Leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anuj2001310/Leetcode-/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1554,6 +1557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/anuj2001310/Leetcode-/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/anuj2001310/Leetcode-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/anuj2001310/Leetcode-/tree/master/0794-swim-in-rising-water) |
