@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1102-path-with-maximum-minimum-value](https://github.com/anuj2001310/Leetcode-/tree/master/1102-path-with-maximum-minimum-value) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/anuj2001310/Leetcode-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/anuj2001310/Leetcode-/tree/master/1117-as-far-from-land-as-possible) |
+| [1133-largest-unique-number](https://github.com/anuj2001310/Leetcode-/tree/master/1133-largest-unique-number) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/anuj2001310/Leetcode-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/anuj2001310/Leetcode-/tree/master/1200-minimum-absolute-difference) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/anuj2001310/Leetcode-/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/anuj2001310/Leetcode-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1133-largest-unique-number](https://github.com/anuj2001310/Leetcode-/tree/master/1133-largest-unique-number) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/anuj2001310/Leetcode-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/anuj2001310/Leetcode-/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anuj2001310/Leetcode-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/anuj2001310/Leetcode-/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1099-two-sum-less-than-k](https://github.com/anuj2001310/Leetcode-/tree/master/1099-two-sum-less-than-k) |
+| [1133-largest-unique-number](https://github.com/anuj2001310/Leetcode-/tree/master/1133-largest-unique-number) |
 | [1200-minimum-absolute-difference](https://github.com/anuj2001310/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/anuj2001310/Leetcode-/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anuj2001310/Leetcode-/tree/master/1262-greatest-sum-divisible-by-three) |
