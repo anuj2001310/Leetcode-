@@ -10,8 +10,8 @@ class Solution {
 
         //iterate through everything and treat each cell as center of rhombus
         //center is (row, col)
-        for(int row = 0; row < m; row++){
-            for(int col = 0; col < n; col++){
+        for (int row = 0; row < m; row++) {
+            for (int col = 0; col < n; col++) {
                 //get max rhombus size from this center cell. A size is valid if the four corners are in the grid
                 int top = row + 1;
                 int bottom = m - row;
@@ -20,7 +20,7 @@ class Solution {
 
                 int size = Math.min(Math.min(top, bottom), Math.min(left, right));
 
-                for(int layer = 0; layer < size; layer++){ //calculate sums for all possible rhombuses at this center
+                for (int layer = 0; layer < size; layer++) { //calculate sums for all possible rhombuses at this center
                     //calculate curr rhombusSum
                     int sum = calculateSum(layer, row, col, grid);
 
@@ -49,9 +49,12 @@ class Solution {
 
         // Count how many valid top sums we actually have
         int count = 0;
-        if (first != Integer.MIN_VALUE) count++;
-        if (second != Integer.MIN_VALUE) count++;
-        if (third != Integer.MIN_VALUE) count++;
+        if (first != Integer.MIN_VALUE)
+            count++;
+        if (second != Integer.MIN_VALUE)
+            count++;
+        if (third != Integer.MIN_VALUE)
+            count++;
 
         // Create array of the correct size
         int[] resultArray = new int[count];
