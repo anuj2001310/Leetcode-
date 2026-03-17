@@ -1,17 +1,17 @@
 class Solution:
-    def largestSubmatrix(self, matrix: List[List[int]]) -> int:
+    def largestSubmatrix(self, matrix: list[list[int]]) -> int:
+        if not matrix: 
+            return 0
+        m, n = len(matrix), len(matrix[0])
+        heights = [0] * n
+        max_area = 0
 
-        rows = len(matrix)
-        cols = len(matrix[0])
-        ans = 0
-        for r in range(rows):
-            for c in range(cols):
-                if r > 0:
-                    matrix[r][c] = (1 + matrix[r - 1][c]) if matrix[r][c] > 0 else 0
-            # whole column is iterated
-            # now sort it
-            temp = sorted(matrix[r], reverse=True)
-            print(temp)
-            for i in range(cols):
-                ans = max(ans, ((i + 1) * temp[i]))
-        return ans
+        for row in matrix:
+            # build heights
+            for j in range(n):
+                heights[j] = heights[j] + 1 if row[j] else 0
+            # sort heights in descending order to simulate column reordering
+            sorted_heights = sorted(heights, reverse=True)
+            for j in range(n):
+                max_area = max(max_area, sorted_heights[j] * (j + 1))
+        return max_area
