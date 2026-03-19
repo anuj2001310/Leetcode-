@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anuj2001310/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/anuj2001310/Leetcode-/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/anuj2001310/Leetcode-/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/0165-compare-version-numbers) |
 | [0253-meeting-rooms-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0253-meeting-rooms-ii) |
 | [0611-valid-triangle-number](https://github.com/anuj2001310/Leetcode-/tree/master/0611-valid-triangle-number) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/anuj2001310/Leetcode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anuj2001310/Leetcode-/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/anuj2001310/Leetcode-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anuj2001310/Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anuj2001310/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/anuj2001310/Leetcode-/tree/master/0252-meeting-rooms) |
@@ -2016,6 +2018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anuj2001310/Leetcode-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anuj2001310/Leetcode-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/anuj2001310/Leetcode-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/anuj2001310/Leetcode-/tree/master/0191-number-of-1-bits) |
@@ -2210,6 +2213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0146-lru-cache](https://github.com/anuj2001310/Leetcode-/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/anuj2001310/Leetcode-/tree/master/0148-sort-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anuj2001310/Leetcode-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1767-design-front-middle-back-queue](https://github.com/anuj2001310/Leetcode-/tree/master/1767-design-front-middle-back-queue) |
 | [3062-winner-of-the-linked-list-game](https://github.com/anuj2001310/Leetcode-/tree/master/3062-winner-of-the-linked-list-game) |
@@ -2234,6 +2238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anuj2001310/Leetcode-/tree/master/0148-sort-list) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anuj2001310/Leetcode-/tree/master/2280-count-good-triplets-in-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting Sort
