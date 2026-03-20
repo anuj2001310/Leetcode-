@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anuj2001310/Leetcode-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2402-meeting-rooms-iii](https://github.com/anuj2001310/Leetcode-/tree/master/2402-meeting-rooms-iii) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2429-design-a-food-rating-system](https://github.com/anuj2001310/Leetcode-/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/anuj2001310/Leetcode-/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/2448-count-number-of-bad-pairs) |
@@ -1037,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/anuj2001310/Leetcode-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/anuj2001310/Leetcode-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2429-design-a-food-rating-system](https://github.com/anuj2001310/Leetcode-/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/anuj2001310/Leetcode-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anuj2001310/Leetcode-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -1924,6 +1926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/anuj2001310/Leetcode-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anuj2001310/Leetcode-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2448-count-number-of-bad-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/2448-count-number-of-bad-pairs) |
 | [2486-most-frequent-even-element](https://github.com/anuj2001310/Leetcode-/tree/master/2486-most-frequent-even-element) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
