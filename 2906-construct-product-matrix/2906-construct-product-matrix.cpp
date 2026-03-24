@@ -15,16 +15,16 @@ public:
                 flat[i * m + j] = grid[i][j] % MOD;
         }
 
-        vi prefix(size, 1), suffix(size, 1);
+        vi pre(size, 1), suff(size, 1);
 
         Rep(i, 1, size, 1)
-            prefix[i] = (prefix[i - 1] * flat[i - 1]) % MOD;
+            pre[i] = (pre[i - 1] * flat[i - 1]) % MOD;
 
         for (int i = size - 2; i >= 0; i--)
-            suffix[i] = (suffix[i + 1] * flat[i + 1]) % MOD;
+            suff[i] = (suff[i + 1] * flat[i + 1]) % MOD;
 
         Rep(i, 0, size, 1) 
-            grid[i / m][i % m] = (prefix[i] * suffix[i]) % MOD;
+            grid[i / m][i % m] = (pre[i] * suff[i]) % MOD;
 
         return grid;
     }
