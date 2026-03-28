@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anuj2001310/Leetcode-/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuj2001310/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/anuj2001310/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anuj2001310/Leetcode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0039-combination-sum) |
@@ -1857,6 +1858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuj2001310/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuj2001310/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
 | [0270-closest-binary-search-tree-value](https://github.com/anuj2001310/Leetcode-/tree/master/0270-closest-binary-search-tree-value) |
