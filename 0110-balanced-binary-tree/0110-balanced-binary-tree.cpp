@@ -12,11 +12,17 @@
  */
 class Solution {
 private:
-    int height(auto root) {
+    pair<bool, int> balanced(TreeNode* root) {
         if (!root)
-            return 0;
+            return {true, 0};
 
-        return 1 + max(height(root->left), height(root->right));
+        auto left = balanced(root->left);
+        auto right = balanced(root->right);
+
+        bool balance = left.first && right.first && abs(left.second - right.second) <= 1;
+        int height = 1 + max(left.second, right.second);
+
+        return {balance, height};
     }
 
 public:
@@ -24,10 +30,6 @@ public:
         if (!root)
             return true;
 
-        int l = height(root->left);
-        int r = height(root->right);
-
-        return abs(r - l) <= 1 && isBalanced(root->left) &&
-               isBalanced(root->right);
+        return balanced(root).first;
     }
 };
