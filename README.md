@@ -1509,6 +1509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/anuj2001310/Leetcode-/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/anuj2001310/Leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/anuj2001310/Leetcode-/tree/master/0820-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/anuj2001310/Leetcode-/tree/master/0841-keys-and-rooms) |
 | [0854-making-a-large-island](https://github.com/anuj2001310/Leetcode-/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anuj2001310/Leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/anuj2001310/Leetcode-/tree/master/0871-keys-and-rooms) |
@@ -1630,6 +1631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/anuj2001310/Leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/anuj2001310/Leetcode-/tree/master/0814-binary-tree-pruning) |
 | [0820-find-eventual-safe-states](https://github.com/anuj2001310/Leetcode-/tree/master/0820-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/anuj2001310/Leetcode-/tree/master/0841-keys-and-rooms) |
 | [0854-making-a-large-island](https://github.com/anuj2001310/Leetcode-/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anuj2001310/Leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/anuj2001310/Leetcode-/tree/master/0871-keys-and-rooms) |
@@ -2334,6 +2336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0499-the-maze-iii](https://github.com/anuj2001310/Leetcode-/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0505-the-maze-ii) |
 | [0631-design-excel-sum-formula](https://github.com/anuj2001310/Leetcode-/tree/master/0631-design-excel-sum-formula) |
+| [0841-keys-and-rooms](https://github.com/anuj2001310/Leetcode-/tree/master/0841-keys-and-rooms) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anuj2001310/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anuj2001310/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/anuj2001310/Leetcode-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
