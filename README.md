@@ -1041,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/anuj2001310/Leetcode-/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anuj2001310/Leetcode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anuj2001310/Leetcode-/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/anuj2001310/Leetcode-/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/anuj2001310/Leetcode-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/anuj2001310/Leetcode-/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anuj2001310/Leetcode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -1369,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anuj2001310/Leetcode-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anuj2001310/Leetcode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/anuj2001310/Leetcode-/tree/master/2048-build-array-from-permutation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/anuj2001310/Leetcode-/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2169-simple-bank-system](https://github.com/anuj2001310/Leetcode-/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/anuj2001310/Leetcode-/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/2232-adding-spaces-to-a-string) |
