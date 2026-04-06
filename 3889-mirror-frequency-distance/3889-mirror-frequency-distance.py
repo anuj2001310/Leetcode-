@@ -1,5 +1,9 @@
-class Solution:
-    def mirrorFrequency(self, s: str) -> int:
+class Solution(object):
+    def mirrorFrequency(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
         chars = [0] * 26
         digits = [0] * 10
         for ch in s:
