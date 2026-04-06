@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/anuj2001310/Leetcode-/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj2001310/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/anuj2001310/Leetcode-/tree/master/0854-making-a-large-island) |
+| [0874-walking-robot-simulation](https://github.com/anuj2001310/Leetcode-/tree/master/0874-walking-robot-simulation) |
 | [0890-lemonade-change](https://github.com/anuj2001310/Leetcode-/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anuj2001310/Leetcode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/anuj2001310/Leetcode-/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/anuj2001310/Leetcode-/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anuj2001310/Leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/anuj2001310/Leetcode-/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/anuj2001310/Leetcode-/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/anuj2001310/Leetcode-/tree/master/0940-fruit-into-baskets) |
@@ -1364,6 +1366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/anuj2001310/Leetcode-/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/anuj2001310/Leetcode-/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/anuj2001310/Leetcode-/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/anuj2001310/Leetcode-/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anuj2001310/Leetcode-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/anuj2001310/Leetcode-/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anuj2001310/Leetcode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
