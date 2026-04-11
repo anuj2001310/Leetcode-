@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/anuj2001310/Leetcode-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anuj2001310/Leetcode-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/anuj2001310/Leetcode-/tree/master/1293-three-consecutive-odds) |
+| [1329-sort-the-matrix-diagonally](https://github.com/anuj2001310/Leetcode-/tree/master/1329-sort-the-matrix-diagonally) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/anuj2001310/Leetcode-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anuj2001310/Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -803,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/anuj2001310/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/anuj2001310/Leetcode-/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anuj2001310/Leetcode-/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1329-sort-the-matrix-diagonally](https://github.com/anuj2001310/Leetcode-/tree/master/1329-sort-the-matrix-diagonally) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anuj2001310/Leetcode-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anuj2001310/Leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anuj2001310/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1829,6 +1831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/anuj2001310/Leetcode-/tree/master/1253-sort-the-matrix-diagonally) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anuj2001310/Leetcode-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1329-sort-the-matrix-diagonally](https://github.com/anuj2001310/Leetcode-/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-number-of-closed-islands](https://github.com/anuj2001310/Leetcode-/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/anuj2001310/Leetcode-/tree/master/1396-count-servers-that-communicate) |
