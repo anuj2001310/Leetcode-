@@ -1,18 +1,21 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     vector<int> solveQueries(vector<int>& nums, vector<int>& queries) {
         int n = nums.size();
 
-        unordered_map<int, vector<int>> positions;
+        unordered_map<int, vector<int>> indices;
 
         for (int i = 0; i < n; i++) {
-            positions[nums[i]].push_back(i);
+            indices[nums[i]].push_back(i);
         }
 
         vector<int> answer(n, -1);
 
-        for (auto& entry : positions) {
-            vector<int>& pos = entry.second;
+        for (auto& idx : indices) {
+            vector<int>& pos = idx.second;
             int m = pos.size();
 
             if (m == 1)
