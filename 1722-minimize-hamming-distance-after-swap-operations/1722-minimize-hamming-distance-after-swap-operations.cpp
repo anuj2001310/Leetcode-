@@ -1,54 +1,62 @@
+struct DSU {
+	vector<int> parents;
+	vector<int> ranks;
+	DSU(int size) {
+		parents.resize(size);
+		ranks = vector<int>(size, 0);
+		iota(parents.begin(), parents.end(), 0);
+	}
+
+	int find(int x) {
+		return parents[x] == x ? x : parents[x] = find(parents[x]);
+	}
+
+	void join(int a, int b) {
+		int parent_a = find(a);
+		int parent_b = find(b);
+		if (parent_a == parent_b) {
+			return;
+		}
+		if (ranks[parent_b] > ranks[parent_a]) {
+			swap(parent_a, parent_b);
+		}
+		parents[parent_b] = parent_a;
+		if (ranks[parent_b] == ranks[parent_a]) {
+			++ranks[parent_a];
+		}
+	}
+};
+
 class Solution {
-private:
-    vector<int> fa;
-    vector<int> rank;
-    // path compression
-    int find(int x) {
-        if (fa[x] != x)
-            fa[x] = find(fa[x]);
-
-        return fa[x];
-    }
-
-    void Union(int x, int y) {
-        x = find(x);
-        y = find(y);
-
-        if (x == y)
-            return;
-
-        if (rank[x] < rank[y])
-            swap(x, y);
-
-        fa[y] = x;
-        if (rank[x] == rank[y])
-            rank[x]++;
-    }
-
 public:
-    int minimumHammingDistance(vector<int>& source, vector<int>& target,
-                               vector<vector<int>>& allowedSwaps) {
-        int n = source.size();
-        fa.resize(n);
-        rank.resize(n, 0);
-        for (int i = 0; i < n; i++)
-            fa[i] = i;
-        for (auto& pair : allowedSwaps)
-            Union(pair[0], pair[1]);
-
-        unordered_map<int, unordered_map<int, int>> sets;
-        for (int i = 0; i < n; i++) {
-            int f = find(i);
-            sets[f][source[i]]++;
+    int minimumHammingDistance(vector<int>& source, vector<int>& target, vector<vector<int>>& allowedSwaps) {
+        DSU dsu(source.size());
+        for (const auto& s : allowedSwaps) {
+            dsu.join(s[0], s[1]);
         }
-        int ans = 0;
-        for (int i = 0; i < n; i++) {
-            int f = find(i);
-            if (sets[f][target[i]] > 0)
-                sets[f][target[i]]--;
-            else
-                ans++;
+        vector<unordered_map<int, int>> cons(source.size());
+        for (int i = 0; i < source.size(); ++i) {
+            if (source[i] == target[i]) {
+                continue;
+            }
+            ++cons[dsu.find(i)][source[i]];
         }
-        return ans;
+        int result = 0;
+        for (int i = 0; i < source.size(); ++i) {
+            if (source[i] == target[i])
+                continue;
+        
+            int my_parent = dsu.find(i);
+            if (not cons[my_parent].contains(target[i])) {
+                ++result;
+            } else {
+                if (cons[my_parent][target[i]] == 1) {
+                    cons[my_parent].erase(target[i]);
+                } else {
+                    --cons[my_parent][target[i]];
+                }
+            }
+        }
+        return result;
     }
 };
