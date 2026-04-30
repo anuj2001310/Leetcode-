@@ -1,39 +1,40 @@
 class Solution {
 public:
+    int m, n;
+    static int dp[201][201][1001];
+    int f(int r, int c, int k, vector<vector<int>>& g) {
+        if (k < 0)
+            return -1e8;
+        if (r == m - 1 && c == n - 1) {
+            k -= ((g[r][c] == 0) ? 0 : 1);
+            if (k >= 0)
+                return g[r][c];
+            return -1e8;
+        }
+        if (dp[r][c][k] != INT_MIN)
+            return dp[r][c][k];
+        int down = -1e8, right = -1e8, score = g[r][c];
+        int cost = score > 0 ? 1 : 0;
+        if (r != m - 1) {
+            down = score + f(r + 1, c, k - cost, g);
+        }
+        if (c != n - 1) {
+            right = score + f(r, c + 1, k - cost, g);
+        }
+        return dp[r][c][k] = max(down, right);
+    }
     int maxPathScore(vector<vector<int>>& grid, int k) {
-        int m = grid.size();
-        int n = grid[0].size();
-        vector<vector<vector<int>>> dp(
-            m, vector<vector<int>>(n, vector<int>(k + 1, INT_MIN)));
-        dp[0][0][0] = 0;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                for (int c = 0; c <= k; c++) {
-                    if (dp[i][j][c] == INT_MIN)
-                        continue;
-                    if (i + 1 < m) {
-                        int val = grid[i + 1][j];
-                        int cost = (val == 0 ? 0 : 1);
-                        if (c + cost <= k) {
-                            dp[i + 1][j][c + cost] =
-                                max(dp[i + 1][j][c + cost], dp[i][j][c] + val);
-                        }
-                    }
-                    if (j + 1 < n) {
-                        int val = grid[i][j + 1];
-                        int cost = (val == 0 ? 0 : 1);
-                        if (c + cost <= k) {
-                            dp[i][j + 1][c + cost] =
-                                max(dp[i][j + 1][c + cost], dp[i][j][c] + val);
-                        }
-                    }
+        m = grid.size();
+        n = grid[0].size();
+        for (int i = 0; i <= m; i++) {
+            for (int j = 0; j <= n; j++) {
+                for (int l = 0; l <= k; l++) {
+                    dp[i][j][l] = INT_MIN;
                 }
             }
         }
-        int ans = INT_MIN;
-        for (int c = 0; c <= k; c++) {
-            ans = max(ans, dp[m - 1][n - 1][c]);
-        }
+        int ans = f(0, 0, k, grid);
         return ans < 0 ? -1 : ans;
     }
 };
+int Solution::dp[201][201][1001];
