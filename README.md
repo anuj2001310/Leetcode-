@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/anuj2001310/Leetcode-/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anuj2001310/Leetcode-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/anuj2001310/Leetcode-/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anuj2001310/Leetcode-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1170,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/anuj2001310/Leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anuj2001310/Leetcode-/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/anuj2001310/Leetcode-/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/anuj2001310/Leetcode-/tree/master/0396-rotate-function) |
 | [0650-2-keys-keyboard](https://github.com/anuj2001310/Leetcode-/tree/master/0650-2-keys-keyboard) |
 | [0651-4-keys-keyboard](https://github.com/anuj2001310/Leetcode-/tree/master/0651-4-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/anuj2001310/Leetcode-/tree/master/0670-maximum-swap) |
@@ -1751,6 +1753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuj2001310/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0361-bomb-enemy](https://github.com/anuj2001310/Leetcode-/tree/master/0361-bomb-enemy) |
 | [0368-largest-divisible-subset](https://github.com/anuj2001310/Leetcode-/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/anuj2001310/Leetcode-/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0494-target-sum) |
