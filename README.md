@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/anuj2001310/Leetcode-/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anuj2001310/Leetcode-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/anuj2001310/Leetcode-/tree/master/1656-count-good-triplets) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/anuj2001310/Leetcode-/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anuj2001310/Leetcode-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anuj2001310/Leetcode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/anuj2001310/Leetcode-/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/anuj2001310/Leetcode-/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anuj2001310/Leetcode-/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/anuj2001310/Leetcode-/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1813-maximum-erasure-value](https://github.com/anuj2001310/Leetcode-/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anuj2001310/Leetcode-/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anuj2001310/Leetcode-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/anuj2001310/Leetcode-/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anuj2001310/Leetcode-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/anuj2001310/Leetcode-/tree/master/1895-largest-magic-square) |
