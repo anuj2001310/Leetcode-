@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/anuj2001310/Leetcode-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anuj2001310/Leetcode-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/anuj2001310/Leetcode-/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/anuj2001310/Leetcode-/tree/master/1306-jump-game-iii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anuj2001310/Leetcode-/tree/master/1329-sort-the-matrix-diagonally) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/anuj2001310/Leetcode-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anuj2001310/Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1591,6 +1592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anuj2001310/Leetcode-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/anuj2001310/Leetcode-/tree/master/1306-jump-game-iii) |
 | [1380-number-of-closed-islands](https://github.com/anuj2001310/Leetcode-/tree/master/1380-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/anuj2001310/Leetcode-/tree/master/1396-count-servers-that-communicate) |
@@ -1713,6 +1715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1102-path-with-maximum-minimum-value](https://github.com/anuj2001310/Leetcode-/tree/master/1102-path-with-maximum-minimum-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anuj2001310/Leetcode-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/anuj2001310/Leetcode-/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anuj2001310/Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/anuj2001310/Leetcode-/tree/master/1380-number-of-closed-islands) |
