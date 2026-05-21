@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anuj2001310/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj2001310/Leetcode-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anuj2001310/Leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anuj2001310/Leetcode-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anuj2001310/Leetcode-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/anuj2001310/Leetcode-/tree/master/3074-apple-redistribution-into-boxes) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/2915-count-of-interesting-subarrays) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anuj2001310/Leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3063-linked-list-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3063-linked-list-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/anuj2001310/Leetcode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1135,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anuj2001310/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/anuj2001310/Leetcode-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anuj2001310/Leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anuj2001310/Leetcode-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anuj2001310/Leetcode-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -1770,6 +1773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/anuj2001310/Leetcode-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anuj2001310/Leetcode-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anuj2001310/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anuj2001310/Leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anuj2001310/Leetcode-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
