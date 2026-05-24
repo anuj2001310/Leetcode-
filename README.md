@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/anuj2001310/Leetcode-/tree/master/1306-jump-game-iii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anuj2001310/Leetcode-/tree/master/1329-sort-the-matrix-diagonally) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/anuj2001310/Leetcode-/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1340-jump-game-v](https://github.com/anuj2001310/Leetcode-/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anuj2001310/Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/anuj2001310/Leetcode-/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anuj2001310/Leetcode-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anuj2001310/Leetcode-/tree/master/1329-sort-the-matrix-diagonally) |
+| [1340-jump-game-v](https://github.com/anuj2001310/Leetcode-/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anuj2001310/Leetcode-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anuj2001310/Leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anuj2001310/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1815,6 +1817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/anuj2001310/Leetcode-/tree/master/1117-as-far-from-land-as-possible) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anuj2001310/Leetcode-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/anuj2001310/Leetcode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/anuj2001310/Leetcode-/tree/master/1340-jump-game-v) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/anuj2001310/Leetcode-/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anuj2001310/Leetcode-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/anuj2001310/Leetcode-/tree/master/1458-max-dot-product-of-two-subsequences) |
