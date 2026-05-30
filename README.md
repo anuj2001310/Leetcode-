@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/anuj2001310/Leetcode-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anuj2001310/Leetcode-/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/anuj2001310/Leetcode-/tree/master/0994-rotting-oranges) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/anuj2001310/Leetcode-/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/anuj2001310/Leetcode-/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj2001310/Leetcode-/tree/master/1014-k-closest-points-to-origin) |
@@ -1610,6 +1611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/anuj2001310/Leetcode-/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/anuj2001310/Leetcode-/tree/master/0945-snakes-and-ladders) |
 | [0993-cousins-in-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/anuj2001310/Leetcode-/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/anuj2001310/Leetcode-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anuj2001310/Leetcode-/tree/master/1073-number-of-enclaves) |
@@ -1930,6 +1932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/anuj2001310/Leetcode-/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/anuj2001310/Leetcode-/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/anuj2001310/Leetcode-/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/anuj2001310/Leetcode-/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/anuj2001310/Leetcode-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anuj2001310/Leetcode-/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1091-shortest-path-in-binary-matrix) |
