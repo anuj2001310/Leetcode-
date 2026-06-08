@@ -7,6 +7,8 @@ public:
             int r = n % 2;
             if (r == prev && r)
                 cnt++;
+            if (cnt > 1)
+                break;
             n >>= 1;
             prev = r;
         }
