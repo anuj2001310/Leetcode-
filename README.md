@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/anuj2001310/Leetcode-/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/anuj2001310/Leetcode-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anuj2001310/Leetcode-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-two-best-non-overlapping-events](https://github.com/anuj2001310/Leetcode-/tree/master/2164-two-best-non-overlapping-events) |
 | [2169-simple-bank-system](https://github.com/anuj2001310/Leetcode-/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anuj2001310/Leetcode-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/anuj2001310/Leetcode-/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/anuj2001310/Leetcode-/tree/master/1972-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anuj2001310/Leetcode-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/anuj2001310/Leetcode-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anuj2001310/Leetcode-/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1479,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/anuj2001310/Leetcode-/tree/master/2048-build-array-from-permutation) |
 | [2069-walking-robot-simulation-ii](https://github.com/anuj2001310/Leetcode-/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/anuj2001310/Leetcode-/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anuj2001310/Leetcode-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/anuj2001310/Leetcode-/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/anuj2001310/Leetcode-/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/2232-adding-spaces-to-a-string) |
