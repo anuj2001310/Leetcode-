@@ -1,10 +1,10 @@
 bool consecutiveSetBits(int n) {
-    int cnt = 0, p = -1;
-    for (; n > 0; n >>= 1) {
-        int r = ((n & 1) != 0) ? 1 : 0;
-        if (r == 1 && r == p)
-            cnt++;
+    int c = 0, p = -1;
+    for (; n; n >>= 1) {
+        int r = (n & 1);
+        if (r && r == p)
+            c++;
         p = r;
     }
-    return cnt == 1;
+    return c == 1;
 }
