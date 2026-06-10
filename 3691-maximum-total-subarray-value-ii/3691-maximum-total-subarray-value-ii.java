@@ -1,90 +1,132 @@
-class SegTree {
-
-    int[] maxv;
-    int[] minv;
-    int n;
-
-    SegTree(int[] nums) {
-        n = nums.length;
-        maxv = new int[n * 4];
-        minv = new int[n * 4];
-        build(1, 0, n - 1, nums);
-    }
-
-    void build(int node, int l, int r, int[] nums) {
-        if (l == r) {
-            maxv[node] = minv[node] = nums[l];
-            return;
-        }
-        int m = (l + r) / 2;
-        build(node * 2, l, m, nums);
-        build(node * 2 + 1, m + 1, r, nums);
-        maxv[node] = Math.max(maxv[node * 2], maxv[node * 2 + 1]);
-        minv[node] = Math.min(minv[node * 2], minv[node * 2 + 1]);
-    }
-
-    int queryMax(int node, int l, int r, int ql, int qr) {
-        if (ql <= l && r <= qr) {
-            return maxv[node];
-        }
-        int m = (l + r) / 2;
-        int res = Integer.MIN_VALUE;
-        if (ql <= m) {
-            res = Math.max(res, queryMax(node * 2, l, m, ql, qr));
-        }
-        if (qr > m) {
-            res = Math.max(res, queryMax(node * 2 + 1, m + 1, r, ql, qr));
-        }
-        return res;
-    }
-
-    int queryMin(int node, int l, int r, int ql, int qr) {
-        if (ql <= l && r <= qr) {
-            return minv[node];
-        }
-        int m = (l + r) / 2;
-        int res = Integer.MAX_VALUE;
-        if (ql <= m) {
-            res = Math.min(res, queryMin(node * 2, l, m, ql, qr));
-        }
-        if (qr > m) {
-            res = Math.min(res, queryMin(node * 2 + 1, m + 1, r, ql, qr));
-        }
-        return res;
-    }
-}
-
 class Solution {
+    private static class SegmentTree {
+        private static class Node {
+            int startIndex;
+            int endIndex;
+            int max;
+            int min;
+            Node left;
+            Node right;
 
-    public long maxTotalValue(int[] nums, int k) {
-        int n = nums.length;
-        SegTree seg = new SegTree(nums);
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> b[0] - a[0]);
-        for (int l = 0; l < n; l++) {
-            pq.offer(
-                    new int[] {
-                            seg.queryMax(1, 0, n - 1, l, n - 1) -
-                                    seg.queryMin(1, 0, n - 1, l, n - 1),
-                            l,
-                            n - 1,
-                    });
-        }
-        long ans = 0;
-        while (k-- > 0) {
-            int[] top = pq.poll();
-            ans += top[0];
-            int l = top[1];
-            int r = top[2];
-            if (r > l) {
-                pq.offer(
-                        new int[] {
-                                seg.queryMax(1, 0, n - 1, l, r - 1) -
-                                        seg.queryMin(1, 0, n - 1, l, r - 1),
-                                l,
-                                r - 1,
-                        });
+            Node(int startIndex, int endIndex) {
+                this.startIndex = startIndex;
+                this.endIndex = endIndex;
             }
         }
+
+        Node root;
+
+        SegmentTree(int[] nums) {
+            this.root = buildTree(nums, 0, nums.length - 1);
+        }
+
+        private Node buildTree(int[] nums, int left, int right) {
+            Node node = new Node(left, right);
+
+            if (left == right) {
+                node.max = nums[left];
+                node.min = nums[left];
+                return node;
+            }
+
+            int mid = left + (right - left) / 2;
+            node.left = buildTree(nums, left, mid);
+            node.right = buildTree(nums, mid + 1, right);
+
+            node.max = Math.max(node.left.max, node.right.max);
+            node.min = Math.min(node.left.min, node.right.min);
+
+            return node;
+        }
+
+        // Query returns max, in for range
+        private static class Pair {
+            int max;
+            int min;
+
+            Pair(int max, int min) {
+                this.max = max;
+                this.min = min;
+            }
+        }
+
+        Pair query(int left, int right) {
+            return queryHelper(root, left, right);
+        }
+
+        private Pair queryHelper(Node node, int left, int right) {
+            // no overlap
+            if (node == null || node.endIndex < left || node.startIndex > right) {
+                return new Pair(Integer.MIN_VALUE, Integer.MAX_VALUE);
+            }
+
+            // complete overlap
+            if (left <= node.startIndex && right >= node.endIndex) {
+                return new Pair(node.max, node.min);
+            }
+
+            Pair leftNode = queryHelper(node.left, left, right);
+            Pair rightNode = queryHelper(node.right, left, right);
+
+            return new Pair(
+                    Math.max(leftNode.max, rightNode.max),
+                    Math.min(leftNode.min, rightNode.min));
+        }
+    }
+
+    private static class State {
+        long value;
+        int left;
+        int right;
+
+        State(long value, int left, int right) {
+            this.value = value;
+            this.left = left;
+            this.right = right;
+        }
+    }
+
+    public static long maxTotalValue(int[] nums, int k) {
+        int n = nums.length;
+        SegmentTree segmentTree = new SegmentTree(nums);
+        PriorityQueue<State> pq = new PriorityQueue<>((state1, state2) -> Long.compare(state2.value, state1.value));
+
+        Set<String> vis = new HashSet<>();
+        SegmentTree.Pair root = segmentTree.query(0, n - 1);
+        pq.add(new State((long) root.max - root.min, 0, n - 1));
+        vis.add("0..." + (n - 1));
+
+        long ans = 0;
+
+        while (k > 0 && !pq.isEmpty()) {
+            State curr = pq.poll();
+            ans += curr.value;
+            k--;
+
+            int left = curr.left;
+            int right = curr.right;
+
+            // left++
+            if (left + 1 <= right) {
+                String key = (left + 1) + "..." + right;
+                if (!vis.contains(key)) {
+                    SegmentTree.Pair pair = segmentTree.query(left + 1, right);
+                    pq.add(new State((long) pair.max - pair.min, left + 1, right));
+                    vis.add(key);
+                }
+            }
+
+            // right--
+            if (left <= right - 1) {
+                String key = left + "..." + (right - 1);
+                if (!vis.contains(key)) {
+                    SegmentTree.Pair pair = segmentTree.query(left, right - 1);
+                    pq.add(new State((long) pair.max - pair.min, left, right - 1));
+                    vis.add(key);
+                }
+            }
+        }
+
         return ans;
     }
 }
