@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/anuj2001310/Leetcode-/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anuj2001310/Leetcode-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anuj2001310/Leetcode-/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3838-weighted-word-mapping](https://github.com/anuj2001310/Leetcode-/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/anuj2001310/Leetcode-/tree/master/3842-toggle-light-bulbs) |
 | [3849-equal-sum-grid-partition-i](https://github.com/anuj2001310/Leetcode-/tree/master/3849-equal-sum-grid-partition-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anuj2001310/Leetcode-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1220,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3805-count-caesar-cipher-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/3805-count-caesar-cipher-pairs) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/anuj2001310/Leetcode-/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3838-weighted-word-mapping](https://github.com/anuj2001310/Leetcode-/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/anuj2001310/Leetcode-/tree/master/3856-trim-trailing-vowels) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/anuj2001310/Leetcode-/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anuj2001310/Leetcode-/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -1528,6 +1530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-calculate-score-after-performing-instructions](https://github.com/anuj2001310/Leetcode-/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3790-fruits-into-baskets-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/anuj2001310/Leetcode-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/anuj2001310/Leetcode-/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/anuj2001310/Leetcode-/tree/master/3842-toggle-light-bulbs) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/anuj2001310/Leetcode-/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/anuj2001310/Leetcode-/tree/master/4051-remove-zeros-in-decimal-representation) |
