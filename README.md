@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/anuj2001310/Leetcode-/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/anuj2001310/Leetcode-/tree/master/1073-number-of-enclaves) |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/anuj2001310/Leetcode-/tree/master/1085-sum-of-digits-in-the-minimum-number) |
+| [1089-duplicate-zeros](https://github.com/anuj2001310/Leetcode-/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1099-two-sum-less-than-k](https://github.com/anuj2001310/Leetcode-/tree/master/1099-two-sum-less-than-k) |
 | [1102-path-with-maximum-minimum-value](https://github.com/anuj2001310/Leetcode-/tree/master/1102-path-with-maximum-minimum-value) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/anuj2001310/Leetcode-/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/anuj2001310/Leetcode-/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/anuj2001310/Leetcode-/tree/master/0868-push-dominoes) |
+| [1089-duplicate-zeros](https://github.com/anuj2001310/Leetcode-/tree/master/1089-duplicate-zeros) |
 | [1099-two-sum-less-than-k](https://github.com/anuj2001310/Leetcode-/tree/master/1099-two-sum-less-than-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anuj2001310/Leetcode-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anuj2001310/Leetcode-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
