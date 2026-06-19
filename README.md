@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anuj2001310/Leetcode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anuj2001310/Leetcode-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1730-shortest-path-to-get-food](https://github.com/anuj2001310/Leetcode-/tree/master/1730-shortest-path-to-get-food) |
+| [1732-find-the-highest-altitude](https://github.com/anuj2001310/Leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anuj2001310/Leetcode-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anuj2001310/Leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/anuj2001310/Leetcode-/tree/master/1753-path-with-minimum-effort) |
@@ -979,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anuj2001310/Leetcode-/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/anuj2001310/Leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/anuj2001310/Leetcode-/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anuj2001310/Leetcode-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
