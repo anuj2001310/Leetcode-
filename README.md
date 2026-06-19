@@ -1444,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/anuj2001310/Leetcode-/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3827-count-monobit-integers](https://github.com/anuj2001310/Leetcode-/tree/master/3827-count-monobit-integers) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anuj2001310/Leetcode-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/anuj2001310/Leetcode-/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -1475,6 +1476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/anuj2001310/Leetcode-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3827-count-monobit-integers](https://github.com/anuj2001310/Leetcode-/tree/master/3827-count-monobit-integers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/anuj2001310/Leetcode-/tree/master/3849-equal-sum-grid-partition-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/anuj2001310/Leetcode-/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -1957,6 +1959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anuj2001310/Leetcode-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/anuj2001310/Leetcode-/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
