@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anuj2001310/Leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/anuj2001310/Leetcode-/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/anuj2001310/Leetcode-/tree/master/1755-defuse-the-bomb) |
+| [1762-buildings-with-an-ocean-view](https://github.com/anuj2001310/Leetcode-/tree/master/1762-buildings-with-an-ocean-view) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anuj2001310/Leetcode-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1767-design-front-middle-back-queue](https://github.com/anuj2001310/Leetcode-/tree/master/1767-design-front-middle-back-queue) |
 | [1813-maximum-erasure-value](https://github.com/anuj2001310/Leetcode-/tree/master/1813-maximum-erasure-value) |
@@ -1557,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/anuj2001310/Leetcode-/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anuj2001310/Leetcode-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1762-buildings-with-an-ocean-view](https://github.com/anuj2001310/Leetcode-/tree/master/1762-buildings-with-an-ocean-view) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anuj2001310/Leetcode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anuj2001310/Leetcode-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -2241,6 +2243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/anuj2001310/Leetcode-/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anuj2001310/Leetcode-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1762-buildings-with-an-ocean-view](https://github.com/anuj2001310/Leetcode-/tree/master/1762-buildings-with-an-ocean-view) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj2001310/Leetcode-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anuj2001310/Leetcode-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3738-make-array-non-decreasing](https://github.com/anuj2001310/Leetcode-/tree/master/3738-make-array-non-decreasing) |
