@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/anuj2001310/Leetcode-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anuj2001310/Leetcode-/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/anuj2001310/Leetcode-/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/anuj2001310/Leetcode-/tree/master/0994-rotting-oranges) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/anuj2001310/Leetcode-/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/anuj2001310/Leetcode-/tree/master/1006-vowel-spellchecker) |
@@ -1264,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/anuj2001310/Leetcode-/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/anuj2001310/Leetcode-/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/anuj2001310/Leetcode-/tree/master/0900-reordered-power-of-2) |
+| [0989-add-to-array-form-of-integer](https://github.com/anuj2001310/Leetcode-/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/anuj2001310/Leetcode-/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj2001310/Leetcode-/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/anuj2001310/Leetcode-/tree/master/1015-smallest-integer-divisible-by-k) |
