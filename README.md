@@ -1452,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/anuj2001310/Leetcode-/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3827-count-monobit-integers](https://github.com/anuj2001310/Leetcode-/tree/master/3827-count-monobit-integers) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anuj2001310/Leetcode-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/anuj2001310/Leetcode-/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/anuj2001310/Leetcode-/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
 |  |
