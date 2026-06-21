@@ -1,5 +1,9 @@
-class Solution:
-    def consecutiveSetBits(self, n: int) -> bool:
+class Solution(object):
+    def consecutiveSetBits(self, n):
+        """
+        :type n: int
+        :rtype: bool
+        """
         cnt, p = 0, -1
         while n:
             r = 1 if n & 1 else 0
@@ -10,4 +14,3 @@ class Solution:
             n >>= 1
         
         return cnt == 1
-        
