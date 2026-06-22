@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0356-line-reflection](https://github.com/anuj2001310/Leetcode-/tree/master/0356-line-reflection) |
+| [0383-ransom-note](https://github.com/anuj2001310/Leetcode-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/anuj2001310/Leetcode-/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/anuj2001310/Leetcode-/tree/master/0525-contiguous-array) |
 | [0531-lonely-pixel-i](https://github.com/anuj2001310/Leetcode-/tree/master/0531-lonely-pixel-i) |
@@ -1098,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/anuj2001310/Leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0243-shortest-word-distance](https://github.com/anuj2001310/Leetcode-/tree/master/0243-shortest-word-distance) |
 | [0293-flip-game](https://github.com/anuj2001310/Leetcode-/tree/master/0293-flip-game) |
+| [0383-ransom-note](https://github.com/anuj2001310/Leetcode-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/anuj2001310/Leetcode-/tree/master/0389-find-the-difference) |
 | [0474-ones-and-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0474-ones-and-zeroes) |
 | [0499-the-maze-iii](https://github.com/anuj2001310/Leetcode-/tree/master/0499-the-maze-iii) |
@@ -2164,6 +2166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/anuj2001310/Leetcode-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/anuj2001310/Leetcode-/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/anuj2001310/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/anuj2001310/Leetcode-/tree/master/0767-reorganize-string) |
