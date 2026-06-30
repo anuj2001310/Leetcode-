@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/anuj2001310/Leetcode-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/anuj2001310/Leetcode-/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/anuj2001310/Leetcode-/tree/master/1036-rotting-oranges) |
+| [1037-valid-boomerang](https://github.com/anuj2001310/Leetcode-/tree/master/1037-valid-boomerang) |
 | [1063-best-sightseeing-pair](https://github.com/anuj2001310/Leetcode-/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/anuj2001310/Leetcode-/tree/master/1073-number-of-enclaves) |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/anuj2001310/Leetcode-/tree/master/1085-sum-of-digits-in-the-minimum-number) |
@@ -1292,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/anuj2001310/Leetcode-/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/anuj2001310/Leetcode-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/anuj2001310/Leetcode-/tree/master/1018-largest-perimeter-triangle) |
+| [1037-valid-boomerang](https://github.com/anuj2001310/Leetcode-/tree/master/1037-valid-boomerang) |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/anuj2001310/Leetcode-/tree/master/1085-sum-of-digits-in-the-minimum-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anuj2001310/Leetcode-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anuj2001310/Leetcode-/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -2509,6 +2511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0830-largest-triangle-area](https://github.com/anuj2001310/Leetcode-/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj2001310/Leetcode-/tree/master/1014-k-closest-points-to-origin) |
+| [1037-valid-boomerang](https://github.com/anuj2001310/Leetcode-/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anuj2001310/Leetcode-/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anuj2001310/Leetcode-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
