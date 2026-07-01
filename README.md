@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
 | [0286-walls-and-gates](https://github.com/anuj2001310/Leetcode-/tree/master/0286-walls-and-gates) |
+| [0288-unique-word-abbreviation](https://github.com/anuj2001310/Leetcode-/tree/master/0288-unique-word-abbreviation) |
 | [0305-number-of-islands-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0305-number-of-islands-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0356-line-reflection](https://github.com/anuj2001310/Leetcode-/tree/master/0356-line-reflection) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anuj2001310/Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anuj2001310/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anuj2001310/Leetcode-/tree/master/0268-missing-number) |
+| [0288-unique-word-abbreviation](https://github.com/anuj2001310/Leetcode-/tree/master/0288-unique-word-abbreviation) |
 | [0305-number-of-islands-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0305-number-of-islands-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -1114,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anuj2001310/Leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0243-shortest-word-distance](https://github.com/anuj2001310/Leetcode-/tree/master/0243-shortest-word-distance) |
+| [0288-unique-word-abbreviation](https://github.com/anuj2001310/Leetcode-/tree/master/0288-unique-word-abbreviation) |
 | [0293-flip-game](https://github.com/anuj2001310/Leetcode-/tree/master/0293-flip-game) |
 | [0383-ransom-note](https://github.com/anuj2001310/Leetcode-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/anuj2001310/Leetcode-/tree/master/0389-find-the-difference) |
@@ -2486,6 +2489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/anuj2001310/Leetcode-/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/anuj2001310/Leetcode-/tree/master/0225-implement-stack-using-queues) |
+| [0288-unique-word-abbreviation](https://github.com/anuj2001310/Leetcode-/tree/master/0288-unique-word-abbreviation) |
 | [0362-design-hit-counter](https://github.com/anuj2001310/Leetcode-/tree/master/0362-design-hit-counter) |
 | [0631-design-excel-sum-formula](https://github.com/anuj2001310/Leetcode-/tree/master/0631-design-excel-sum-formula) |
 | [0635-design-log-storage-system](https://github.com/anuj2001310/Leetcode-/tree/master/0635-design-log-storage-system) |
