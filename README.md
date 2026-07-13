@@ -1493,6 +1493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/anuj2001310/Leetcode-/tree/master/0900-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/anuj2001310/Leetcode-/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/anuj2001310/Leetcode-/tree/master/1656-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/anuj2001310/Leetcode-/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anuj2001310/Leetcode-/tree/master/1993-sum-of-all-subset-xor-totals) |
