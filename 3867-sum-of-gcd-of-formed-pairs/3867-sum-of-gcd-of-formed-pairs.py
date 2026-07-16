@@ -1,21 +1,18 @@
 class Solution:
     def gcdSum(self, nums: list[int]) -> int:
         n = len(nums)
-        pg = p = [-1] * n
-        p[0] = nums[0]
-        for i in range(1, n):
-            p[i] = max(p[i - 1], nums[i])
+        curr = nums[0]
 
-        for i in range(1, n):
-            pg[i] = math.gcd(p[i], nums[i])
-
-        pg.sort()
-        i, j = 0, n - 1
+        for i in range(n):
+            if nums[i] > curr:
+                curr = nums[i]
+            
+            nums[i] = math.gcd(nums[i], curr)
+        
+        nums.sort()
         s = 0
 
-        while i < j:
-            s += math.gcd(pg[i], pg[j])
-            i += 1
-            j -= 1
-
+        for i in range(n >> 1):
+            s += math.gcd(nums[i], nums[~i])
+        
         return s
