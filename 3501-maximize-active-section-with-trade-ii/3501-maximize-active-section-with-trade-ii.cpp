@@ -55,8 +55,8 @@ public:
         }
 
         int m = zeroBlocks.size();
-        if (m < 2) { // continuous 0 blocks less than 2 segments, return the
-                     // answer directly
+        if (m < 2) {  // continuous 0 blocks less than 2 segments, return the
+                      // answer directly
             return vector<int>(queries.size(), cnt1);
         }
         vector<int> tmpSum(m - 1);
@@ -80,11 +80,11 @@ public:
             }
 
             int firstLen = blockRight[i] - max(blockLeft[i], l) +
-                           1; // actual length of the first consecutive block
-                              // of 0s in the substring
+                           1;  // actual length of the first consecutive block
+                               // of 0s in the substring
             int lastLen = min(blockRight[j], r) - blockLeft[j] +
-                          1; // actual length of the last consecutive block of
-                             // 0s in the substring
+                          1;  // actual length of the last consecutive block of
+                              // 0s in the substring
             // exactly 2 consecutive 0 blocks within the substring
             if (i + 1 == j) {
                 int bestGain = firstLen + lastLen;
