@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/anuj2001310/Leetcode-/tree/master/0419-battleships-in-a-board) |
 | [0474-ones-and-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anuj2001310/Leetcode-/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/anuj2001310/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0490-the-maze](https://github.com/anuj2001310/Leetcode-/tree/master/0490-the-maze) |
 | [0494-target-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/anuj2001310/Leetcode-/tree/master/0498-diagonal-traverse) |
@@ -1307,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0356-line-reflection](https://github.com/anuj2001310/Leetcode-/tree/master/0356-line-reflection) |
 | [0368-largest-divisible-subset](https://github.com/anuj2001310/Leetcode-/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/anuj2001310/Leetcode-/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/anuj2001310/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/anuj2001310/Leetcode-/tree/master/0650-2-keys-keyboard) |
 | [0651-4-keys-keyboard](https://github.com/anuj2001310/Leetcode-/tree/master/0651-4-keys-keyboard) |
@@ -1560,6 +1562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/anuj2001310/Leetcode-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anuj2001310/Leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anuj2001310/Leetcode-/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/anuj2001310/Leetcode-/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/anuj2001310/Leetcode-/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/anuj2001310/Leetcode-/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anuj2001310/Leetcode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1960,6 +1963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/anuj2001310/Leetcode-/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/anuj2001310/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/anuj2001310/Leetcode-/tree/master/0650-2-keys-keyboard) |
@@ -2643,6 +2647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/anuj2001310/Leetcode-/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
