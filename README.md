@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/anuj2001310/Leetcode-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/anuj2001310/Leetcode-/tree/master/3731-find-missing-elements) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/anuj2001310/Leetcode-/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/anuj2001310/Leetcode-/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anuj2001310/Leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/anuj2001310/Leetcode-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/anuj2001310/Leetcode-/tree/master/3731-find-missing-elements) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/anuj2001310/Leetcode-/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anuj2001310/Leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/anuj2001310/Leetcode-/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anuj2001310/Leetcode-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3731-find-missing-elements](https://github.com/anuj2001310/Leetcode-/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/anuj2001310/Leetcode-/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/anuj2001310/Leetcode-/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/anuj2001310/Leetcode-/tree/master/3812-smallest-palindromic-rearrangement-i) |
