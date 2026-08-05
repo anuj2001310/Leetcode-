@@ -1799,6 +1799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/anuj2001310/Leetcode-/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/anuj2001310/Leetcode-/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/anuj2001310/Leetcode-/tree/master/3310-remove-methods-from-project) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/anuj2001310/Leetcode-/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/anuj2001310/Leetcode-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anuj2001310/Leetcode-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1929,6 +1930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2872-maximum-number-of-k-divisible-components](https://github.com/anuj2001310/Leetcode-/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/anuj2001310/Leetcode-/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/anuj2001310/Leetcode-/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
+| [3310-remove-methods-from-project](https://github.com/anuj2001310/Leetcode-/tree/master/3310-remove-methods-from-project) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/anuj2001310/Leetcode-/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anuj2001310/Leetcode-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -2676,6 +2678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anuj2001310/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/anuj2001310/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/anuj2001310/Leetcode-/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/anuj2001310/Leetcode-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search Tree
