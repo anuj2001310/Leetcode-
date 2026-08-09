@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/anuj2001310/Leetcode-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/anuj2001310/Leetcode-/tree/master/1117-as-far-from-land-as-possible) |
 | [1133-largest-unique-number](https://github.com/anuj2001310/Leetcode-/tree/master/1133-largest-unique-number) |
+| [1140-stone-game-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/anuj2001310/Leetcode-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/anuj2001310/Leetcode-/tree/master/1200-minimum-absolute-difference) |
@@ -1029,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/anuj2001310/Leetcode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anuj2001310/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anuj2001310/Leetcode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1140-stone-game-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anuj2001310/Leetcode-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1335,6 +1337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/anuj2001310/Leetcode-/tree/master/1018-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/anuj2001310/Leetcode-/tree/master/1037-valid-boomerang) |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/anuj2001310/Leetcode-/tree/master/1085-sum-of-digits-in-the-minimum-number) |
+| [1140-stone-game-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anuj2001310/Leetcode-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anuj2001310/Leetcode-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/anuj2001310/Leetcode-/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
@@ -1995,6 +1998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/anuj2001310/Leetcode-/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/anuj2001310/Leetcode-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/anuj2001310/Leetcode-/tree/master/1117-as-far-from-land-as-possible) |
+| [1140-stone-game-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anuj2001310/Leetcode-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/anuj2001310/Leetcode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/anuj2001310/Leetcode-/tree/master/1340-jump-game-v) |
@@ -2659,6 +2663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/anuj2001310/Leetcode-/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1140-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
@@ -2708,4 +2713,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/anuj2001310/Leetcode-/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anuj2001310/Leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
