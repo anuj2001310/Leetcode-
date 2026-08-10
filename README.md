@@ -1349,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/anuj2001310/Leetcode-/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/anuj2001310/Leetcode-/tree/master/1500-count-largest-group) |
+| [1510-stone-game-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anuj2001310/Leetcode-/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/anuj2001310/Leetcode-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/anuj2001310/Leetcode-/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -2005,6 +2006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/anuj2001310/Leetcode-/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anuj2001310/Leetcode-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/anuj2001310/Leetcode-/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1510-stone-game-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1510-stone-game-iv) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anuj2001310/Leetcode-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anuj2001310/Leetcode-/tree/master/1628-count-submatrices-with-all-ones) |
@@ -2664,6 +2666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/anuj2001310/Leetcode-/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1510-stone-game-iv) |
 | [3462-vowels-game-in-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
@@ -2717,8 +2720,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
