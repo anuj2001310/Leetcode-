@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/anuj2001310/Leetcode-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anuj2001310/Leetcode-/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anuj2001310/Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/anuj2001310/Leetcode-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/anuj2001310/Leetcode-/tree/master/3731-find-missing-elements) |
@@ -1534,6 +1535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anuj2001310/Leetcode-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/anuj2001310/Leetcode-/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anuj2001310/Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/anuj2001310/Leetcode-/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3827-count-monobit-integers](https://github.com/anuj2001310/Leetcode-/tree/master/3827-count-monobit-integers) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anuj2001310/Leetcode-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
