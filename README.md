@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1539-diagonal-traverse-ii) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/anuj2001310/Leetcode-/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anuj2001310/Leetcode-/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/anuj2001310/Leetcode-/tree/master/1563-stone-game-v) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/anuj2001310/Leetcode-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anuj2001310/Leetcode-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1363,6 +1364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anuj2001310/Leetcode-/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/anuj2001310/Leetcode-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1563-stone-game-v](https://github.com/anuj2001310/Leetcode-/tree/master/1563-stone-game-v) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/anuj2001310/Leetcode-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/anuj2001310/Leetcode-/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -2020,6 +2022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anuj2001310/Leetcode-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/anuj2001310/Leetcode-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/anuj2001310/Leetcode-/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anuj2001310/Leetcode-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anuj2001310/Leetcode-/tree/master/1628-count-submatrices-with-all-ones) |
@@ -2683,6 +2686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/anuj2001310/Leetcode-/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/anuj2001310/Leetcode-/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/anuj2001310/Leetcode-/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
