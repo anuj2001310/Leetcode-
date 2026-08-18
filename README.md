@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anuj2001310/Leetcode-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuj2001310/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/anuj2001310/Leetcode-/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/anuj2001310/Leetcode-/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anuj2001310/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0243-shortest-word-distance](https://github.com/anuj2001310/Leetcode-/tree/master/0243-shortest-word-distance) |
@@ -1744,6 +1745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/anuj2001310/Leetcode-/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/anuj2001310/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/anuj2001310/Leetcode-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anuj2001310/Leetcode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0261-graph-valid-tree) |
@@ -1878,6 +1880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/anuj2001310/Leetcode-/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/anuj2001310/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/anuj2001310/Leetcode-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anuj2001310/Leetcode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0261-graph-valid-tree) |
@@ -2099,6 +2102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/anuj2001310/Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/anuj2001310/Leetcode-/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/anuj2001310/Leetcode-/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0286-walls-and-gates](https://github.com/anuj2001310/Leetcode-/tree/master/0286-walls-and-gates) |
 | [0361-bomb-enemy](https://github.com/anuj2001310/Leetcode-/tree/master/0361-bomb-enemy) |
@@ -2725,6 +2729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anuj2001310/Leetcode-/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0261-graph-valid-tree) |
 | [0305-number-of-islands-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0305-number-of-islands-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anuj2001310/Leetcode-/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
