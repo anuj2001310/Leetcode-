@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anuj2001310/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/anuj2001310/Leetcode-/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anuj2001310/Leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1992-find-all-groups-of-farmland](https://github.com/anuj2001310/Leetcode-/tree/master/1992-find-all-groups-of-farmland) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anuj2001310/Leetcode-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anuj2001310/Leetcode-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anuj2001310/Leetcode-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -1807,6 +1808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/anuj2001310/Leetcode-/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/anuj2001310/Leetcode-/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/anuj2001310/Leetcode-/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1992-find-all-groups-of-farmland](https://github.com/anuj2001310/Leetcode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/anuj2001310/Leetcode-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2092-find-all-people-with-secret](https://github.com/anuj2001310/Leetcode-/tree/master/2092-find-all-people-with-secret) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/anuj2001310/Leetcode-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1942,6 +1944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anuj2001310/Leetcode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1753-path-with-minimum-effort](https://github.com/anuj2001310/Leetcode-/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/anuj2001310/Leetcode-/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1992-find-all-groups-of-farmland](https://github.com/anuj2001310/Leetcode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2092-find-all-people-with-secret](https://github.com/anuj2001310/Leetcode-/tree/master/2092-find-all-people-with-secret) |
 | [2201-valid-arrangement-of-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/anuj2001310/Leetcode-/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -2158,6 +2161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/anuj2001310/Leetcode-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/anuj2001310/Leetcode-/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/anuj2001310/Leetcode-/tree/master/1975-maximum-matrix-sum) |
+| [1992-find-all-groups-of-farmland](https://github.com/anuj2001310/Leetcode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/anuj2001310/Leetcode-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/anuj2001310/Leetcode-/tree/master/2089-maximum-matrix-sum) |
