@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/anuj2001310/Leetcode-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/anuj2001310/Leetcode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3093-longest-common-suffix-queries](https://github.com/anuj2001310/Leetcode-/tree/master/3093-longest-common-suffix-queries) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj2001310/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anuj2001310/Leetcode-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -1408,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/anuj2001310/Leetcode-/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj2001310/Leetcode-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anuj2001310/Leetcode-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj2001310/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/anuj2001310/Leetcode-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anuj2001310/Leetcode-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3201-distribute-candies-among-children-ii) |
@@ -1533,6 +1535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/anuj2001310/Leetcode-/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/anuj2001310/Leetcode-/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/anuj2001310/Leetcode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj2001310/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anuj2001310/Leetcode-/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/anuj2001310/Leetcode-/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -2270,6 +2273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/anuj2001310/Leetcode-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anuj2001310/Leetcode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj2001310/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/anuj2001310/Leetcode-/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anuj2001310/Leetcode-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anuj2001310/Leetcode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -2388,6 +2392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/anuj2001310/Leetcode-/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/anuj2001310/Leetcode-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj2001310/Leetcode-/tree/master/3001-apply-operations-to-maximize-score) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj2001310/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anuj2001310/Leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anuj2001310/Leetcode-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anuj2001310/Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -2666,6 +2671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anuj2001310/Leetcode-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anuj2001310/Leetcode-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/anuj2001310/Leetcode-/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj2001310/Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3201-distribute-candies-among-children-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/anuj2001310/Leetcode-/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/anuj2001310/Leetcode-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
