@@ -10,13 +10,13 @@ public:
         // Give each litter an ID for bitmask
         vector<vector<int>> id(m, vector<int>(n, -1));
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (classroom[i][j] == 'S') {
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(classroom[i][j] == 'S'){
                     sr = i;
                     sc = j;
                 }
-                if (classroom[i][j] == 'L') {
+                if(classroom[i][j] == 'L'){
                     id[i][j] = cnt++;
                 }
             }
@@ -27,7 +27,7 @@ public:
 
         // best[r][c][mask] = max energy reached at this state
         vector<vector<vector<int>>> best;
-        best.resize(m, vector<vector<int>>(n, vector<int>(masks, -1)));
+        best.resize(m,vector<vector<int>>(n,vector<int>(masks,-1)));
 
         struct State {
             int r, c;
@@ -43,7 +43,7 @@ public:
         int dr[] = {-1, 1, 0, 0};
         int dc[] = {0, 0, -1, 1};
 
-        while (!q.empty()) {
+        while(!q.empty()){
             State cur = q.front();
             q.pop();
 
@@ -54,25 +54,25 @@ public:
             int dist = cur.dist;
 
             // All litter collected
-            if (mask == fullMask) {
+            if(mask == fullMask){
                 return dist;
             }
             // No energy, cannot move
-            if (en == 0) {
+            if(en == 0){
                 continue;
             }
 
-            for (int d = 0; d < 4; d++) {
+            for(int d = 0; d < 4; d++){
                 int nr = r + dr[d];
                 int nc = c + dc[d];
 
                 // Outside grid
-                if (nr < 0 || nr >= m || nc < 0 || nc >= n) {
+                if(nr < 0 || nr >= m || nc < 0 || nc >= n){
                     continue;
                 }
 
                 // Obstacle
-                if (classroom[nr][nc] == 'X') {
+                if(classroom[nr][nc] == 'X'){
                     continue;
                 }
 
@@ -80,17 +80,17 @@ public:
                 int newMask = mask;
 
                 // Collect litter
-                if (classroom[nr][nc] == 'L') {
+                if(classroom[nr][nc] == 'L'){
                     newMask |= (1 << id[nr][nc]);
                 }
 
                 // Recharge
-                if (classroom[nr][nc] == 'R') {
+                if(classroom[nr][nc] == 'R'){
                     newEn = energy;
                 }
 
                 // Already reached with more energy
-                if (best[nr][nc][newMask] >= newEn) {
+                if(best[nr][nc][newMask] >= newEn){
                     continue;
                 }
 
