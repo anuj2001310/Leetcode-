@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3862-find-the-smallest-balanced-index](https://github.com/anuj2001310/Leetcode-/tree/master/3862-find-the-smallest-balanced-index) |
 | [3863-power-grid-maintenance](https://github.com/anuj2001310/Leetcode-/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/anuj2001310/Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3885-count-special-triplets](https://github.com/anuj2001310/Leetcode-/tree/master/3885-count-special-triplets) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4005-maximum-total-subarray-value-i](https://github.com/anuj2001310/Leetcode-/tree/master/4005-maximum-total-subarray-value-i) |
@@ -1486,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/anuj2001310/Leetcode-/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anuj2001310/Leetcode-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/anuj2001310/Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/anuj2001310/Leetcode-/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/anuj2001310/Leetcode-/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
