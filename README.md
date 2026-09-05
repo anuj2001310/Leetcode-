@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/anuj2001310/Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3885-count-special-triplets](https://github.com/anuj2001310/Leetcode-/tree/master/3885-count-special-triplets) |
 | [3903-smallest-stable-index-i](https://github.com/anuj2001310/Leetcode-/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3904-smallest-stable-index-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4005-maximum-total-subarray-value-i](https://github.com/anuj2001310/Leetcode-/tree/master/4005-maximum-total-subarray-value-i) |
 | [4024-nearest-available-drone](https://github.com/anuj2001310/Leetcode-/tree/master/4024-nearest-available-drone) |
@@ -1126,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3849-equal-sum-grid-partition-i](https://github.com/anuj2001310/Leetcode-/tree/master/3849-equal-sum-grid-partition-i) |
 | [3862-find-the-smallest-balanced-index](https://github.com/anuj2001310/Leetcode-/tree/master/3862-find-the-smallest-balanced-index) |
 | [3903-smallest-stable-index-i](https://github.com/anuj2001310/Leetcode-/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
 |  |
 | ------- |
