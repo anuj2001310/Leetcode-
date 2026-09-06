@@ -1362,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/anuj2001310/Leetcode-/tree/master/0342-power-of-four) |
 | [0356-line-reflection](https://github.com/anuj2001310/Leetcode-/tree/master/0356-line-reflection) |
 | [0368-largest-divisible-subset](https://github.com/anuj2001310/Leetcode-/tree/master/0368-largest-divisible-subset) |
+| [0372-super-pow](https://github.com/anuj2001310/Leetcode-/tree/master/0372-super-pow) |
 | [0396-rotate-function](https://github.com/anuj2001310/Leetcode-/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/anuj2001310/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -2486,6 +2487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/anuj2001310/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/anuj2001310/Leetcode-/tree/master/0372-super-pow) |
 | [1014-k-closest-points-to-origin](https://github.com/anuj2001310/Leetcode-/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anuj2001310/Leetcode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -2825,4 +2827,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1510-stone-game-iv) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/anuj2001310/Leetcode-/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/anuj2001310/Leetcode-/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
