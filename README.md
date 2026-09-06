@@ -1184,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuj2001310/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/anuj2001310/Leetcode-/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/anuj2001310/Leetcode-/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/anuj2001310/Leetcode-/tree/master/0115-distinct-subsequences) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/anuj2001310/Leetcode-/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0165-compare-version-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anuj2001310/Leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
@@ -2035,6 +2036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/anuj2001310/Leetcode-/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/anuj2001310/Leetcode-/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/anuj2001310/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anuj2001310/Leetcode-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuj2001310/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
