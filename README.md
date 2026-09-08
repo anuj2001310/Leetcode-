@@ -898,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/anuj2001310/Leetcode-/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/anuj2001310/Leetcode-/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2864-maximum-odd-binary-number](https://github.com/anuj2001310/Leetcode-/tree/master/2864-maximum-odd-binary-number) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj2001310/Leetcode-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/anuj2001310/Leetcode-/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1286,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/anuj2001310/Leetcode-/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/anuj2001310/Leetcode-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anuj2001310/Leetcode-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2864-maximum-odd-binary-number](https://github.com/anuj2001310/Leetcode-/tree/master/2864-maximum-odd-binary-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/2887-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anuj2001310/Leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anuj2001310/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1435,6 +1437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/anuj2001310/Leetcode-/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/anuj2001310/Leetcode-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/anuj2001310/Leetcode-/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2864-maximum-odd-binary-number](https://github.com/anuj2001310/Leetcode-/tree/master/2864-maximum-odd-binary-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anuj2001310/Leetcode-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/anuj2001310/Leetcode-/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anuj2001310/Leetcode-/tree/master/3001-apply-operations-to-maximize-score) |
