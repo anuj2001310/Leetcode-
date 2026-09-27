@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/anuj2001310/Leetcode-/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/anuj2001310/Leetcode-/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/anuj2001310/Leetcode-/tree/master/0840-magic-squares-in-grid) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anuj2001310/Leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/anuj2001310/Leetcode-/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/anuj2001310/Leetcode-/tree/master/0900-reordered-power-of-2) |
@@ -1794,6 +1795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0814-binary-tree-pruning](https://github.com/anuj2001310/Leetcode-/tree/master/0814-binary-tree-pruning) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anuj2001310/Leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anuj2001310/Leetcode-/tree/master/0988-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0993-cousins-in-binary-tree) |
@@ -1861,6 +1863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/anuj2001310/Leetcode-/tree/master/0820-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/anuj2001310/Leetcode-/tree/master/0841-keys-and-rooms) |
 | [0854-making-a-large-island](https://github.com/anuj2001310/Leetcode-/tree/master/0854-making-a-large-island) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anuj2001310/Leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/anuj2001310/Leetcode-/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/anuj2001310/Leetcode-/tree/master/0945-snakes-and-ladders) |
@@ -1941,6 +1944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0663-equal-tree-partition](https://github.com/anuj2001310/Leetcode-/tree/master/0663-equal-tree-partition) |
 | [0742-closest-leaf-in-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/anuj2001310/Leetcode-/tree/master/0814-binary-tree-pruning) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anuj2001310/Leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anuj2001310/Leetcode-/tree/master/0988-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0993-cousins-in-binary-tree) |
@@ -2004,6 +2008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/anuj2001310/Leetcode-/tree/master/0820-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/anuj2001310/Leetcode-/tree/master/0841-keys-and-rooms) |
 | [0854-making-a-large-island](https://github.com/anuj2001310/Leetcode-/tree/master/0854-making-a-large-island) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anuj2001310/Leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/anuj2001310/Leetcode-/tree/master/0871-keys-and-rooms) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anuj2001310/Leetcode-/tree/master/0988-flip-equivalent-binary-trees) |
