@@ -1237,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/anuj2001310/Leetcode-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1160-letter-tile-possibilities](https://github.com/anuj2001310/Leetcode-/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/anuj2001310/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anuj2001310/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/anuj2001310/Leetcode-/tree/master/1197-parsing-a-boolean-expression) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/anuj2001310/Leetcode-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1283-reformat-date](https://github.com/anuj2001310/Leetcode-/tree/master/1283-reformat-date) |
@@ -1748,6 +1749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/anuj2001310/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/0780-max-chunks-to-make-sorted) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anuj2001310/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/anuj2001310/Leetcode-/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/anuj2001310/Leetcode-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anuj2001310/Leetcode-/tree/master/1628-count-submatrices-with-all-ones) |
@@ -2886,4 +2888,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/anuj2001310/Leetcode-/tree/master/0372-super-pow) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anuj2001310/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
