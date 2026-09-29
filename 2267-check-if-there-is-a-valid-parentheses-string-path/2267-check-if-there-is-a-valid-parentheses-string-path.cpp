@@ -4,13 +4,11 @@ public:
         int m = grid.size(), n = grid[0].size();
         int lim = (m + n) >> 1;
 
-        if (((m + n) & 1) == 0 || grid[0][0] == ')' ||
-            grid[m - 1][n - 1] == '(')
+        if (((m + n) & 1) == 0 || grid[0][0] == ')' || grid[m - 1][n - 1] == '(')
             return false;
 
         bitset<101> mask;
-        for (int i = 0; i <= lim; i++)
-            mask.set(i);
+        for (int i = 0; i <= lim; i++) mask.set(i);
 
         vector<bitset<101>> dp(n);
 
@@ -20,8 +18,7 @@ public:
         for (int j = 1; j < n; j++) {
             p += grid[0][j] == '(' ? 1 : -1;
 
-            if (p < 0 || p > lim)
-                break;
+            if (p < 0 || p > lim) break;
 
             dp[j].set(p);
         }
