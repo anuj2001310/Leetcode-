@@ -1,12 +1,5 @@
 class Solution {
-    static int[][] dirs = { { -1, -2 },
-            { -2, -1 },
-            { -1, 2 },
-            { -2, 1 },
-            { 1, -2 },
-            { 2, -1 },
-            { 1, 2 },
-            { 2, 1 } };
+    static int[][] dirs = { { -1, -2 }, { -2, -1 }, { -1, 2 }, { -2, 1 }, { 1, -2 }, { 2, -1 },  { 1, 2 },  { 2, 1 } };
 
     public boolean canReach(int[] start, int[] target) {
         boolean[][] vis = new boolean[8][8];
