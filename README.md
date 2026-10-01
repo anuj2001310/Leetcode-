@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/anuj2001310/Leetcode-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3904-smallest-stable-index-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3996-even-number-of-knight-moves](https://github.com/anuj2001310/Leetcode-/tree/master/3996-even-number-of-knight-moves) |
 | [4005-maximum-total-subarray-value-i](https://github.com/anuj2001310/Leetcode-/tree/master/4005-maximum-total-subarray-value-i) |
 | [4024-nearest-available-drone](https://github.com/anuj2001310/Leetcode-/tree/master/4024-nearest-available-drone) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/anuj2001310/Leetcode-/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -1533,6 +1534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuj2001310/Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3996-even-number-of-knight-moves](https://github.com/anuj2001310/Leetcode-/tree/master/3996-even-number-of-knight-moves) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/anuj2001310/Leetcode-/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/anuj2001310/Leetcode-/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Backtracking
