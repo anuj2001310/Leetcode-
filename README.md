@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/anuj2001310/Leetcode-/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/anuj2001310/Leetcode-/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0704-binary-search](https://github.com/anuj2001310/Leetcode-/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/anuj2001310/Leetcode-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/anuj2001310/Leetcode-/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anuj2001310/Leetcode-/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -2342,6 +2343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/anuj2001310/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/anuj2001310/Leetcode-/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anuj2001310/Leetcode-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/anuj2001310/Leetcode-/tree/master/0794-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anuj2001310/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
