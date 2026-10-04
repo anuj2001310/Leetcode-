@@ -859,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/anuj2001310/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuj2001310/Leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/anuj2001310/Leetcode-/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/anuj2001310/Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/anuj2001310/Leetcode-/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/anuj2001310/Leetcode-/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1224,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0631-design-excel-sum-formula](https://github.com/anuj2001310/Leetcode-/tree/master/0631-design-excel-sum-formula) |
 | [0635-design-log-storage-system](https://github.com/anuj2001310/Leetcode-/tree/master/0635-design-log-storage-system) |
 | [0657-robot-return-to-origin](https://github.com/anuj2001310/Leetcode-/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/anuj2001310/Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/anuj2001310/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anuj2001310/Leetcode-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1759,6 +1761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anuj2001310/Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/anuj2001310/Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/anuj2001310/Leetcode-/tree/master/0225-implement-stack-using-queues) |
+| [0678-valid-parenthesis-string](https://github.com/anuj2001310/Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anuj2001310/Leetcode-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anuj2001310/Leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -2113,6 +2116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/anuj2001310/Leetcode-/tree/master/0650-2-keys-keyboard) |
 | [0651-4-keys-keyboard](https://github.com/anuj2001310/Leetcode-/tree/master/0651-4-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/anuj2001310/Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anuj2001310/Leetcode-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anuj2001310/Leetcode-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anuj2001310/Leetcode-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -2916,6 +2920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anuj2001310/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anuj2001310/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anuj2001310/Leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/anuj2001310/Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anuj2001310/Leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anuj2001310/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuj2001310/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
