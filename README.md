@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anuj2001310/Leetcode-/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/anuj2001310/Leetcode-/tree/master/0085-maximal-rectangle) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/anuj2001310/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anuj2001310/Leetcode-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuj2001310/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/anuj2001310/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anuj2001310/Leetcode-/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/anuj2001310/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/anuj2001310/Leetcode-/tree/master/0146-lru-cache) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/anuj2001310/Leetcode-/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
@@ -1797,6 +1799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -1949,6 +1952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -2562,6 +2566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anuj2001310/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/anuj2001310/Leetcode-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anuj2001310/Leetcode-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/anuj2001310/Leetcode-/tree/master/0190-reverse-bits) |
