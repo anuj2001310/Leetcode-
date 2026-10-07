@@ -1221,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0243-shortest-word-distance](https://github.com/anuj2001310/Leetcode-/tree/master/0243-shortest-word-distance) |
 | [0288-unique-word-abbreviation](https://github.com/anuj2001310/Leetcode-/tree/master/0288-unique-word-abbreviation) |
 | [0293-flip-game](https://github.com/anuj2001310/Leetcode-/tree/master/0293-flip-game) |
+| [0301-remove-invalid-parentheses](https://github.com/anuj2001310/Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/anuj2001310/Leetcode-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/anuj2001310/Leetcode-/tree/master/0389-find-the-difference) |
 | [0474-ones-and-zeroes](https://github.com/anuj2001310/Leetcode-/tree/master/0474-ones-and-zeroes) |
@@ -1554,6 +1555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/anuj2001310/Leetcode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/anuj2001310/Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/anuj2001310/Leetcode-/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/anuj2001310/Leetcode-/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/anuj2001310/Leetcode-/tree/master/0679-24-game) |
@@ -1867,6 +1869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0261-graph-valid-tree) |
 | [0286-walls-and-gates](https://github.com/anuj2001310/Leetcode-/tree/master/0286-walls-and-gates) |
+| [0301-remove-invalid-parentheses](https://github.com/anuj2001310/Leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anuj2001310/Leetcode-/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anuj2001310/Leetcode-/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0407-trapping-rain-water-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0407-trapping-rain-water-ii) |
