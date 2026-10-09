@@ -1829,6 +1829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/anuj2001310/Leetcode-/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anuj2001310/Leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0938-range-sum-of-bst](https://github.com/anuj2001310/Leetcode-/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anuj2001310/Leetcode-/tree/master/0988-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0993-cousins-in-binary-tree) |
@@ -1988,6 +1989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/anuj2001310/Leetcode-/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anuj2001310/Leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0938-range-sum-of-bst](https://github.com/anuj2001310/Leetcode-/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anuj2001310/Leetcode-/tree/master/0988-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0993-cousins-in-binary-tree) |
@@ -2057,6 +2059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anuj2001310/Leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/anuj2001310/Leetcode-/tree/master/0871-keys-and-rooms) |
+| [0938-range-sum-of-bst](https://github.com/anuj2001310/Leetcode-/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anuj2001310/Leetcode-/tree/master/0988-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0993-cousins-in-binary-tree) |
@@ -2899,6 +2902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/anuj2001310/Leetcode-/tree/master/0270-closest-binary-search-tree-value) |
 | [0285-inorder-successor-in-bst](https://github.com/anuj2001310/Leetcode-/tree/master/0285-inorder-successor-in-bst) |
+| [0938-range-sum-of-bst](https://github.com/anuj2001310/Leetcode-/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/anuj2001310/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 ## Union-Find
 |  |
