@@ -38,11 +38,10 @@ public:
         int u = ub(n, nums, target);
         if (l == -1 || u == -1)
             return {};
-        
-        vector<int> ans;
-        for (int i = l; i <= u; i += 1)
-            ans.push_back(i);
-        
+
+        vector<int> ans(u - l + 1);
+        iota(ans.begin(), ans.end(), l);
+
         return ans;
     }
 };
