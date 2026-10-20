@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuj2001310/Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3885-count-special-triplets](https://github.com/anuj2001310/Leetcode-/tree/master/3885-count-special-triplets) |
+| [3886-sum-of-sortable-integers](https://github.com/anuj2001310/Leetcode-/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/anuj2001310/Leetcode-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3904-smallest-stable-index-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -1107,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/anuj2001310/Leetcode-/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anuj2001310/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anuj2001310/Leetcode-/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3886-sum-of-sortable-integers](https://github.com/anuj2001310/Leetcode-/tree/master/3886-sum-of-sortable-integers) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/anuj2001310/Leetcode-/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 | [4107-find-missing-elements](https://github.com/anuj2001310/Leetcode-/tree/master/4107-find-missing-elements) |
 ## Prefix Sum
@@ -1571,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/anuj2001310/Leetcode-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuj2001310/Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/anuj2001310/Leetcode-/tree/master/3886-sum-of-sortable-integers) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3996-even-number-of-knight-moves](https://github.com/anuj2001310/Leetcode-/tree/master/3996-even-number-of-knight-moves) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/anuj2001310/Leetcode-/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -1711,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/anuj2001310/Leetcode-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3827-count-monobit-integers](https://github.com/anuj2001310/Leetcode-/tree/master/3827-count-monobit-integers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/anuj2001310/Leetcode-/tree/master/3849-equal-sum-grid-partition-i) |
+| [3886-sum-of-sortable-integers](https://github.com/anuj2001310/Leetcode-/tree/master/3886-sum-of-sortable-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/anuj2001310/Leetcode-/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [4024-nearest-available-drone](https://github.com/anuj2001310/Leetcode-/tree/master/4024-nearest-available-drone) |
 ## Recursion
