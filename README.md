@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/anuj2001310/Leetcode-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3904-smallest-stable-index-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/anuj2001310/Leetcode-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3996-even-number-of-knight-moves](https://github.com/anuj2001310/Leetcode-/tree/master/3996-even-number-of-knight-moves) |
 | [4005-maximum-total-subarray-value-i](https://github.com/anuj2001310/Leetcode-/tree/master/4005-maximum-total-subarray-value-i) |
 | [4024-nearest-available-drone](https://github.com/anuj2001310/Leetcode-/tree/master/4024-nearest-available-drone) |
