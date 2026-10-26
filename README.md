@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/anuj2001310/Leetcode-/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anuj2001310/Leetcode-/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anuj2001310/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/anuj2001310/Leetcode-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anuj2001310/Leetcode-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/anuj2001310/Leetcode-/tree/master/3623-count-number-of-trapezoids-i) |
@@ -1996,6 +1997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/anuj2001310/Leetcode-/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/anuj2001310/Leetcode-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anuj2001310/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anuj2001310/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anuj2001310/Leetcode-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anuj2001310/Leetcode-/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -2148,6 +2150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anuj2001310/Leetcode-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/anuj2001310/Leetcode-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anuj2001310/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anuj2001310/Leetcode-/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3729-unit-conversion-i](https://github.com/anuj2001310/Leetcode-/tree/master/3729-unit-conversion-i) |
@@ -2393,6 +2396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/anuj2001310/Leetcode-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anuj2001310/Leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anuj2001310/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anuj2001310/Leetcode-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/anuj2001310/Leetcode-/tree/master/3643-flip-square-submatrix-vertically) |
@@ -2974,6 +2978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/anuj2001310/Leetcode-/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anuj2001310/Leetcode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anuj2001310/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anuj2001310/Leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Minimax
 |  |
