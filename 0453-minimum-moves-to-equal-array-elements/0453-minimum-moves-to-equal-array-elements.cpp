@@ -1,10 +1,7 @@
-
 class Solution {
 public:
     int minMoves(vector<int>& nums) {
-
         int mini = INT_MAX;
-
         int sum = 0;
 
         for (int x : nums) {
