@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0505-the-maze-ii](https://github.com/anuj2001310/Leetcode-/tree/master/0505-the-maze-ii) |
 | [0525-contiguous-array](https://github.com/anuj2001310/Leetcode-/tree/master/0525-contiguous-array) |
 | [0531-lonely-pixel-i](https://github.com/anuj2001310/Leetcode-/tree/master/0531-lonely-pixel-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anuj2001310/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/anuj2001310/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0594-longest-harmonious-subsequence) |
@@ -2454,6 +2455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0270-closest-binary-search-tree-value](https://github.com/anuj2001310/Leetcode-/tree/master/0270-closest-binary-search-tree-value) |
 | [0362-design-hit-counter](https://github.com/anuj2001310/Leetcode-/tree/master/0362-design-hit-counter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anuj2001310/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/anuj2001310/Leetcode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/anuj2001310/Leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/anuj2001310/Leetcode-/tree/master/0704-binary-search) |
