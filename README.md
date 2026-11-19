@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/anuj2001310/Leetcode-/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/anuj2001310/Leetcode-/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/anuj2001310/Leetcode-/tree/master/0797-rabbits-in-forest) |
+| [0819-most-common-word](https://github.com/anuj2001310/Leetcode-/tree/master/0819-most-common-word) |
 | [0830-largest-triangle-area](https://github.com/anuj2001310/Leetcode-/tree/master/0830-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/anuj2001310/Leetcode-/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/anuj2001310/Leetcode-/tree/master/0840-magic-squares-in-grid) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/anuj2001310/Leetcode-/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/anuj2001310/Leetcode-/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/anuj2001310/Leetcode-/tree/master/0797-rabbits-in-forest) |
+| [0819-most-common-word](https://github.com/anuj2001310/Leetcode-/tree/master/0819-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/anuj2001310/Leetcode-/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anuj2001310/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anuj2001310/Leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1313,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/anuj2001310/Leetcode-/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/anuj2001310/Leetcode-/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/anuj2001310/Leetcode-/tree/master/0812-rotate-string) |
+| [0819-most-common-word](https://github.com/anuj2001310/Leetcode-/tree/master/0819-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/anuj2001310/Leetcode-/tree/master/0841-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/anuj2001310/Leetcode-/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/anuj2001310/Leetcode-/tree/master/0868-push-dominoes) |
@@ -2580,6 +2583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/anuj2001310/Leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/anuj2001310/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/anuj2001310/Leetcode-/tree/master/0767-reorganize-string) |
+| [0819-most-common-word](https://github.com/anuj2001310/Leetcode-/tree/master/0819-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/anuj2001310/Leetcode-/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/anuj2001310/Leetcode-/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/anuj2001310/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
