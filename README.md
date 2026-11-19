@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/anuj2001310/Leetcode-/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anuj2001310/Leetcode-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/anuj2001310/Leetcode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anuj2001310/Leetcode-/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -929,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/anuj2001310/Leetcode-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anuj2001310/Leetcode-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/anuj2001310/Leetcode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anuj2001310/Leetcode-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anuj2001310/Leetcode-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anuj2001310/Leetcode-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1539-diagonal-traverse-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1539-diagonal-traverse-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anuj2001310/Leetcode-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/anuj2001310/Leetcode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anuj2001310/Leetcode-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/anuj2001310/Leetcode-/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/anuj2001310/Leetcode-/tree/master/1840-maximum-building-height) |
@@ -1346,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anuj2001310/Leetcode-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuj2001310/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/anuj2001310/Leetcode-/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/anuj2001310/Leetcode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anuj2001310/Leetcode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anuj2001310/Leetcode-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anuj2001310/Leetcode-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
