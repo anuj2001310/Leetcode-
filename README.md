@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/anuj2001310/Leetcode-/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anuj2001310/Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj2001310/Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anuj2001310/Leetcode-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anuj2001310/Leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/anuj2001310/Leetcode-/tree/master/1364-tuple-with-same-product) |
@@ -1164,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/anuj2001310/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anuj2001310/Leetcode-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj2001310/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/anuj2001310/Leetcode-/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1516,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/anuj2001310/Leetcode-/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anuj2001310/Leetcode-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anuj2001310/Leetcode-/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/anuj2001310/Leetcode-/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1390-four-divisors](https://github.com/anuj2001310/Leetcode-/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anuj2001310/Leetcode-/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -2902,6 +2905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/anuj2001310/Leetcode-/tree/master/0362-design-hit-counter) |
 | [0631-design-excel-sum-formula](https://github.com/anuj2001310/Leetcode-/tree/master/0631-design-excel-sum-formula) |
 | [0635-design-log-storage-system](https://github.com/anuj2001310/Leetcode-/tree/master/0635-design-log-storage-system) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/anuj2001310/Leetcode-/tree/master/1767-design-front-middle-back-queue) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anuj2001310/Leetcode-/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -2917,6 +2921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/anuj2001310/Leetcode-/tree/master/0362-design-hit-counter) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anuj2001310/Leetcode-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/anuj2001310/Leetcode-/tree/master/1767-design-front-middle-back-queue) |
 ## Database
