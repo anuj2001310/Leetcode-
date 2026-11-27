@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/anuj2001310/Leetcode-/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-smallest-unique-subarray](https://github.com/anuj2001310/Leetcode-/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/anuj2001310/Leetcode-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/anuj2001310/Leetcode-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3996-even-number-of-knight-moves](https://github.com/anuj2001310/Leetcode-/tree/master/3996-even-number-of-knight-moves) |
 | [4005-maximum-total-subarray-value-i](https://github.com/anuj2001310/Leetcode-/tree/master/4005-maximum-total-subarray-value-i) |
 | [4024-nearest-available-drone](https://github.com/anuj2001310/Leetcode-/tree/master/4024-nearest-available-drone) |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anuj2001310/Leetcode-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/anuj2001310/Leetcode-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/anuj2001310/Leetcode-/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/anuj2001310/Leetcode-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/anuj2001310/Leetcode-/tree/master/4005-maximum-total-subarray-value-i) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/anuj2001310/Leetcode-/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
@@ -2367,6 +2369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/anuj2001310/Leetcode-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anuj2001310/Leetcode-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anuj2001310/Leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/anuj2001310/Leetcode-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/anuj2001310/Leetcode-/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Matrix
 |  |
